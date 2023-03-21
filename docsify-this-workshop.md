@@ -27,3 +27,7 @@ After attending this session, attendees will be able to:
 * Know how to create and run their own Docsify-This instance
 * Know	how to limit the domains which web pages can be rendered from
 * Know how to customize default page appearance using a ‘custom.css’ file
+
+Contact me to learn more. This workshop is available in-person in the Vancouver area or online.
+
+[Send Paul an Email](mailto:paul@hibbittsdesign.org ':class=button')

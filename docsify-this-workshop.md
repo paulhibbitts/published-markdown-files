@@ -22,3 +22,8 @@ After attending this session, attendees will be able to:
 * Describe how Docsify-This fits into a GitHub Markdown workflow
 * Know how GitHub Desktop can be used with Docsify-This
 * Know how to use a Desktop Text Editor with Docsify-This
+
+## Learning Objectives (Level 3)
+* Know how to create and run their own Docsify-This instance
+* Know	how to limit the domains which web pages can be rendered from
+* Know how to customize default page appearance using a ‘custom.css’ file

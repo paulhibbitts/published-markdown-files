@@ -30,4 +30,4 @@ After attending this session, attendees will be able to:
 
 Contact me to learn more. This workshop is available in-person in the Vancouver area or online.
 
-[Send Paul an Email](mailto:paul@hibbittsdesign.org ':class=button')
+[Send Paul an Email Now](mailto:paul@hibbittsdesign.org ':class=button')

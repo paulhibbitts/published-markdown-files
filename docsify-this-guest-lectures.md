@@ -4,7 +4,7 @@ Are you teaching a UX, Web/Software design, open-source development, or educatio
 
 If so, I’m currently offering guest lectures for local in-person classes focused on the design and development of my open-source project, Docsify-This (a finalist of the 2024 Open Education Global Awards in the Open Infrastructure category https://awards.oeglobal.org/2024-finalists/). These case studies highlight practical strategies for designing and developing open source Web app projects, with insightful examples for both students and instructors.
 
-1️⃣ Strategies for Open-Source Success: Building the Docsify-This Project
+## 1️⃣ Strategies for Open-Source Success: Building the Docsify-This Project
 Overview: Learn key strategies for developing and sustaining a small-scale open source project like Docsify-This.
 
 Possible topics include:
@@ -17,7 +17,7 @@ Possible topics include:
 - Engage with users where they are
 - Consider project sustainability up-front
 
-2️⃣ The Open Source Docsify-This Project: An Interaction Design Case Study
+## 2️⃣ The Open Source Docsify-This Project: An Interaction Design Case Study
 Overview: Explore the design techniques that made Docsify-This a user-friendly tool through real-world interaction design practices.
 
 We’ll discuss various applied techniques, which may include:
@@ -29,7 +29,7 @@ We’ll discuss various applied techniques, which may include:
 - Applying progressive (workflow) disclosure
 - Incorporating documentation into UX design
 
-3️⃣ Big Design, Small Design: A Case Study of the Open Source Project Docsify-This
+## 3️⃣ Big Design, Small Design: A Case Study of the Open Source Project Docsify-This
 Overview: Explore the balance between high-level strategy and detailed design in the building of Docsify-This.
 
 Examples of Big Design:

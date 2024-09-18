@@ -2,7 +2,7 @@
 
 Are you teaching a UX, Web/Software design, open-source development, or educational technology course in Vancouver/Burnaby/Surrey this Fall?
 
-If so, I’m currently offering guest lectures for local in-person classes focused on the design and development of my open-source project, [Docsify-This.net](https://Docsify-This.net) (a finalist of the 2024 Open Education Global Awards in the Open Infrastructure category https://awards.oeglobal.org/2024-finalists/). These case studies highlight practical strategies for designing and developing open source Web app projects, with insightful examples for both students and instructors.
+If so, I’m currently offering guest talks/discussions for local in-person classes focused on the design and development of my open-source project, [Docsify-This.net](https://Docsify-This.net) (a finalist of the 2024 Open Education Global Awards in the Open Infrastructure category https://awards.oeglobal.org/2024-finalists/). These case studies highlight practical strategies for designing and developing open source Web app projects, with insightful examples for both students and instructors.
 
 ## 1️⃣ Strategies for Open-Source Success: Building the Docsify-This Project
 Overview: Learn key strategies for developing and sustaining a small-scale open source project like Docsify-This.

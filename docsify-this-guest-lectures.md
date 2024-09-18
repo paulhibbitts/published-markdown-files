@@ -1,4 +1,4 @@
-# Docsify-This Guest Lectures
+# Docsify-This Guest Talks
 
 Are you teaching a UX, Web/Software design, open-source development, or educational technology course in Vancouver/Burnaby/Surrey this Fall?
 

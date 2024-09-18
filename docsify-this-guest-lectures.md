@@ -50,4 +50,6 @@ Examples of Small Design:
 
 If any of the above sounds of interest, message me via LinkedIn or email at paul@hibbittsdesign.org and we can discuss possibilities. I’m also happy to work with you to tailor these case studies to fit your course focus and student needs.
 
+## Open-Source Software to Empower Digitally Curious Open Publishers, Educators, and Creators
+
 ![Three hand-drawn abstract icons on a flowing, multi-coloured background suggesting digital waves. The first icon represents 'open', the second icon represents 'empowered', and the third icon represents 'publishing.'](images/hibbitts-design-icons.png)

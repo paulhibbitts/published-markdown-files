@@ -38,4 +38,4 @@
 
 ### Tracking Work That Energizes You
 
-CC BY 4.0, Paul Hibbitts 2023
+CC BY 4.0, Paul Hibbitts 2025

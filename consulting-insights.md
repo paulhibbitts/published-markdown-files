@@ -1,6 +1,6 @@
 # Consulting Insights to Level Up Your Job-Hunting and Career Development
 
-1. ## Building a Strategic Career Foundation
+## 1. Building a Strategic Career Foundation
 
 ### Articulating Your Value Proposition
 
@@ -10,7 +10,7 @@
 
 ### Leveraging UX Approaches on Your Career
 
-2. ## Shaping and Communicating Your Personal Brand
+## 2. Shaping and Communicating Your Personal Brand
 
 ### Crafting Messaging and Positioning Strategies
 
@@ -18,7 +18,7 @@
 
 ### Improving Networking and Visibility on LinkedIn
 
-3. ## Cultivating Key Relationships and Building Trust
+## 3. Cultivating Key Relationships and Building Trust
 
 ### Blending Professional Expertise with Strong People Skills
 
@@ -28,7 +28,7 @@
 
 ### Identifying What Success for Others Looks Like
 
-4. ## Driving Growth and Continuous Improvement
+## 4. Driving Growth and Continuous Improvement
 
 ### Iterating on Skills and Techniques to Drive Growth
 

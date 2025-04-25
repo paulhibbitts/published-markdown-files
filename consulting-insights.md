@@ -8,6 +8,8 @@
 
 ### Defining Your Unique Niche to Hone In on Opportunities
 
+### Reverse Engineering Market Opportunities
+
 ### Leveraging UX Approaches on Your Career
 
 ## 2. Shaping and Communicating Your Personal Brand

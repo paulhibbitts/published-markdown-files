@@ -1,6 +1,6 @@
 # Consulting Insights to Level Up Your Job-Hunting and Tech Career Development
 
-## 1. Building a Strategic Career Foundation
+## I. Building a Strategic Career Foundation
 
 ### Articulating Your Value Proposition
 
@@ -22,7 +22,7 @@ Analyze public information about companies and roles to better understand what e
 
 Apply user experience design approaches to help plan and optimize your career development.
 
-## 2. Shaping and Communicating Your Personal Brand
+## II. Shaping and Communicating Your Personal Brand
 
 ### Crafting Messaging and Positioning Strategies
 
@@ -36,7 +36,7 @@ Leverage aspects of engaging storytelling to connect with potential employers an
 
 Create an effective headline, summary and other elements to attract opportunities, strengthen your position and expand your network.
 
-## 3. Cultivating Key Relationships and Building Trust
+## III. Cultivating Key Relationships and Building Trust
 
 ### Strengthening Relationships by Sharing Knowledge Generously
 
@@ -54,7 +54,7 @@ Combine technical skills with strong interpersonal skills to build rapport and c
 
 Understand the needs of potential stakeholders and team members and tailor your approach to align with their goals.
 
-## 4. Driving Growth and Continuous Improvement
+## IV. Driving Growth and Continuous Improvement
 
 ### Tracking Work That Energizes You
 

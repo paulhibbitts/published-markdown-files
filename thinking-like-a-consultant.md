@@ -4,11 +4,11 @@
 
 _Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career_ (v1.1) [**https://xmind.ai/share/SHUgdFW0?xid=9u1V19iI**](https://xmind.ai/share/0mt9WyxW?xid=E7RCxMns)
 
-## **Why the Consulting Mindset Matters for Your Career**
+## Why the Consulting Mindset Matters for Your Career
 
 Success in today's tech job market requires more than technical skills. It demands strategic thinking, adaptability, and thoughtful planning. Adopting a user experience (UX) consultant mindset enables you to approach your career challenges strategically, creating actionable solutions for success.
 
-## **Applying the Consulting Mindset for Your Career**
+## Applying the Consulting Mindset for Your Career
 
 UX consultants, like many other consultants, focus on uncovering their client’s goals and challenges and building trusting relationships by tailoring their solutions to address key needs. Similarly, you can approach networking and interviews with the mindset of demonstrating how your skills can meet an employer’s priorities. For instance, a consultant might tailor service descriptions to attract clients whose needs align with their expertise, just as customizing your LinkedIn profile or resume helps you showcase your value to prospective employers.
 
@@ -16,7 +16,7 @@ Additionally, UX consultants continuously refine their methods by analyzing feed
 
 By adapting these consulting principles, you can align career strategies with your personal goals, create meaningful connections, and focus on continuous improvement through iteration and growth.
 
-## **Key Career Strategies from This Collection**
+## Key Career Strategies from This Collection
 
 This collection offers strategies to:
 
@@ -25,9 +25,9 @@ This collection offers strategies to:
 - Cultivate meaningful relationships
 - Focus on continuous growth
 
-## **Thinking Like a Consultant: Career Strategies**
+## Thinking Like a Consultant: Career Strategies
 
-### **I. Building a Strategic Career Foundation**
+### I. Building a Strategic Career Foundation
 
 *To succeed in your tech career and navigate the job market confidently, it's vital to start with a strong foundation. In this section, you'll learn how to identify your strengths, emphasize your value, and position yourself to take advantage of opportunities.*
 
@@ -52,7 +52,7 @@ This collection offers strategies to:
     *Apply user experience design approaches, like user-centered design (focusing on goals), journey mapping (visualizing steps), and prototyping (testing ideas), to develop your career path.*
     
 
-### **II. Building and Communicating Your Personal Brand**
+### II. Building and Communicating Your Personal Brand
 
 *Once you've identified your skills and career goals, the next crucial step is creating a compelling personal brand. This section will show you how to tailor your communication and craft a narrative that effectively showcases your career story to employers.*
 
@@ -69,7 +69,7 @@ This collection offers strategies to:
     *Create an effective headline, summary and other elements to attract opportunities, strengthen your position and expand your network.*
     
 
-### **III. Cultivating Relationships and Building Trust**
+### **III. Cultivating Relationships and Building Trust
 
 *Networking, sharing knowledge, and fostering trust are key to forming meaningful connections. This section shows you how to enhance relationships and build a supportive network for your tech career.*
 
@@ -90,7 +90,7 @@ This collection offers strategies to:
     *Understand the needs of potential stakeholders and team members and tailor your approach to align with their goals.*
     
 
-### **IV. Driving Growth and Continuous Improvement**
+### **IV. Driving Growth and Continuous Improvement
 
 *While building trust and relationships is vital, sustained success comes from a commitment to continuous growth. This section explores how to energize your career, sharpen your skills, and ensure consistent learning through intentional actions.*
 
@@ -113,7 +113,7 @@ This collection offers strategies to:
 
 By embracing the consulting mindset and applying these strategies, you can improve the clarity and confidence to take charge of your career, transform challenges into opportunities, and achieve better long-term success in the evolving tech job market.
 
-## **Recommended Career Books**
+## Recommended Career Books
 
 [Modernize Your Resume—3rd Edition](https://emerald-career-publishing.myshopify.com/products/modernize-your-resume)
 

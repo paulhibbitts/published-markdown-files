@@ -1,4 +1,4 @@
-# Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career (v1.1)
+# Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career
 
 ![Mind map outlining consulting insights for job hunting and career development, categorized into four sections: building a strategic career foundation, crafting a compelling personal brand, cultivating key relationships and building trust, and driving growth and continuous improvement.](images/thinking-like-a-consultant.png)
 

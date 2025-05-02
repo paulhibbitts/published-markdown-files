@@ -2,9 +2,7 @@
 
 ![Mind map outlining consulting insights for job hunting and career development, categorized into four sections: building a strategic career foundation, crafting a compelling personal brand, cultivating key relationships and building trust, and driving growth and continuous improvement.](images/thinking-like-a-consultant.png)
 
-**Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career** (v1.1) [**https://xmind.ai/share/SHUgdFW0?xid=9u1V19iI**](https://xmind.ai/share/0mt9WyxW?xid=E7RCxMns)
-
-## Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career
+_Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career_ (v1.1) [**https://xmind.ai/share/SHUgdFW0?xid=9u1V19iI**](https://xmind.ai/share/0mt9WyxW?xid=E7RCxMns)
 
 Success in today's tech job market requires more than technical skills. It demands strategic thinking, adaptability, and thoughtful planning. Adopting a user experience (UX) consultant mindset enables you to approach your career challenges strategically, creating actionable solutions for success.
 

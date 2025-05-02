@@ -69,7 +69,7 @@ This collection offers strategies to:
     *Create an effective headline, summary and other elements to attract opportunities, strengthen your position and expand your network.*
     
 
-### **III. Cultivating Relationships and Building Trust
+### III. Cultivating Relationships and Building Trust
 
 *Networking, sharing knowledge, and fostering trust are key to forming meaningful connections. This section shows you how to enhance relationships and build a supportive network for your tech career.*
 
@@ -90,7 +90,7 @@ This collection offers strategies to:
     *Understand the needs of potential stakeholders and team members and tailor your approach to align with their goals.*
     
 
-### **IV. Driving Growth and Continuous Improvement
+### IV. Driving Growth and Continuous Improvement
 
 *While building trust and relationships is vital, sustained success comes from a commitment to continuous growth. This section explores how to energize your career, sharpen your skills, and ensure consistent learning through intentional actions.*
 

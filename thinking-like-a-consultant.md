@@ -100,16 +100,16 @@ By adopting the consulting mindset and applying these strategies, you'll have ad
 
 **Recommended Related Books**
 
-[Modernize Your Resume—3rd Edition](https://emerald-career-publishing.myshopify.com/products/modernize-your-resume)
+[Modernize Your Resume—3rd Edition](https://emerald-career-publishing.myshopify.com/products/modernize-your-resume)  
 I really like the way Modernize Your Resume focuses on both resume and LinkedIn profile development.
 
-[What Color is Your Parachute?](https://parachutebook.com/)
+[What Color is Your Parachute?](https://parachutebook.com/)  
 This book really resonated with me with regards to my own professional development journey with my career.
 
-[The Book — Working Out Loud ®](https://www.workingoutloud.com/book)
+[The Book — Working Out Loud ®](https://www.workingoutloud.com/book)  
 My career development has greatly benefited with my efforts to share knowledge and experiences with others.
 
-[Do Over: Make Today the First Day of Your New Career - The Roundtable](https://goroundtable.com/blog/do-over-make-today-the-first-day-of-your-new-career/)
+[Do Over: Make Today the First Day of Your New Career - The Roundtable](https://goroundtable.com/blog/do-over-make-today-the-first-day-of-your-new-career/)  
 I found some relatable insights in this book, especially as I moved focus from my professional UX consulting career to teaching more to participating in open source work.
 
 **CC BY 4.0, Paul Hibbitts 2025**

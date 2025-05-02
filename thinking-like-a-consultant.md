@@ -98,7 +98,7 @@ This outline offers strategies to identify your strengths, build a strong person
 
 By adopting the consulting mindset and applying these strategies, you'll have additional tools to navigate your career more effectively. This intentional, growth-oriented approach will help you achieve meaningful success in your job-hunting and tech career development.
 
-**Recommended Related Books**
+## Recommended Related Books
 
 [Modernize Your Resume—3rd Edition](https://emerald-career-publishing.myshopify.com/products/modernize-your-resume)  
 I really like the way Modernize Your Resume focuses on both resume and LinkedIn profile development.

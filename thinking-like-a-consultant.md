@@ -113,7 +113,7 @@ This collection offers strategies to:
 
 By embracing the consulting mindset and applying these strategies, you can improve the clarity and confidence to take charge of your career, transform challenges into opportunities, and achieve better long-term success in the evolving tech job market.
 
-## Recommended Career Books
+## Recommended Career Development Books
 
 [Modernize Your Resume—3rd Edition](https://emerald-career-publishing.myshopify.com/products/modernize-your-resume)
 

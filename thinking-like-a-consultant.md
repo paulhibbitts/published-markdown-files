@@ -35,24 +35,19 @@ This collection offers strategies to:
 
 *To succeed in your tech career and navigate the job market confidently, it's vital to start with a strong foundation. In this section, you'll learn how to identify your strengths, emphasize your value, and position yourself to take advantage of opportunities.*
 
-1. Articulating Your Value Proposition
-    
+1. Articulating Your Value Proposition  
     *Identify the unique skills and benefits you offer to potential employers.*
     
-2. Prioritizing Outcomes Over Outputs
-    
+2. Prioritizing Outcomes Over Outputs  
     *Focus on showing the impact of your work, not just the deliverables you provide.*
     
-3. Defining Your Unique Niche to Hone In on Opportunities
-    
+3. Defining Your Unique Niche to Hone In on Opportunities  
     *Assess your skills and interests in relation to market demand and competition to target possible niches.*
     
-4. Reverse Engineering Market Opportunities
-    
+4. Reverse Engineering Market Opportunities  
     *Analyze public information about companies and roles to better understand what employers are looking for.*
     
-5. Leveraging UX Approaches on Your Career
-    
+5. Leveraging UX Approaches on Your Career  
     *Apply user experience design approaches, like user-centered design (focusing on goals), journey mapping (visualizing steps), and prototyping (testing ideas), to develop your career path.*
     
 

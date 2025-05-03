@@ -103,16 +103,16 @@ By embracing the consulting mindset and applying these strategies, you can impro
 
 ## Recommended Career Development Books
 
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://emerald-career-publishing.myshopify.com/products/modernize-your-resume">Modernize Your Resume</a>
+[Modernize Your Resume—3rd Edition](https://emerald-career-publishing.myshopify.com/products/modernize-your-resume)  
 _I really like the way Modernize Your Resume focuses on both resume and LinkedIn profile development._
 
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://parachutebook.com/">What Color is Your Parachute?</a>
+[What Color is Your Parachute?](https://parachutebook.com/)  
 _This book really resonated with me with regards to my own professional development journey with my career._
 
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.workingoutloud.com/book">Working Out Loud</a>
+[The Book — Working Out Loud ®](https://www.workingoutloud.com/book)  
 _My career development has greatly benefited with my efforts to share knowledge and experiences with others._
 
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://goroundtable.com/blog/do-over-make-today-the-first-day-of-your-new-career/">Do Over: Make Today the First Day of Your New Career - The Roundtable</a>
+[Do Over: Make Today the First Day of Your New Career - The Roundtable](https://goroundtable.com/blog/do-over-make-today-the-first-day-of-your-new-career/)  
 _I found some relatable insights in this book, especially as I moved focus from my professional UX consulting career to teaching more to participating in open source work._
 
 ---

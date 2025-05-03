@@ -36,78 +36,67 @@ This collection offers strategies to:
 *To succeed in your tech career and navigate the job market confidently, it's vital to start with a strong foundation. In this section, you'll learn how to identify your strengths, emphasize your value, and position yourself to take advantage of opportunities.*
 
 1. Articulating Your Value Proposition  
-    *Identify the unique skills and benefits you offer to potential employers.*
+    _Identify the unique skills and benefits you offer to potential employers._
     
 2. Prioritizing Outcomes Over Outputs  
-    *Focus on showing the impact of your work, not just the deliverables you provide.*
+    _Focus on showing the impact of your work, not just the deliverables you provide._
     
 3. Defining Your Unique Niche to Hone In on Opportunities  
-    *Assess your skills and interests in relation to market demand and competition to target possible niches.*
+    _Assess your skills and interests in relation to market demand and competition to target possible niches._
     
 4. Reverse Engineering Market Opportunities  
-    *Analyze public information about companies and roles to better understand what employers are looking for.*
+    _Analyze public information about companies and roles to better understand what employers are looking for._
     
 5. Leveraging UX Approaches on Your Career  
-    *Apply user experience design approaches, like user-centered design (focusing on goals), journey mapping (visualizing steps), and prototyping (testing ideas), to develop your career path.*
+    _Apply user experience design approaches, like user-centered design (focusing on goals), journey mapping (visualizing steps), and prototyping (testing ideas), to develop your career path._
     
 
 ### II. Building and Communicating Your Personal Brand
 
-*Once you've identified your skills and career goals, the next crucial step is creating a compelling personal brand. This section will show you how to tailor your communication and craft a narrative that effectively showcases your career story to employers.*
+*Once you've identified your skills and career goals, the next crucial step is creating a compelling personal brand. This section will show you how to tailor your communication and craft a narrative that effectively showcases your career story to employers._
 
-1. Crafting Messaging and Positioning Strategies
+1. Crafting Messaging and Positioning Strategies  
+    _Tailor communication so that it is aligned with both your skills and career goals._
     
-    *Tailor communication so that it is aligned with both your skills and career goals.*
+2. Connecting with Others Through Engaging Storytelling  
+    _Leverage aspects of engaging storytelling to connect with potential employers and build relationships._
     
-2. Connecting with Others Through Engaging Storytelling
-    
-    *Leverage aspects of engaging storytelling to connect with potential employers and build relationships.*
-    
-3. Optimizing Your LinkedIn Profile and Network
-    
-    *Create an effective headline, summary and other elements to attract opportunities, strengthen your position and expand your network.*
+3. Optimizing Your LinkedIn Profile and Network  
+    _Create an effective headline, summary and other elements to attract opportunities, strengthen your position and expand your network._
     
 
 ### III. Cultivating Relationships and Building Trust
 
-*Networking, sharing knowledge, and fostering trust are key to forming meaningful connections. This section shows you how to enhance relationships and build a supportive network for your tech career.*
+*Networking, sharing knowledge, and fostering trust are key to forming meaningful connections. This section shows you how to enhance relationships and build a supportive network for your tech career._
 
-1. Strengthening Relationships by Sharing Knowledge Generously
+1. Strengthening Relationships by Sharing Knowledge Generously  
+    _Build trust and connections by sharing your expertise and insights with others._
     
-    *Build trust and connections by sharing your expertise and insights with others.*
+2. Building Trust Through Actions  
+    _Consistently deliver on your commitments to build confidence in your capabilities._
     
-2. Building Trust Through Actions
+3. Blending Professional Expertise with Strong People Skills  
+    _Combine strong interpersonal skills along with technical skills to build rapport and credibility._
     
-    *Consistently deliver on your commitments to build confidence in your capabilities.*
-    
-3. Blending Professional Expertise with Strong People Skills
-    
-    *Combine strong interpersonal skills along with technical skills to build rapport and credibility.*
-    
-4. Identifying What Success for Others Looks Like
-    
-    *Understand the needs of potential stakeholders and team members and tailor your approach to align with their goals.*
+4. Identifying What Success for Others Looks Like  
+    _Understand the needs of potential stakeholders and team members and tailor your approach to align with their goals._
     
 
 ### IV. Driving Growth and Continuous Improvement
 
-*While building trust and relationships is vital, sustained success comes from a commitment to continuous growth. This section explores how to energize your career, sharpen your skills, and ensure consistent learning through intentional actions.*
+*While building trust and relationships is vital, sustained success comes from a commitment to continuous growth. This section explores how to energize your career, sharpen your skills, and ensure consistent learning through intentional actions._
 
-1. Tracking Work That Energizes You
+1. Tracking Work That Energizes You  
+    _Note activities and situations that motivate you and use those insights to guide your career choices and focus._
     
-    *Note activities and situations that motivate you and use those insights to guide your career choices and focus.*
+2. Iterating on Skills and Techniques for Continuous Growth  
+    _Continuously refine your skills and approaches by looking for project opportunities to introduce new techniques and assess results._
     
-2. Iterating on Skills and Techniques for Continuous Growth
+3. Shifting from Reactive to Proactive  
+    _Take the initiative to seek out and create opportunities, rather than waiting for them to possibly appear._
     
-    *Continuously refine your skills and approaches by looking for project opportunities to introduce new techniques and assess results.*
-    
-3. Shifting from Reactive to Proactive
-    
-    *Take the initiative to seek out and create opportunities, rather than waiting for them to possibly appear.*
-    
-4. Dedicating Weekly Time for Learning and Growth
-    
-    *Make learning a scheduled appointment to expand your skills and stay relevant.*
+4. Dedicating Weekly Time for Learning and Growth  
+    _Make learning a scheduled appointment to expand your skills and stay relevant._
     
 
 By embracing the consulting mindset and applying these strategies, you can improve the clarity and confidence to take charge of your career, transform challenges into opportunities, and achieve better long-term success in the evolving tech job market.

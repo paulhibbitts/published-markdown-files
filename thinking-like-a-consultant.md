@@ -107,6 +107,8 @@ By embracing the consulting mindset and applying these strategies, you can impro
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://emerald-career-publishing.myshopify.com/products/modernize-your-resume" data-iframely-url="//iframely.net/CvoNMZE"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://emerald-career-publishing.myshopify.com/products/modernize-your-resume">Modernize Your Resume</a>
+
 _I really like the way Modernize Your Resume focuses on both resume and LinkedIn profile development._
 
 [What Color is Your Parachute?](https://parachutebook.com/)  

@@ -104,6 +104,7 @@ By embracing the consulting mindset and applying these strategies, you can impro
 ## Recommended Career Development Books
 
 [Modernize Your Resume—3rd Edition](https://emerald-career-publishing.myshopify.com/products/modernize-your-resume)  
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://emerald-career-publishing.myshopify.com/products/modernize-your-resume" data-iframely-url="//iframely.net/CvoNMZE"></a></div></div><script async src="//iframely.net/embed.js"></script>
 _I really like the way Modernize Your Resume focuses on both resume and LinkedIn profile development._
 
 [What Color is Your Parachute?](https://parachutebook.com/)  

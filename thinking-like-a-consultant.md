@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/refs/heads/main/images/thinking-like-a-consultant.png" alt="Mind map outlining consulting insights for job hunting and career development, categorized into four sections: building a strategic career foundation, crafting a compelling personal brand, cultivating key relationships and building trust, and driving growth and continuous improvement." style="margin-top: 16px;">
 </picture>
 <p>
-  <em>Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career (v1.1)</em> <a href="https://xmind.ai/share0mt9WyxW?xid=E7RCxMns">https://xmind.ai/share0mt9WyxW?xid=E7RCxMns</a>
+  <em>Thinking Like a Consultant to Level Up Your Tech Job Hunt and Career (v1.1)</em> <a href="https://xmind.ai/0mt9WyxW?xid=qWMyiGpD">https://xmind.ai/share/0mt9WyxW?xid=qWMyiGpD</a>
 </p>
 
 ## Why the Consulting Mindset Matters for Your Career

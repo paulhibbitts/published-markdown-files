@@ -111,7 +111,7 @@ By embracing the consulting mindset and applying these strategies, you can impro
 
 _I really like the way Modernize Your Resume focuses on both resume and LinkedIn profile development._
 
-[What Color is Your Parachute?](https://parachutebook.com/)  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://parachutebook.com/">What Color is Your Parachute?</a>
 _This book really resonated with me with regards to my own professional development journey with my career._
 
 [The Book — Working Out Loud ®](https://www.workingoutloud.com/book)  

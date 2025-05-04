@@ -29,7 +29,7 @@ This collection offers strategies to:
 - Cultivate meaningful relationships
 - Focus on continuous growth
 
-## Career Strategies Inspired by Consulting Thinking
+## Consulting-Inspired Career Strategies
 
 ### I. Building a Strategic Career Foundation
 

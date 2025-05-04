@@ -36,19 +36,19 @@ This collection offers strategies to:
 _To succeed in your tech career and navigate the job market confidently, it's vital to start with a strong foundation. In this section, you'll learn how to identify your strengths, emphasize your value, and position yourself to take advantage of opportunities._
 
 1. Articulating Your Value Proposition  
-    _Identify the unique skills and benefits you offer to potential employers._
+    _A value proposition succinctly communicates the distinct advantages you offer to employers. It clarifies how your skills translate into real results, making you more memorable and marketable. For example: “I help teams launch accessible digital products by combining UX research and agile development.”_
     
 2. Prioritizing Outcomes Over Outputs  
-    _Focus on showing the impact of your work, not just the deliverables you provide._
+    _Outputs are the tasks you complete (such as designing a user interface), while outcomes are the results or impact that work achieves (such as lowering onboarding time). Focus on how your work creates change._
     
 3. Defining Your Unique Niche to Hone In on Opportunities  
-    _Assess your skills and interests in relation to market demand and competition to target possible niches._
+    _Assess your skills and interests, and how they relate to market demand and competition to target possible niches._
     
 4. Reverse Engineering Market Opportunities  
-    _Analyze public information about companies and roles to better understand what employers are looking for._
+    _Analyze company job descriptions, team pages, LinkedIn profiles, and recent product launches to spot in-demand skills and attributes. Map your experience to these needs to position yourself as the solution hiring managers and recruiters are seeking._
     
 5. Leveraging UX Approaches on Your Career  
-    _Apply user experience design approaches, like user-centered design (focusing on goals), journey mapping (visualizing steps), and prototyping (testing ideas), to develop your career path._
+    _In user experience design, journey mapping means visualizing every step a user takes; do the same by mapping your career’s key stages, transitions, and goals. Prototyping can mean testing a career pivot with a small freelance project before fully committing to a new direction. User-centered design encourages you to regularly check that your path aligns with your goals, making iterative adjustments as needed._
     
 
 ### II. Building and Communicating Your Personal Brand
@@ -70,10 +70,10 @@ _Once you've identified your skills and career goals, the next crucial step is c
 _Networking, sharing knowledge, and fostering trust are key to forming meaningful connections. This section shows you how to enhance relationships and build a supportive network for your tech career._
 
 1. Strengthening Relationships by Sharing Knowledge Generously  
-    _Build trust and connections by sharing your expertise and insights with others._
+    _Help support trust and strengthen connections by sharing your expertise and insights with others._
     
 2. Building Trust Through Actions  
-    _Consistently deliver on your commitments to build confidence in your capabilities._
+    _Build trust by following up quickly, being open about progress, sharing any bad news early, and giving regular updates to teammates and collaborators. These habits are especially critical in distributed or cross-functional teams, where trust builds strong collaborations._
     
 3. Blending Professional Expertise with Strong People Skills  
     _Combine strong interpersonal skills along with technical skills to build rapport and credibility._
@@ -96,7 +96,7 @@ _While building trust and relationships is vital, sustained success comes from a
     _Take the initiative to seek out and create opportunities, rather than waiting for them to possibly appear._
     
 4. Dedicating Weekly Time for Learning and Growth  
-    _Make learning a scheduled appointment to expand your skills and stay relevant._
+    _Schedule a recurring block on your calendar for professional reading, independent research, online courses, webinars, or skill practice. Even 30 minutes twice a week can make a significant impact._
     
 
 By embracing the consulting mindset and applying these strategies, you can improve the clarity and confidence to take charge of your career, transform challenges into opportunities, and achieve better long-term success in the evolving tech job market.

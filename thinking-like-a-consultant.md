@@ -12,7 +12,7 @@
 
 Success in today's tech job market requires more than technical skills. It demands strategic thinking, adaptability, and thoughtful planning. Adopting a user experience (UX) consultant mindset enables you to approach your career challenges strategically, creating actionable solutions for success.
 
-## How to Apply the Consulting Mindset to Your Career
+## Embracing the Consulting Mindset
 
 UX consultants, like many other consultants, focus on uncovering their client’s goals and challenges and building trusting relationships by tailoring their solutions to address key needs. Similarly, you can approach networking and interviews with the mindset of demonstrating how your skills can meet an employer’s priorities. For instance, a consultant might tailor service descriptions to attract clients whose needs align with their expertise, just as customizing your LinkedIn profile or resume helps you showcase your value to prospective employers.
 

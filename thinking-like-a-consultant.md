@@ -56,13 +56,13 @@ _To succeed in your tech career and navigate the job market confidently, it's vi
 _Once you've identified your skills and career goals, the next crucial step is creating a compelling personal brand. This section will show you how to tailor your communication and craft a narrative that effectively showcases your career story to employers._
 
 1. Crafting Messaging and Positioning Strategies  
-    _Tailor communication so that it is aligned with both your skills and career goals._
+    _Craft messaging that clearly conveys your value and unique strengths. Position yourself in line with your skills and career aspirations, ensuring your communications resonate with your target audience and highlight the qualities that set you apart._
     
 2. Connecting with Others Through Engaging Storytelling  
-    _Leverage aspects of engaging storytelling to connect with potential employers and build relationships._
+    _Use storytelling techniques to share concrete examples of your work, much like you would in a portfolio. An effective story highlights a key challenge, describes your approach, and shares the results — showcasing your impact and making your experience memorable for potential employers or collaborators._
     
 3. Optimizing Your LinkedIn Profile and Network  
-    _Create an effective headline, summary and other elements to attract opportunities, strengthen your position and expand your network._
+    _Create an effective LinkedIn headline (not just title — benefits delivered/what you do, key skills/social proof), a summary (a strategic high-level narrative with a strong opening value proposition and highlights of your impact, credibility and milestones), and other profile elements to attract opportunities, strengthen your position, and expand your network._
     
 
 ### III. Cultivating Relationships and Building Trust

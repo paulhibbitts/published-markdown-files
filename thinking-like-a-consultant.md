@@ -62,7 +62,7 @@ _Once you've identified your skills and career goals, the next crucial step is c
     _Use storytelling techniques to share concrete examples of your work, much like you would in a portfolio. An effective story highlights a key challenge, describes your approach, and shares the results — showcasing your impact and making your experience memorable for potential employers or collaborators._
     
 3. Optimizing Your LinkedIn Profile and Network  
-    _Create an effective LinkedIn headline (not just title — benefits delivered/what you do, key skills/social proof), a summary (a strategic high-level narrative with a strong opening value proposition and highlights of your impact, credibility and milestones), and other profile elements to attract opportunities, strengthen your position, and expand your network._
+    _Create an effective LinkedIn headline (not just title — benefits delivered/what you do and key skills/social proof), a summary (a strategic high-level narrative with a strong opening value proposition and highlights of your impact, credibility and milestones), and other profile elements to attract opportunities, strengthen your position, and expand your network._
     
 
 ### III. Cultivating Relationships and Building Trust

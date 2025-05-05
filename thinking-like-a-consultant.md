@@ -90,7 +90,7 @@ _While building trust and relationships is vital, sustained success comes from a
     _Note activities and situations that motivate you and use those insights to guide your career choices and focus._
     
 2. Iterating on Skills and Techniques for Continuous Growth  
-    _Continuously refine your skills and approaches by looking for project opportunities to introduce new techniques and assess results._
+    _Just as UX consultants test prototypes iteratively to achieve optimized results, continuously refine your skills and approaches by experimenting with new techniques and assessing their impact through possible project opportunities._
     
 3. Shifting from Reactive to Proactive  
     _Take the initiative to seek out and create opportunities, rather than waiting for them to possibly appear._

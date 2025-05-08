@@ -119,4 +119,4 @@ _Last updated: May 8, 2025_
 
 ---
 
-**CC BY 4.0, Paul Hibbitts 2025**
+**CC BY 4.0, [Paul Hibbitts](https://www.linkedin.com/in/paulhibbitts/) 2025**

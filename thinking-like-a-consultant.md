@@ -115,6 +115,8 @@ _My career development has greatly benefited with my efforts to share knowledge 
 **[Do Over: Make Today the First Day of Your New Career](https://goroundtable.com/blog/do-over-make-today-the-first-day-of-your-new-career/ ':target=_blank')**  
 _I found some relatable insights in this book, especially as I moved focus from my professional UX consulting career to teaching more to participating in open source work._
 
+_Last updated: May 8, 2025_
+
 ---
 
 **CC BY 4.0, Paul Hibbitts 2025**

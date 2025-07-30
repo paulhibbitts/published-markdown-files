@@ -8,7 +8,7 @@ _Separation of Content and Presentation_ enables the same Markdown to function a
 
 What participants will learn:
 
-* Describe Docsify-This's purpose and key usage scenarios
+* Describe the purpose and key usage scenarios of Docsify-This
 * Display Markdown files as web pages using the Web Page Builder
 * Change visual appearance of rendered pages
 * Share and reuse Docsify-This content across platforms

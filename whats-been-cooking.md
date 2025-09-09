@@ -1,5 +1,9 @@
 # What’s Been Cooking with the DIY Web Publishing Tool Docsify-This Since 2023?
 
-Join Paul Hibbitts for an interactive look at the significant developments that have shaped [Docsify-This](https://docsify-this.net) since 2023 into an even more capable Web OER publication and sharing platform. Discover new templates, enhanced visual styling, and loading custom Web Page Builder settings for streamlined LMS integration. Driven by the six core design principles of Docsify-This[^1], see recent features like custom back-links for multiple content usage scenarios, support for authors helping authors via appended URL parameters, updated docs including when and when not Docsify-This might be a good fit, and a more refined Web Page Builder interface. This session showcases possible open educator/publisher scenarios of use through live demonstrations of these enhanced capabilities.
+Join Paul Hibbitts for an interactive look at the significant developments that have shaped [Docsify-This](https://docsify-this.net) since 2023 into an even more capable Web OER publication and sharing platform.
+
+Discover new templates, enhanced visual styling, and loading custom Web Page Builder settings for streamlined LMS integration. Driven by the six core design principles of Docsify-This[^1], see recent features like custom back-links for multiple content usage scenarios, support for authors helping authors via appended URL parameters, updated docs including when and when not Docsify-This might be a good fit, and a more refined Web Page Builder interface.
+
+This session showcases possible open educator/publisher scenarios of use through live demonstrations of these enhanced capabilities.
 
 [^1]: Zero Maintenance Publishing, Separation of Content and Presentation, Platform Independence and Choice, Your Content Your Control, Support the 5 Rs of OER, and Authors Helping Other Authors

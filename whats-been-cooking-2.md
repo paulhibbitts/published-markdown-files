@@ -1,4 +1,4 @@
-# What’s Been Cooking with the DIY Web Publishing Tool Docsify-This Since 2023?
+# What’s Been Cooking with the DIY Web Publishing Tool Docsify-This?
 
 Transform online Markdown files into styled webpages in seconds, or create entire websites - no hosting, no coding, no cost. Join open source author and former SFU instructor Paul Hibbitts for an interactive look at significant developments since 2023 that have made [Docsify-This](https://docsify-this.net) an even more capable OER publication platform.
 

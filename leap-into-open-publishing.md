@@ -1,4 +1,4 @@
-# Leap into Open Publishing with Docsify&#8209;This!
+# Leap into Open Publishing with Docsify‑This!
 
 This interactive session invites tech-curious educators and authors to take the leap into the world of open publishing. We'll explore how Docsify-This, an open source tool built with Docsify.js.org (30K+ GitHub stars), significantly lowers barriers by transforming public Markdown files into styled web pages without requiring technical infrastructure.
 

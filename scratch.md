@@ -14,7 +14,7 @@
 | 🎨 Style Lab | PUBLISH your page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Scavenger Hunt | MATCH a design! |
-| Templates & Resources | Grab links to save |
+| Presets & Templates | Grab links to save |
 | Q&A & Next Steps | Ask questions! |
 
 ---

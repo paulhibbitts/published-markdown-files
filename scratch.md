@@ -10,7 +10,7 @@
 |------------------|-------------|
 | Intro | Watch the magic! |
 | Web Page Builder Demo | View the workflow |
-| 🎨 Challenge 1: Style Lab | PUBLISH your page! |
+| 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Scavenger Hunt | MATCH a design! |
 | Next Steps + Q&A | Ask questions! |

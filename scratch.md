@@ -37,7 +37,7 @@ https://docsify-this.net
 
 ---
 
-## 🎨 Style Lab
+## 🎨 Challenge 1: Style Lab
 
 ### Your Mission
 Transform this Markdown file YOUR way:
@@ -110,7 +110,7 @@ https://docsify-this.net?basePath=...
 
 ---
 
-## 🔍 Parameter Scavenger Hunt
+## 🔍 Challenge 2: Parameter Scavenger Hunt
 
 ### Your Mission
 **Match the target design!** Look at the screenshot posted in Discord.

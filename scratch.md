@@ -233,7 +233,7 @@ For Documentation:
 - [ ] Try a ready-made template
 - [ ] Share a Docsify-This page URL
 
-### ❓ Frequently Asked Questions
+### Frequently Asked Questions
 
 **Q: Do I need to install anything?**  
 A: No! 100% web-based. Just paste and go.

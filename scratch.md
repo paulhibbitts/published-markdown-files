@@ -280,7 +280,7 @@ GitHub: github.com/hibbitts-design/docsify-this
 
 ---
 
-**Session:** "Leap into Open Publishing with Docsify-This!"  
+**Session:** Leap into Open Publishing with Docsify-This!  
 **Presenter:** Paul Hibbitts  
 **Resources:** docsify-this.net | discord.gg/docsify
 

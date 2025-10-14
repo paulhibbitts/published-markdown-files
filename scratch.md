@@ -93,17 +93,15 @@ https://docsify-this.net?basePath=...
 &link-color=0374B5       ← Or this!
 ```
 
-### Common Parameters
+You can also add an URL parameter if one is not present (and a default value is being used).
+
+### Some Commonly Adjusted Parameters
 
 | Parameter | Options | Example |
 |-----------|---------|---------|
 | `font-size` | 10-72px | `&font-size=24px` |
-| `font-family` | Font name | `&font-family=Open%20Sans` |
-| `dark-mode` | false/auto/on | `&dark-mode=auto` |
 | `link-color` | Hex (no #) | `&link-color=CC0000` |
 | `max-width` | px or % | `&max-width=800px` |
-| `sidebar` | true/false | `&sidebar=true` |
-| `toc` | true/false | `&toc=true` |
 
 ### Why This Matters
 ✅ **Quickly refine** styled pages  
@@ -123,26 +121,14 @@ https://docsify-this.net?basePath=...
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
-### Target Specs (Check Discord for screenshot!)
+### Aspects to Consider
 ```
-☐ Layout: Sidebar navigation
-☐ Font: Clean sans-serif
-☐ Size: Reading-friendly (~18px)
-☐ Headers: Semi-bold (600)
-☐ Theme: Auto dark/light
-☐ Links: Red
-☐ Width: 65 characters (not full-width)
-```
-
-### Parameters to Find (6-7 total)
-```
-☐ sidebar=?
-☐ font-family=?
-☐ font-size=?
-☐ header-weight=?
-☐ dark-mode=?
-☐ link-color=?
-☐ max-width=?
+☐ Page layout:
+☐ Font family:
+☐ Font size:
+☐ Headers:
+☐ Links:
+☐ Width:
 ```
 
 ### Hints Along the Way

@@ -103,10 +103,10 @@ https://docsify-this.net?basePath=...
 | `toc` | true/false | `&toc=true` |
 
 ### Why This Matters
+✅ **Quickly refine** styled pages  
 ✅ **Batch-style** multiple pages  
 ✅ **Share recipes** as plain text  
-✅ **Troubleshoot** remotely  
-✅ **Create presets** for reuse  
+✅ **Create configurations** for reuse  
 
 ---
 

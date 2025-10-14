@@ -123,7 +123,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 ## 🔍 Challenge 2: Parameter Scavenger Hunt
 
 ### Your Mission
-**Match the target design!** Look at the screenshot posted in Discord.
+**Match the target design!** Look at the Docsify-This page screenshot posted in Discord.
 
 ### Starting Point (Unstyled)
 ```

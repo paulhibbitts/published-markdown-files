@@ -6,9 +6,9 @@
 
 ## 📍 Session Outline
 
-| What We're Doing | Your Action |
+| What We're Doing | Join In |
 |------------------|-------------|
-| Intro | Watch the magic! |
+| Intro | Experience the magic! |
 | Web Page Builder Demo | View the workflow |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |

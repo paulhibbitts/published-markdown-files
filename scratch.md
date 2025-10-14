@@ -9,7 +9,7 @@
 
 | Time | What We're Doing | Your Action |
 |------|------------------|-------------|
-| **0-3 min** | Intro & Hook | Watch the magic! |
+| **0-3 min** | Intro | Watch the magic! |
 | **3-8 min** | Web Page Builder Demo | Take notes on workflow |
 | **8-15 min** | **🎨 Style Challenge** | **CREATE your page!** |
 | **15-18 min** | Power Tip: URL Parameters | Learn the shortcut |
@@ -24,10 +24,10 @@
 ### The 3-Step Process
 
 **1. Get Your Markdown URL**
-- GitHub: View file → Click "Raw" → Copy URL
-- Or use the example provided in Discord
+- GitHub: View file → Copy URL
+- Or use the example https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md
 
-**2. Visit the Web Page Builder**
+**2. Visit the Docsify-This Web Page Builder**
 ```
 https://docsify-this.net
 ```
@@ -36,7 +36,6 @@ https://docsify-this.net
 - Paste Markdown URL
 - Choose page layout (Content Only / ToC / Sidebar)
 - Click "Publish as a Web Page"
-- Copy your new URL to share!
 
 ---
 
@@ -67,19 +66,12 @@ docsify-this-one-page-article/main/home.md
 ☐ Max width: 100%
 ```
 
-**Professional Document**
+**Project Documentation**
 ```
-☐ Serif font (Merriweather)
-☐ Table of Contents: Yes
-☐ Edit link: Yes
-☐ Clean, readable
-```
-
-**Your Brand**
-```
-☐ Your fonts: _____________
-☐ Your colors: _____________
-☐ Your layout: _____________
+☐ Font: Sans serif
+☐ Size: 18px
+☐ Hide credits: Yes
+☐ Max width: 65ch
 ```
 
 ### Share Your Result!
@@ -97,7 +89,7 @@ Post your Docsify-This URL in Discord and describe your design choice!
 ## ⚡ Power Tip: URL Parameters (15-18 min)
 
 ### The Secret Shortcut
-Instead of using the Web Page Builder every time, **edit URL parameters directly**!
+Instead of using the Web Page Builder every time, you can also **edit URL parameters directly**!
 
 ### Example URL Breakdown
 ```
@@ -154,8 +146,8 @@ docsify-this-one-page-article/main&homepage=home.md
 ☐ Size: Reading-friendly (~18px)
 ☐ Headers: Semi-bold (600)
 ☐ Theme: Auto dark/light
-☐ Links: Subtle blue
-☐ Width: Focused (not full-width)
+☐ Links: Red
+☐ Width: 65 characters (not full-width)
 ```
 
 ### Parameters to Find (6-7 total)
@@ -196,11 +188,9 @@ Watch Discord for progressive hints if you get stuck!
 ☐ docsify-this-multiple-page-site
    → Multi-page website
 
-☐ docsify-this-lms-content-pages
-   → LMS-ready content pages
+☐ docsify-this-multiple-page-blog-style-site
+   → Blog-style website
 
-☐ docsify-this-visual-portfolio
-   → Portfolio/showcase site
 ```
 
 **To use:** Click "Use this template" → Create repo → Edit → Publish!
@@ -230,14 +220,6 @@ Just paste your Markdown URL and go!
 | **Discord Community** | discord.gg/docsify |
 | **GitHub Repository** | github.com/hibbitts-design/docsify-this |
 
-**Resources to check in Discord after session:**
-```
-☐ Challenge results gallery
-☐ Scavenger hunt solution
-☐ Template starter links
-☐ Advanced customization guides
-```
-
 ---
 
 ## 💡 Quick Reference
@@ -261,7 +243,7 @@ For LMS Embedding:
 ✓ Adjust link colors
 
 For Documentation:
-✓ Serif font
+✓ Sans serif font
 ✓ Table of Contents
 ✓ "Edit this Page" link
 ✓ Comfortable line height
@@ -271,7 +253,7 @@ For Documentation:
 ```html
 <iframe src="YOUR-DOCSIFY-THIS-URL" 
   width="100%" 
-  height="800px" 
+  height="400px" 
   style="border:none;">
 </iframe>
 ```
@@ -286,22 +268,6 @@ For Documentation:
 ☐ Bookmark docsify-this.net
 ☐ Join Discord #Docsify-This channel
 ☐ Try embedding in your platform
-```
-
-### This Week
-```
-☐ Publish your own Markdown file
-☐ Try a ready-made template
-☐ Share with a colleague
-☐ Embed in your LMS or website
-```
-
-### This Month
-```
-☐ Create a multi-page site
-☐ Develop your preset configs
-☐ Help someone else get started
-☐ Explore advanced customization
 ```
 
 ---
@@ -328,53 +294,13 @@ A: Yes! Host your own instance or use advanced URL parameters.
 
 ---
 
-## 📝 My Session Notes
-
-**Key insights:**
-```
-
-
-
-
-```
-
-**Ideas to try:**
-```
-
-
-
-
-```
-
-**Questions to explore:**
-```
-
-
-
-
-```
-
-**URLs to remember:**
-```
-
-
-
-
-```
-
----
-
 ## 🌟 Post-Session
 
 ### Get Help & Stay Connected
 ```
 Discord: discord.gg/docsify → #Docsify-This
 GitHub: github.com/hibbitts-design/docsify-this
-Tag your work: #DocsifyThisWorks
 ```
-
-### Share Your Success!
-Post your Docsify-This projects in Discord — we celebrate wins! 🎉
 
 ---
 

@@ -215,35 +215,6 @@ Just paste your Markdown URL and go!
 
 ---
 
-#### Quick Reference
-
-**Page Layout Options**
-- **Content Only** — Simple, clean page
-- **Table of Contents** — Side navigation
-- **Docsify Sidebar** — Collapsible nav (best for multi-page)
-
-**Essential Styling Tips**
-```
-For Presentations:
-✓ Font: 36px, sans-serif
-✓ Dark mode: On
-✓ Width: 80% or 55ch
-
-For LMS Embedding:
-✓ Match platform font
-✓ Hide credits
-✓ Full width (100%)
-✓ Adjust link colors
-
-For Documentation:
-✓ Sans serif font
-✓ Table of Contents
-✓ "Edit this Page" link
-✓ Comfortable line height
-```
-
----
-
 **Session:** Leap into Open Publishing with Docsify-This!  
 **Presenter:** Paul Hibbitts  
 **Resources:** docsify-this.net | discord.gg/docsify

@@ -111,13 +111,6 @@ https://docsify-this.net?basePath=...
 ✅ **Troubleshoot** remotely  
 ✅ **Create presets** for reuse  
 
-**My notes on parameters:**
-```
-
-
-
-```
-
 ---
 
 ## 🔍 Challenge 2: Parameter Scavenger Hunt (18-23 min)

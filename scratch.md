@@ -12,7 +12,7 @@
 | Intro | Watch the magic! |
 | Web Page Builder Demo | View the workflow |
 | **🎨 Style Lab** | **CREATE your page!** |
-| Power Tip: URL Parameters | Learn the shortcut |
+| Power Tip: URL Parameters | Learn a shortcut |
 | **🔍 Scavenger Hunt** | **MATCH the design!** |
 | Templates & Resources | Grab links to save |
 | Q&A & Next Steps | Ask questions! |

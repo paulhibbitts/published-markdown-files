@@ -1,5 +1,5 @@
 # Docsify-This Session Guide
-## "Leap into Open Publishing with Docsify-This!"
+## Leap into Open Publishing with Docsify-This!
 
 **Follow along during the session • Take notes • Try the challenges**
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Quick Start (Before Challenge 1)
+## 🚀 Quick Start
 
 ### The 3-Step Process
 
@@ -189,7 +189,7 @@ Just paste your Markdown URL and go!
 
 ---
 
-## 🔗 Essential Links (BOOKMARK THESE!)
+## 🔗 Essential Links
 
 | Resource | URL |
 |----------|-----|

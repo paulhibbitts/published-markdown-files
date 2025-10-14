@@ -194,11 +194,11 @@ A: Yes! Host your own instance or use advanced URL parameters.
 ##### Load-and-Go Presets
 Pre-configured styling for common needs:
 
-- Presentations: [present.docsify-this.net](https://present.docsify-this.net)
-- Canvas LMS: [canvas.docsify-this.net](https://canvas.docsify-this.net)
-- Moodle LMS: [moodle.docsify-this.net](https://moodle.docsify-this.net)
-- Brightspace: [brightspace.docsify-this.net](https://brightspace.docsify-this.net)
-- Sakai LMS: [sakai.docsify-this.net](https://sakai.docsify-this.net)
+- Presentations: [present.docsify-this.net](http://present.docsify-this.net)
+- Canvas LMS: [canvas.docsify-this.net](http://canvas.docsify-this.net)
+- Moodle LMS: [moodle.docsify-this.net](http://moodle.docsify-this.net)
+- Brightspace: [brightspace.docsify-this.net](http://brightspace.docsify-this.net)
+- Sakai LMS: [sakai.docsify-this.net](http://sakai.docsify-this.net)
 
 Just paste your Markdown URL and go!
 

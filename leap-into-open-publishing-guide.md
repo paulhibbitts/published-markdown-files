@@ -201,7 +201,7 @@ A: Yes! Host your own instance or use advanced URL parameters.
   * [Pulsar (was Atom.io)](https://pulsar-edit.dev/)
   * [Typora](https://typora.io/)
 
-### Presets & Templates
+### Docsify-This Presets & Templates
 
 #### Load-and-Go Presets
 Pre-configured styling for common needs:
@@ -226,7 +226,7 @@ Just paste your Markdown URL and go!
 
 ---
 
-### Essential Project Links
+### Essential Doicsify-This Project Links
 
 | Resource | URL |
 |----------|-----|

@@ -10,7 +10,7 @@
 | What We're Doing | Your Action |
 |------------------|-------------|
 | Intro | Watch the magic! |
-| Web Page Builder Demo | Take notes on workflow |
+| Web Page Builder Demo | View the workflow |
 | **🎨 Style Lab** | **CREATE your page!** |
 | Power Tip: URL Parameters | Learn the shortcut |
 | **🔍 Scavenger Hunt** | **MATCH the design!** |

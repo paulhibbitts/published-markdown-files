@@ -13,7 +13,7 @@
 | 🎨 Challenge 1: Style Lab | PUBLISH your page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Scavenger Hunt | MATCH a design! |
-| Q&A & Next Steps | Ask questions! |
+| Next Steps + Q&A | Ask questions! |
 
 ---
 
@@ -221,7 +221,7 @@ For Documentation:
 
 ---
 
-## 🎯 Your Next Steps
+## 🎯 Next Steps + Q&A
 
 **Before You Leave**
 - [ ] Save both your challenge URLs
@@ -232,6 +232,26 @@ For Documentation:
 - [ ] Publish your own Markdown file
 - [ ] Try a ready-made template
 - [ ] Share a Docsify-This page URL
+
+### ❓ Frequently Asked Questions
+
+**Q: Do I need to install anything?**  
+A: No! 100% web-based. Just paste and go.
+
+**Q: Where is my content stored?**  
+A: On YOUR GitHub/server. You keep full control.
+
+**Q: Can I use private repos?**  
+A: Yes! Enable GitHub Pages, then use that URL.
+
+**Q: Will Google index my pages?**  
+A: No (client-side rendering). Perfect for LMS content!
+
+**Q: Is there a cost?**  
+A: Free and open source forever!
+
+**Q: Can I customize more?**  
+A: Yes! Host your own instance or use advanced URL parameters.
 
 ---
 

@@ -79,7 +79,7 @@ Post your Docsify-This URL in Discord and describe your design choice!
 ## ⚡ Power Tip: URL Parameters
 
 ### The Secret Shortcut
-Instead of using the Web Page Builder every time, you can also **edit URL parameters directly**!
+Instead of using the Web Page Builder every time, you can also **edit URL parameters directly** when viewing the publoshed page!
 
 ### Example URL Breakdown
 ```

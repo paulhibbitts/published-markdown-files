@@ -185,11 +185,21 @@ A: Yes! Host your own instance or use advanced URL parameters.
 
 ## 📚 Additional Resources
 
-- [Presets & Templates](#presets--templates)
-- [Essential Links](#essential-links)
-- [Quick Reference](#quick-reference)
+### All About Markdown 
 
----
+* Markdown Format
+  * [What Is Markdown, and How Do You Use It?](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
+  * [Markdown Guide](http://markdownguide.org)
+  * [Markdown Cheatsheet](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Accessibility
+  * [Improving The Accessibility Of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)
+* Creating and Editing Markdown on GitHub
+  * [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+  * [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
+* Markdown Desktop Editors
+  * [VSCode](https://code.visualstudio.com/)
+  * [Pulsar (was Atom.io)](https://pulsar-edit.dev/)
+  * [Typora](https://typora.io/)
 
 ### Presets & Templates
 
@@ -216,7 +226,7 @@ Just paste your Markdown URL and go!
 
 ---
 
-### Essential Links
+### Essential Project Links
 
 | Resource | URL |
 |----------|-----|

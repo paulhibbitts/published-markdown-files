@@ -230,7 +230,7 @@ Just paste your Markdown URL and go!
 
 | Resource | URL |
 |----------|-----|
-| **Web Page Builder** | [Docsify-This.net]([https:](https://docsify-this.net) |
+| **Web Page Builder** | [Docsify-This.net](https://docsify-this.net) |
 | **Full Documentation** | [Docsify-This.net/?id=everything-you-need-to-know-about-docsify-this](https://docsify-this.net/#/?id=everything-you-need-to-know-about-docsify-this) |
 | **Templates** | [github.com/hibbitts-design](https://github.com/hibbitts-design) |
 | **Discord Community** | [discord.gg/docsify](https://discord.gg/docsify) |

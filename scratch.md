@@ -33,9 +33,9 @@ https://docsify-this.net
 ```
 
 **3. Paste → Style → Publish!**
-- Paste Markdown URL
+- Paste Markdown file URL into Web PAge Builder
 - Choose page layout (Content Only / ToC / Sidebar)
-- Click "Publish as a Web Page"
+- Click **Publish as a Web Page** button
 
 ---
 

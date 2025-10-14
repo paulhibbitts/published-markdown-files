@@ -151,9 +151,11 @@ Watch Discord for progressive hints if you get stuck!
 
 ---
 
-## 📚 Presets & Templates
+## 📚 Additional Resources
 
-### Load-and-Go Presets
+### Presets & Templates
+
+#### Load-and-Go Presets
 Pre-configured styling for common needs:
 
 ```
@@ -166,7 +168,7 @@ Pre-configured styling for common needs:
 
 Just paste your Markdown URL and go!
 
-### Ready-to-Use Templates
+#### Ready-to-Use Templates
 **Don't start from scratch!** Use these GitHub templates:
 
 ```
@@ -188,7 +190,7 @@ Just paste your Markdown URL and go!
 
 ---
 
-## 🔗 Essential Links
+### 🔗 Essential Links
 
 | Resource | URL |
 |----------|-----|
@@ -200,14 +202,14 @@ Just paste your Markdown URL and go!
 
 ---
 
-## 💡 Quick Reference
+### 💡 Quick Reference
 
-### Page Layout Options
+#### Page Layout Options
 - **Content Only** — Simple, clean page
 - **Table of Contents** — Side navigation
 - **Docsify Sidebar** — Collapsible nav (best for multi-page)
 
-### Essential Styling Tips
+#### Essential Styling Tips
 ```
 For Presentations:
 ✓ Font: 36px, sans-serif

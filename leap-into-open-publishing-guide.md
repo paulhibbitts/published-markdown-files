@@ -226,7 +226,7 @@ Just paste your Markdown URL and go!
 
 ---
 
-### Essential Doicsify-This Project Links
+### Essential Docsify-This Project Links
 
 | Resource | URL |
 |----------|-----|

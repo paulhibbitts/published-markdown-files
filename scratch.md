@@ -37,13 +37,12 @@ https://docsify-this.net
 
 ---
 
-## 🎨 Challenge 1: Style Lab
+## 🎨 Style Lab
 
 ### Your Mission
 Transform this Markdown file YOUR way:
 ```
-https://raw.githubusercontent.com/hibbitts-design/
-docsify-this-one-page-article/main/home.md
+https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main/home.md
 ```
 
 ### Try These Styles
@@ -111,16 +110,14 @@ https://docsify-this.net?basePath=...
 
 ---
 
-## 🔍 Challenge 2: Parameter Scavenger Hunt
+## 🔍 Parameter Scavenger Hunt
 
 ### Your Mission
 **Match the target design!** Look at the screenshot posted in Discord.
 
 ### Starting Point (Unstyled)
 ```
-https://docsify-this.net?basePath=
-https://raw.githubusercontent.com/hibbitts-design/
-docsify-this-one-page-article/main&homepage=home.md
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
 ```
 
 ### Target Specs (Check Discord for screenshot!)
@@ -152,44 +149,38 @@ Watch Discord for progressive hints if you get stuck!
 
 ## 📚 Additional Resources
 
-### Presets & Templates
+- [Presets & Templates](#presets--templates)
+- [Essential Links](#essential-links)
+- [Quick Reference](#quick-reference)
 
-#### Load-and-Go Presets
+---
+
+#### Presets & Templates
+
+##### Load-and-Go Presets
 Pre-configured styling for common needs:
 
-```
-☐ Presentations: present.docsify-this.net
-☐ Canvas LMS: canvas.docsify-this.net
-☐ Moodle LMS: moodle.docsify-this.net
-☐ Brightspace: brightspace.docsify-this.net
-☐ Sakai LMS: sakai.docsify-this.net
-```
+- Presentations: present.docsify-this.net
+- Canvas LMS: canvas.docsify-this.net
+- Moodle LMS: moodle.docsify-this.net
+- Brightspace: brightspace.docsify-this.net
+- Sakai LMS: sakai.docsify-this.net
 
 Just paste your Markdown URL and go!
 
-#### Ready-to-Use Templates
+##### Ready-to-Use Templates
 **Don't start from scratch!** Use these GitHub templates:
 
-```
-☐ docsify-this-one-page-article
-   → Single article/document
-
-☐ docsify-this-one-page-course
-   → Course module page
-
-☐ docsify-this-multiple-page-site
-   → Multi-page website
-
-☐ docsify-this-multiple-page-blog-style-site
-   → Blog-style website
-
-```
+- [docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article) — Single article/document
+- [docsify-this-one-page-course](https://github.com/hibbitts-design/docsify-this-one-page-course) — Course module page
+- [docsify-this-multiple-page-site](https://github.com/hibbitts-design/docsify-this-multiple-page-site) — Multi-page website
+- [docsify-this-multiple-page-blog-style-site](https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site) — Blog-style website
 
 **To use:** Click "Use this template" → Create repo → Edit → Publish!
 
 ---
 
-### 🔗 Essential Links
+#### Essential Links
 
 | Resource | URL |
 |----------|-----|
@@ -201,14 +192,14 @@ Just paste your Markdown URL and go!
 
 ---
 
-### 💡 Quick Reference
+#### Quick Reference
 
-#### Page Layout Options
+**Page Layout Options**
 - **Content Only** — Simple, clean page
 - **Table of Contents** — Side navigation
 - **Docsify Sidebar** — Collapsible nav (best for multi-page)
 
-#### Essential Styling Tips
+**Essential Styling Tips**
 ```
 For Presentations:
 ✓ Font: 36px, sans-serif
@@ -232,19 +223,15 @@ For Documentation:
 
 ## 🎯 Your Next Steps
 
-### Before You Leave
-```
-☐ Save both your challenge URLs
-☐ Bookmark docsify-this.net
-☐ Join Discord #Docsify-This channel
-```
+**Before You Leave**
+- [ ] Save both your challenge URLs
+- [ ] Bookmark docsify-this.net
+- [ ] Join Discord #Docsify-This channel
 
-### Next Week
-```
-☐ Publish your own Markdown file
-☐ Try a ready-made template
-☐ Share a Docsify-THis page URL
-```
+**Next Week**
+- [ ] Publish your own Markdown file
+- [ ] Try a ready-made template
+- [ ] Share a Docsify-This page URL
 
 ---
 
@@ -272,11 +259,9 @@ A: Yes! Host your own instance or use advanced URL parameters.
 
 ## 🌟 Post-Session
 
-### Get Help & Stay Connected
-```
-Discord: discord.gg/docsify → #Docsify-This
-GitHub: github.com/hibbitts-design/docsify-this
-```
+**Get Help & Stay Connected**
+- Discord: discord.gg/docsify → #Docsify-This
+- GitHub: github.com/hibbitts-design/docsify-this
 
 ---
 

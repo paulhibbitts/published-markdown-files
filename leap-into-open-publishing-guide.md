@@ -62,7 +62,6 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ```
 ☐ Font: Match your LMS
 ☐ Size: 16-18px
-☐ Hide credits: Yes
 ☐ Max width: 100%
 ```
 
@@ -70,8 +69,18 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ```
 ☐ Font: Sans serif
 ☐ Size: 18px
-☐ Hide credits: Yes
 ☐ Max width: 65ch
+```
+
+**Your Way!**
+```
+☐ Font: ???
+☐ Size: ???
+☐ Link color: ???
+☐ Headers font weight: ???
+☐ Max width: ???
+☐ Dark theme: ???
+☐ And who knows!
 ```
 
 ### Share Your Result!

@@ -5,7 +5,7 @@
 
 ---
 
-## 📍 Session Roadmap
+## 📍 Session Outline
 
 | What We're Doing | Your Action |
 |------------------|-------------|

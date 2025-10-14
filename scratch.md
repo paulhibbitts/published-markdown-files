@@ -228,15 +228,6 @@ For Documentation:
 ✓ Comfortable line height
 ```
 
-### Embedding Code
-```html
-<iframe src="YOUR-DOCSIFY-THIS-URL" 
-  width="100%" 
-  height="400px" 
-  style="border:none;">
-</iframe>
-```
-
 ---
 
 ## 🎯 Your Next Steps

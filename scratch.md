@@ -90,7 +90,7 @@ https://docsify-this.net?basePath=...
 &link-color=0374B5       ← Or this!
 ```
 
-### Common Parameters to Remember
+### Common Parameters
 
 | Parameter | Options | Example |
 |-----------|---------|---------|

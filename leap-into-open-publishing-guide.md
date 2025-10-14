@@ -74,8 +74,8 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 
 **Your Way!**
 ```
-☐ Font: ???
-☐ Size: ???
+☐ Font family: ???
+☐ Font size: ???
 ☐ Link color: ???
 ☐ Headers font weight: ???
 ☐ Max width: ???
@@ -135,8 +135,8 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-des
 ☐ Page layout:
 ☐ Font family:
 ☐ Font size:
-☐ Headers:
-☐ Links:
+☐ Link color:
+☐ Headers weight:
 ☐ Width:
 ```
 

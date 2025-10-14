@@ -152,7 +152,20 @@ Watch Discord for progressive hints if you get stuck!
 
 ---
 
-## 📚 Templates & Resources (23-26 min)
+## 📚 Presets & Templates (23-26 min)
+
+### Load-and-Go Presets
+Pre-configured styling for common needs:
+
+```
+☐ Presentations: present.docsify-this.net
+☐ Canvas LMS: canvas.docsify-this.net
+☐ Moodle LMS: moodle.docsify-this.net
+☐ Brightspace: brightspace.docsify-this.net
+☐ Sakai LMS: sakai.docsify-this.net
+```
+
+Just paste your Markdown URL and go!
 
 ### Ready-to-Use Templates
 **Don't start from scratch!** Use these GitHub templates:
@@ -173,19 +186,6 @@ Watch Discord for progressive hints if you get stuck!
 ```
 
 **To use:** Click "Use this template" → Create repo → Edit → Publish!
-
-### Load-and-Go Presets
-Pre-configured styling for common needs:
-
-```
-☐ Presentations: present.docsify-this.net
-☐ Canvas LMS: canvas.docsify-this.net
-☐ Moodle LMS: moodle.docsify-this.net
-☐ Brightspace: brightspace.docsify-this.net
-☐ Sakai LMS: sakai.docsify-this.net
-```
-
-Just paste your Markdown URL and go!
 
 ---
 

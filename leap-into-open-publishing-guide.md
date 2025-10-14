@@ -227,7 +227,6 @@ Just paste your Markdown URL and go!
 
 **Session:** Leap into Open Publishing with Docsify-This!  
 **Presenter:** Paul Hibbitts  
-**Resources:** [Docsify-This.net](https:docsify-this.net) | [discord.gg/docsify](https:discord.gg/docsify)
 
 ---
 

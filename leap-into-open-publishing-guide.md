@@ -138,6 +138,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-des
 ☐ Link color:
 ☐ Headers weight:
 ☐ Width:
+☐ Sidebar header level:
 ```
 
 ### Hints Along the Way

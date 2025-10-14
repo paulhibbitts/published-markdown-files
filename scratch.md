@@ -1,5 +1,4 @@
-# Docsify-This Session Guide
-## Leap into Open Publishing with Docsify-This!
+# Leap into Open Publishing with Docsify-This!
 
 **Follow along during the session • Take notes • Try the challenges**
 

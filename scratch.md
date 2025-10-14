@@ -151,7 +151,7 @@ Watch Discord for progressive hints if you get stuck!
 
 **Before You Leave**
 - [ ] Save both your challenge URLs
-- [ ] Bookmark docsify-this.net
+- [ ] Bookmark [Docsify-This.net](https://docsify-this.net)
 - [ ] Join Discord #Docsify-This channel
 
 **Next Week**
@@ -194,11 +194,11 @@ A: Yes! Host your own instance or use advanced URL parameters.
 ##### Load-and-Go Presets
 Pre-configured styling for common needs:
 
-- Presentations: present.docsify-this.net
-- Canvas LMS: canvas.docsify-this.net
-- Moodle LMS: moodle.docsify-this.net
-- Brightspace: brightspace.docsify-this.net
-- Sakai LMS: sakai.docsify-this.net
+- Presentations: [present.docsify-this.net](https://present.docsify-this.net)
+- Canvas LMS: [canvas.docsify-this.net](https://canvas.docsify-this.net)
+- Moodle LMS: [moodle.docsify-this.net](https://moodle.docsify-this.net)
+- Brightspace: [brightspace.docsify-this.net](https://brightspace.docsify-this.net)
+- Sakai LMS: [https://sakai.docsify-this.net](sakai.docsify-this.net)
 
 Just paste your Markdown URL and go!
 
@@ -218,11 +218,11 @@ Just paste your Markdown URL and go!
 
 | Resource | URL |
 |----------|-----|
-| **Web Page Builder** | docsify-this.net |
-| **Full Documentation** | docsify-this.net (scroll down) |
-| **Templates** | github.com/hibbitts-design/ |
-| **Discord Community** | discord.gg/docsify |
-| **GitHub Repository** | github.com/hibbitts-design/docsify-this |
+| **Web Page Builder** | [Docsify-This.net](https:docsify-this.net) |
+| **Full Documentation** | [Docsify-This.net](https:docsify-this.net) (scroll down) |
+| **Templates** | [github.com/hibbitts-design](https://github.com/hibbitts-design) |
+| **Discord Community** | [discord.gg/docsify](https://discord.gg/docsify) |
+| **GitHub Repository** | [github.com/hibbitts-design/docsify-this](https://github.com/hibbitts-design/docsify-this) |
 
 ---
 

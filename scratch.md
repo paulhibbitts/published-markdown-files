@@ -235,28 +235,6 @@ For Documentation:
 
 ---
 
-## ❓ Frequently Asked Questions
-
-**Q: Do I need to install anything?**  
-A: No! 100% web-based. Just paste and go.
-
-**Q: Where is my content stored?**  
-A: On YOUR GitHub/server. You keep full control.
-
-**Q: Can I use private repos?**  
-A: Yes! Enable GitHub Pages, then use that URL.
-
-**Q: Will Google index my pages?**  
-A: No (client-side rendering). Perfect for LMS content!
-
-**Q: Is there a cost?**  
-A: Free and open source forever!
-
-**Q: Can I customize more?**  
-A: Yes! Host your own instance or use advanced URL parameters.
-
----
-
 ## 🌟 Post-Session
 
 **Get Help & Stay Connected**

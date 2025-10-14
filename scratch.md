@@ -10,9 +10,9 @@
 |------------------|-------------|
 | Intro | Watch the magic! |
 | Web Page Builder Demo | View the workflow |
-| 🎨 Style Lab | PUBLISH your page! |
+| 🎨 Challenge 1: Style Lab | PUBLISH your page! |
 | Power Tip: URL Parameters | Learn a shortcut |
-| 🔍 Scavenger Hunt | MATCH a design! |
+| 🔍 Challenge 2: Scavenger Hunt | MATCH a design! |
 | Q&A & Next Steps | Ask questions! |
 
 ---

@@ -12,7 +12,7 @@
 | Web Page Builder Demo | View the workflow |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
-| 🔍 Challenge 2: Scavenger Hunt | MATCH a design! |
+| 🔍 Challenge 2: Style Hunt | MATCH a design! |
 | Next Steps + Q&A | Ask questions! |
 
 ---
@@ -120,7 +120,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 ---
 
-## 🔍 Challenge 2: Parameter Scavenger Hunt
+## 🔍 Challenge 2: Style Hunt
 
 ### Your Mission
 **Match the target design!** Look at the Docsify-This page screenshot posted in Discord.

@@ -5,17 +5,17 @@
 
 ---
 
-## 📍 Session Roadmap (30 Minutes)
+## 📍 Session Roadmap
 
-| Time | What We're Doing | Your Action |
+| What We're Doing | Your Action |
 |------|------------------|-------------|
-| **0-3 min** | Intro | Watch the magic! |
-| **3-8 min** | Web Page Builder Demo | Take notes on workflow |
-| **8-15 min** | **🎨 Style Challenge** | **CREATE your page!** |
-| **15-18 min** | Power Tip: URL Parameters | Learn the shortcut |
-| **18-23 min** | **🔍 Scavenger Hunt** | **MATCH the design!** |
-| **23-26 min** | Templates & Resources | Grab links to save |
-| **26-30 min** | Q&A & Next Steps | Ask questions! |
+| Intro | Watch the magic! |
+| Web Page Builder Demo | Take notes on workflow |
+| **🎨 Style Challenge** | **CREATE your page!** |
+| Power Tip: URL Parameters | Learn the shortcut |
+| **🔍 Scavenger Hunt** | **MATCH the design!** |
+| Templates & Resources | Grab links to save |
+| Q&A & Next Steps | Ask questions! |
 
 ---
 
@@ -39,7 +39,7 @@ https://docsify-this.net
 
 ---
 
-## 🎨 Challenge 1: Style Challenge (8-15 min)
+## 🎨 Challenge 1: Style Challenge
 
 ### Your Mission
 Transform this Markdown file YOUR way:
@@ -79,7 +79,7 @@ Post your Docsify-This URL in Discord and describe your design choice!
 
 ---
 
-## ⚡ Power Tip: URL Parameters (15-18 min)
+## ⚡ Power Tip: URL Parameters
 
 ### The Secret Shortcut
 Instead of using the Web Page Builder every time, you can also **edit URL parameters directly**!
@@ -113,7 +113,7 @@ https://docsify-this.net?basePath=...
 
 ---
 
-## 🔍 Challenge 2: Parameter Scavenger Hunt (18-23 min)
+## 🔍 Challenge 2: Parameter Scavenger Hunt
 
 ### Your Mission
 **Match the target design!** Look at the screenshot posted in Discord.
@@ -152,7 +152,7 @@ Watch Discord for progressive hints if you get stuck!
 
 ---
 
-## 📚 Presets & Templates (23-26 min)
+## 📚 Presets & Templates
 
 ### Load-and-Go Presets
 Pre-configured styling for common needs:

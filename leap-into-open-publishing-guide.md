@@ -191,9 +191,9 @@ A: Yes! Host your own instance or use advanced URL parameters.
 
 ---
 
-#### Presets & Templates
+### Presets & Templates
 
-##### Load-and-Go Presets
+#### Load-and-Go Presets
 Pre-configured styling for common needs:
 
 - Presentations: [present.docsify-this.net](http://present.docsify-this.net)
@@ -204,7 +204,7 @@ Pre-configured styling for common needs:
 
 Just paste your Markdown URL and go!
 
-##### Ready-to-Use Templates
+#### Ready-to-Use Templates
 **Don't start from scratch!** Use these GitHub templates:
 
 - [github.com/hibbitts-design/docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article) — Single article/document
@@ -216,7 +216,7 @@ Just paste your Markdown URL and go!
 
 ---
 
-#### Essential Links
+### Essential Links
 
 | Resource | URL |
 |----------|-----|

@@ -11,7 +11,7 @@
 |------------------|-------------|
 | Intro | Watch the magic! |
 | Web Page Builder Demo | Take notes on workflow |
-| **🎨 Style Challenge** | **CREATE your page!** |
+| **🎨 Style Lab** | **CREATE your page!** |
 | Power Tip: URL Parameters | Learn the shortcut |
 | **🔍 Scavenger Hunt** | **MATCH the design!** |
 | Templates & Resources | Grab links to save |

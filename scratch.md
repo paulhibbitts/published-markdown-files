@@ -205,10 +205,10 @@ Just paste your Markdown URL and go!
 ##### Ready-to-Use Templates
 **Don't start from scratch!** Use these GitHub templates:
 
-- [docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article) — Single article/document
-- [docsify-this-one-page-course](https://github.com/hibbitts-design/docsify-this-one-page-course) — Course module page
-- [docsify-this-multiple-page-site](https://github.com/hibbitts-design/docsify-this-multiple-page-site) — Multi-page website
-- [docsify-this-multiple-page-blog-style-site](https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site) — Blog-style website
+- [github.com/hibbitts-design/docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article) — Single article/document
+- [github.com/hibbitts-design/docsify-this-one-page-course](https://github.com/hibbitts-design/docsify-this-one-page-course) — Course module page
+- [github.com/hibbitts-design/docsify-this-multiple-page-site](https://github.com/hibbitts-design/docsify-this-multiple-page-site) — Multi-page website
+- [github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site](https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site) — Blog-style website
 
 **To use:** Click "Use this template" → Create repo → Edit → Publish!
 

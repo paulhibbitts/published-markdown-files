@@ -176,7 +176,7 @@ A: Yes! Enable GitHub Pages, then use those raw URLs
 A: No (client-side rendering). Perfect for LMS content!
 
 **Q: Is there a cost?**  
-A: Free and open source forever!
+A: Free and open-source forever!
 
 **Q: Can I customize more?**  
 A: Yes! Host your own instance or use advanced URL parameters.

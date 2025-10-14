@@ -231,7 +231,7 @@ Just paste your Markdown URL and go!
 | Resource | URL |
 |----------|-----|
 | **Web Page Builder** | [docsify-this.net](https://docsify-this.net) |
-| **Full Documentation** | [readme.docsify-this.net](https://readme.docsify-this.net) |
+| **Full Documentation** | [readme.docsify-this.net](http://readme.docsify-this.net) |
 | **Templates** | [github.com/hibbitts-design](https://github.com/hibbitts-design) |
 | **Discord Community** | [discord.gg/docsify](https://discord.gg/docsify) |
 | **GitHub Repository** | [github.com/hibbitts-design/docsify-this](https://github.com/hibbitts-design/docsify-this) |

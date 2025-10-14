@@ -11,9 +11,9 @@
 |------------------|-------------|
 | Intro | Watch the magic! |
 | Web Page Builder Demo | View the workflow |
-| **🎨 Style Lab** | **CREATE your page!** |
+| 🎨 Style Lab | PUBLISH your page! |
 | Power Tip: URL Parameters | Learn a shortcut |
-| **🔍 Scavenger Hunt** | **MATCH the design!** |
+| 🔍 Scavenger Hunt | MATCH a design! |
 | Templates & Resources | Grab links to save |
 | Q&A & Next Steps | Ask questions! |
 

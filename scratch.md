@@ -13,7 +13,6 @@
 | 🎨 Style Lab | PUBLISH your page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Scavenger Hunt | MATCH a design! |
-| Presets & Templates | Grab links to save |
 | Q&A & Next Steps | Ask questions! |
 
 ---

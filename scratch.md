@@ -77,13 +77,6 @@ docsify-this-one-page-article/main/home.md
 ### Share Your Result!
 Post your Docsify-This URL in Discord and describe your design choice!
 
-**My Challenge 1 URL:**
-```
-
-
-
-```
-
 ---
 
 ## ⚡ Power Tip: URL Parameters (15-18 min)
@@ -163,13 +156,6 @@ docsify-this-one-page-article/main&homepage=home.md
 
 ### Hints Along the Way
 Watch Discord for progressive hints if you get stuck!
-
-**My Challenge 2 URL:**
-```
-
-
-
-```
 
 ---
 

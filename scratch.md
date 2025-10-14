@@ -237,8 +237,13 @@ For Documentation:
 ☐ Save both your challenge URLs
 ☐ Bookmark docsify-this.net
 ☐ Join Discord #Docsify-This channel
-☐ Try embedding in your platform
 ```
+
+### Next Week
+```
+☐ Publish your own Markdown file
+☐ Try a ready-made template
+☐ Share a Docsify-THis page URL
 
 ---
 

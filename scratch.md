@@ -168,7 +168,7 @@ A: No! 100% web-based. Just paste and go.
 A: On YOUR GitHub/server. You keep full control.
 
 **Q: Can I use private repos?**  
-A: Yes! Enable GitHub Pages, then use that URL.
+A: Yes! Enable GitHub Pages, then use those raw URLs
 
 **Q: Will Google index my pages?**  
 A: No (client-side rendering). Perfect for LMS content!
@@ -180,12 +180,6 @@ A: Free and open source forever!
 A: Yes! Host your own instance or use advanced URL parameters.
 
 ---
-
-## 🌟 Post-Session
-
-**Get Help & Stay Connected**
-- Discord: discord.gg/docsify → #Docsify-This
-- GitHub: github.com/hibbitts-design/docsify-this
 
 ## 📚 Additional Resources
 

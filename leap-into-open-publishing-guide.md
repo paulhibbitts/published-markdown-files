@@ -83,7 +83,7 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ☐ And who knows!
 ```
 
-### Share Your Result!
+### Share Your Findings!
 Post your Docsify-This URL in Discord and describe your design choice!
 
 ---
@@ -144,7 +144,7 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-des
 ### Hints Along the Way
 Watch Discord for hints if you get stuck!
 
-### Share Your Result!
+### Share Your Findings!
 Post your Docsify-This URL in Discord and share your style guesses!
 
 ---

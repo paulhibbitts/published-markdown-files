@@ -39,7 +39,7 @@ https://docsify-this.net
 
 ---
 
-## 🎨 Challenge 1: Style Explorations
+## 🎨 Challenge 1: Style Challenge
 
 ### Your Mission
 Transform this Markdown file YOUR way:

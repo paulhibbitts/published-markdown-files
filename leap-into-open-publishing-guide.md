@@ -50,7 +50,7 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 
 ### Try These Styles
 
-**Presentation Mode**
+**Presentation Style**
 ```
 ☐ Large font (32-36px)
 ☐ Dark mode: On
@@ -58,14 +58,14 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ☐ Sidebar: Closed
 ```
 
-**LMS Embedding**
+**LMS Embedding Style**
 ```
 ☐ Font: Match your LMS
 ☐ Size: 16-18px
 ☐ Max width: 100%
 ```
 
-**Project Documentation**
+**Project Documentation Style**
 ```
 ☐ Font: Sans serif
 ☐ Size: 18px

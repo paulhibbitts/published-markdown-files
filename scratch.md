@@ -45,7 +45,7 @@ https://docsify-this.net
 ### Your Mission
 Transform this Markdown file YOUR way:
 ```
-https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main/home.md
+https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md
 ```
 
 ### Try These Styles

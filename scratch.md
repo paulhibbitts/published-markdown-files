@@ -244,6 +244,7 @@ For Documentation:
 ☐ Publish your own Markdown file
 ☐ Try a ready-made template
 ☐ Share a Docsify-THis page URL
+```
 
 ---
 

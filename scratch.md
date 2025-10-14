@@ -198,7 +198,7 @@ Pre-configured styling for common needs:
 - Canvas LMS: [canvas.docsify-this.net](https://canvas.docsify-this.net)
 - Moodle LMS: [moodle.docsify-this.net](https://moodle.docsify-this.net)
 - Brightspace: [brightspace.docsify-this.net](https://brightspace.docsify-this.net)
-- Sakai LMS: [https://sakai.docsify-this.net](sakai.docsify-this.net)
+- Sakai LMS: [sakai.docsify-this.net](https://sakai.docsify-this.net)
 
 Just paste your Markdown URL and go!
 

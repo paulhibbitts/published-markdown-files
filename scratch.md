@@ -147,6 +147,46 @@ Watch Discord for progressive hints if you get stuck!
 
 ---
 
+## 🎯 Next Steps + Q&A
+
+**Before You Leave**
+- [ ] Save both your challenge URLs
+- [ ] Bookmark docsify-this.net
+- [ ] Join Discord #Docsify-This channel
+
+**Next Week**
+- [ ] Publish your own Markdown file
+- [ ] Try a ready-made template
+- [ ] Share a Docsify-This page URL
+
+### Frequently Asked Questions
+
+**Q: Do I need to install anything?**  
+A: No! 100% web-based. Just paste and go.
+
+**Q: Where is my content stored?**  
+A: On YOUR GitHub/server. You keep full control.
+
+**Q: Can I use private repos?**  
+A: Yes! Enable GitHub Pages, then use that URL.
+
+**Q: Will Google index my pages?**  
+A: No (client-side rendering). Perfect for LMS content!
+
+**Q: Is there a cost?**  
+A: Free and open source forever!
+
+**Q: Can I customize more?**  
+A: Yes! Host your own instance or use advanced URL parameters.
+
+---
+
+## 🌟 Post-Session
+
+**Get Help & Stay Connected**
+- Discord: discord.gg/docsify → #Docsify-This
+- GitHub: github.com/hibbitts-design/docsify-this
+
 ## 📚 Additional Resources
 
 - [Presets & Templates](#presets--templates)
@@ -218,48 +258,6 @@ For Documentation:
 ✓ "Edit this Page" link
 ✓ Comfortable line height
 ```
-
----
-
-## 🎯 Next Steps + Q&A
-
-**Before You Leave**
-- [ ] Save both your challenge URLs
-- [ ] Bookmark docsify-this.net
-- [ ] Join Discord #Docsify-This channel
-
-**Next Week**
-- [ ] Publish your own Markdown file
-- [ ] Try a ready-made template
-- [ ] Share a Docsify-This page URL
-
-### Frequently Asked Questions
-
-**Q: Do I need to install anything?**  
-A: No! 100% web-based. Just paste and go.
-
-**Q: Where is my content stored?**  
-A: On YOUR GitHub/server. You keep full control.
-
-**Q: Can I use private repos?**  
-A: Yes! Enable GitHub Pages, then use that URL.
-
-**Q: Will Google index my pages?**  
-A: No (client-side rendering). Perfect for LMS content!
-
-**Q: Is there a cost?**  
-A: Free and open source forever!
-
-**Q: Can I customize more?**  
-A: Yes! Host your own instance or use advanced URL parameters.
-
----
-
-## 🌟 Post-Session
-
-**Get Help & Stay Connected**
-- Discord: discord.gg/docsify → #Docsify-This
-- GitHub: github.com/hibbitts-design/docsify-this
 
 ---
 

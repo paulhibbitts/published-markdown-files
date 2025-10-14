@@ -8,7 +8,7 @@
 ## 📍 Session Roadmap
 
 | What We're Doing | Your Action |
-|------|------------------|-------------|
+|------------------|-------------|
 | Intro | Watch the magic! |
 | Web Page Builder Demo | Take notes on workflow |
 | **🎨 Style Challenge** | **CREATE your page!** |

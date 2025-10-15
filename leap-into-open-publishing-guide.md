@@ -21,8 +21,8 @@
 
 ### The 3-Step Process
 
-**1. Get Your Markdown URL**
-- GitHub: View file → Copy URL
+**1. Get Your Markdown file URL**
+- GitHub or Codeberg: View file → Copy URL
 - Or use either example:
   - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md)
   - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md)

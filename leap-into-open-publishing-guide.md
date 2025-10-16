@@ -185,6 +185,25 @@ A: Yes! Host your own instance or use advanced URL parameters.
 
 ## 📚 Additional Resources
 
+### Frequently Asked Questions
+Q: Do I need to install anything?
+A: No! 100% web-based. Just paste and go.
+
+Q: Where is my content stored?
+A: On YOUR GitHub/Codeberg/server account. You keep full control.
+
+Q: Can I use private repos?
+A: Yes! Enable GitHub Pages, then use those raw URLs
+
+Q: Will Google index my pages?
+A: No (due to client-side rendering).
+
+Q: Is there a cost?
+A: No, Docsify-This is free and open source!
+
+Q: Can I customize more?
+A: Yes! Advanced URL parameters are available, and CSS is even support. Still not enough? Host your own instance!
+
 ### All About Markdown 
 
 * Markdown Format

@@ -128,12 +128,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 ## 🔍 Challenge 2: Style Detective
 
 ### Your Mission
-**Decode this Docsify-This URL!** Figure out what styling choices were made by analyzing the URL parameters.
-
-### Mystery URL to Decode
-```
-https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3&font-family=Open%20Sans,sans-serif&font-size=28px&header-weight=600&close-sidebar=true&max-width=55ch&dark-mode=on
-```
+**Decode this Docsify-This URL!** Examine Docsify-This page URL posted in Discord and figure out what styling choices were made by analyzing the URL parameters.
 
 ### Your Detective Work
 Analyze the URL and identify these styling choices:

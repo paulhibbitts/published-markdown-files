@@ -154,7 +154,7 @@ Post your decoded styling list in Discord and share if any parameters were unexp
 
 ---
 
-## Alternative Version (Shorter URL)
+## Practice Version (Shorter URL)
 
 ### Mystery URL to Decode
 ```

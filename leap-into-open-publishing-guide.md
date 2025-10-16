@@ -108,7 +108,7 @@ https://docsify-this.net?basePath=...
 
 You can also add an URL parameter if one is not present (and a default value is being used).
 
-### Some Commonly Adjusted Parameters
+### Some Other Commonly Adjusted Parameters
 
 | Parameter | Options | Example |
 |-----------|---------|---------|

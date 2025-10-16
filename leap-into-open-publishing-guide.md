@@ -48,7 +48,7 @@ Transform this Markdown file YOUR way:
 https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md
 ```
 
-### Try These Styles
+### Consider These Style Types
 
 **Presentation Style**
 ```

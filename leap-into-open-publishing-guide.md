@@ -52,21 +52,24 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 
 **Presentation Style**
 ```
+☐ Page layout: Content only
 ☐ Large font (32-36px)
 ☐ Dark mode: On
 ☐ Max width: 80%
-☐ Sidebar: Closed
 ```
 
 **LMS Embedding Style**
 ```
+☐ Page layout: Content only
 ☐ Font: Match your LMS
 ☐ Size: 16-18px
+☐ Link color: Visually match or find out HexCode
 ☐ Max width: 100%
 ```
 
 **Project Documentation Style**
 ```
+☐ Page layout: Table of Contents or Sidebar
 ☐ Font: Sans serif
 ☐ Size: 18px
 ☐ Max width: 65ch
@@ -74,6 +77,7 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 
 **Your Way!**
 ```
+☐ Page layout: ???
 ☐ Font family: ???
 ☐ Font size: ???
 ☐ Link color: ???

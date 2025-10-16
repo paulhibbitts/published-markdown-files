@@ -112,9 +112,9 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 | Parameter | Options | Example |
 |-----------|---------|---------|
-| `font-size` | 10-72px | `&font-size=24px` |
-| `link-color` | Hex (no #) | `&link-color=CC0000` |
-| `max-width` | px or % | `&max-width=800px` |
+| `dark-mode` | false/auto/on | `&dark-mode=auto` |
+| `sidebar` or `toc` | true/false | `&sidebar=true` |
+| `header-weight` | 400-700 | `&header-weight=600` |
 
 ### Why This Matters
 ✅ **Quickly refine** styled pages  

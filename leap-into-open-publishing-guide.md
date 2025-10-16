@@ -163,7 +163,7 @@ Post your decoded styling list in Discord and share what you discovered about UR
 
 ### Mystery URL to Decode
 ```
-https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&toc=true&font-size=24px&link-color=0374B5&max-width=80%
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&toc=true&font-size=24px&link-color=0374B5&max-width=80
 ```
 
 ---

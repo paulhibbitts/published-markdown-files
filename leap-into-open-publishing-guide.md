@@ -108,12 +108,13 @@ https://docsify-this.net?basePath=...
 
 You can also add an URL parameter if one is not present (and a default value is being used).
 
-### Some Other Commonly Adjusted Parameters
+### Some Other Commonly Added or Adjusted Parameters
 
 | Parameter | Options | Example |
 |-----------|---------|---------|
 | `dark-mode` | false/auto/on | `&dark-mode=auto` |
 | `sidebar` or `toc` | true/false | `&sidebar=true` |
+| `maxLevel` | 1-6 (Sidebar header depth) | `&maxLevel=3` |
 | `header-weight` | 400-700 | `&header-weight=600` |
 
 ### Why This Matters

@@ -227,7 +227,7 @@ Just paste your Markdown URL and go!
 - Multi-page website: [github.com/hibbitts-design/docsify-this-multiple-page-site](https://github.com/hibbitts-design/docsify-this-multiple-page-site)
 - Blog-style website: [github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site](https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site)
 
-**To use:** Click "Use this template" → Create repo → Edit → Copy Markdown file URL → Publish!
+**To use:** Click "Use this template" → Create repo → Edit → Copy `home.md` URL → Publish!
 
 ---
 

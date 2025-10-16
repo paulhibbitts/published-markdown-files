@@ -128,29 +128,43 @@ You can also add an URL parameter if one is not present (and a default value is 
 ## 🔍 Challenge 2: Style Detective
 
 ### Your Mission
-**Match the target design!** Look at the Docsify-This page screenshot posted in Discord.
+**Decode this Docsify-This URL!** Figure out what styling choices were made by analyzing the URL parameters.
 
-### Starting Point (Unstyled)
+### Mystery URL to Decode
 ```
-https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3&font-family=Open%20Sans,sans-serif&font-size=28px&header-weight=600&close-sidebar=true&max-width=55ch&dark-mode=on
 ```
 
-### Aspects to Consider
+### Your Detective Work
+Analyze the URL and identify these styling choices:
+
 ```
 ☐ Page layout:
+☐ Sidebar header level:
 ☐ Font family:
 ☐ Font size:
-☐ Link color:
 ☐ Headers weight:
 ☐ Width:
-☐ Sidebar header level:
+☐ Dark mode setting:
 ```
 
-### Hints Along the Way
-Watch Discord for hints if you get stuck!
+### Bonus Challenge
+Try to recreate the same styling using the Web Page Builder instead of URL parameters!
 
-### Share Your Results!
-Post your Docsify-This URL in Discord and share your style guesses!
+### Hints Along the Way
+Watch Discord for hints if you get stuck decoding any parameters!
+
+### Share Your Findings!
+Post your decoded styling list in Discord and share what you discovered about URL parameter structure!
+
+---
+
+## Alternative Version (Shorter URL)
+
+### Mystery URL to Decode
+```
+https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&toc=true&font-size=24px&link-color=0374B5&max-width=80%
+```
 
 ---
 

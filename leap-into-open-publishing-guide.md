@@ -140,7 +140,7 @@ Analyze the URL and identify these styling choices:
 
 ```
 ☐ Page layout:
-☐ Sidebar header level:
+☐ Navigation header level:
 ☐ Font family:
 ☐ Font size:
 ☐ Headers weight:

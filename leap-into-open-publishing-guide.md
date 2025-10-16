@@ -112,10 +112,10 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 | Parameter | Options | Example |
 |-----------|---------|---------|
-| `dark-mode` | false/auto/on | `&dark-mode=auto` |
 | `sidebar` or `toc` | true/false | `&sidebar=true` |
 | `maxLevel` | 1-6 (Sidebar header depth) | `&maxLevel=3` |
 | `header-weight` | 400-700 | `&header-weight=600` |
+| `dark-mode` | false/auto/on | `&dark-mode=auto` |
 
 ### Why This Matters
 ✅ **Quickly refine** styled pages  

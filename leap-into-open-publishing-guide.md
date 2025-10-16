@@ -219,7 +219,7 @@ Pre-configured styling for common needs:
 
 Just paste your Markdown URL and go!
 
-#### Ready-to-Use Templates
+#### Some of the Ready-to-Use Templates
 **Don't start from scratch!** Use these GitHub templates:
 
 - Single article/document: [github.com/hibbitts-design/docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article)

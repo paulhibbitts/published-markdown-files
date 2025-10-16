@@ -220,7 +220,7 @@ Pre-configured styling for common needs:
 - Brightspace: [brightspace.docsify-this.net](http://brightspace.docsify-this.net)
 - Sakai: [sakai.docsify-this.net](http://sakai.docsify-this.net)
 
-Just paste your Markdown URL and go!
+Just paste your Markdown file URL and go!
 
 #### Some of the Ready-to-Use Templates
 **Don't start from scratch!** Use these GitHub templates:

@@ -128,7 +128,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 ## 🔍 Challenge 2: Style Detective
 
 ### Your Mission
-**Decode this Docsify-This URL!** Examine Docsify-This page URL posted in Discord and figure out what styling choices were made by analyzing the URL parameters.
+**Decode this Docsify-This URL!** Examine the Docsify-This page URL posted in Discord and figure out what styling choices were made by analyzing the URL parameters.
 
 ### Your Detective Work
 Analyze the URL and identify these styling choices:
@@ -150,7 +150,7 @@ Try to recreate the same styling using the Web Page Builder instead of URL param
 Watch Discord for hints if you get stuck decoding any parameters!
 
 ### Share Your Findings!
-Post your decoded styling list in Discord and share what you discovered about URL parameter structure!
+Post your decoded styling list in Discord and share if any parameters were unexpected or gave you ideas for your own styling!
 
 ---
 

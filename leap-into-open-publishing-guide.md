@@ -32,11 +32,11 @@
 **1. Get Your Markdown file URL**
 - GitHub or Codeberg: View file → Copy URL
 - Or use either example:
-  - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md ':target=_blank') ↗️
-  - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md ':target=_blank') ↗️
+  - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md ':target=_blank') ↗
+  - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md ':target=_blank') ↗
 
 **2. Visit the Docsify-This Web Page Builder**
-- [Open Docsify-This.net](https://docsify-this.net ':target=_blank') ↗️
+- [Open Docsify-This.net](https://docsify-this.net ':target=_blank') ↗
 
 **3. Paste → Style → Publish!**
 - Paste Markdown file URL into Web Page Builder

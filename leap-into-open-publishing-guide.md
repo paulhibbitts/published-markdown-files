@@ -24,6 +24,7 @@
     <source srcset="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder-dark.png" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder.png" alt="Docsify-This">
   </picture>
+  <em><a href="https://docsify-this.net">Docsify-This.net</a> Web Page Builder.</em>
 </p>
 
 [Docsify-This.net](https://docsify-this.net) Web Page Builder.

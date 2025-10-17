@@ -36,9 +36,7 @@
   - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md)
 
 **2. Visit the Docsify-This Web Page Builder**
-```
-https://docsify-this.net
-```
+- [Open Docsify-This.net](https://docsify-this.net)
 
 **3. Paste → Style → Publish!**
 - Paste Markdown file URL into Web Page Builder

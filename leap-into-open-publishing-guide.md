@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quickstart
 
 <p>
   <picture>

@@ -1,4 +1,4 @@
-# Leap into Open Publishing with Docsify-This!
+# Leap into Open Publishing with Docsify-This
 
 **Follow along during the session • Try the challenges • Share results • Ask questions**
 
@@ -30,15 +30,18 @@
 ### The 3-Step Process
 
 **1. Get Your Markdown file URL**
+
 - GitHub or Codeberg: View file › Copy URL
 - Or use either example:
   - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md ':target=_blank') ↗
   - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md ':target=_blank') ↗
 
 **2. Visit the Docsify-This Web Page Builder**
+
 - [Open Docsify-This.net](https://docsify-this.net ':target=_blank') ↗
 
 **3. Paste › Style › Publish!**
+
 - Paste Markdown file URL into Web Page Builder
 - Choose page layout (Content Only / ToC / Sidebar)
 - Tap **Show More Page Appearance Options »** link for more styling options
@@ -49,7 +52,9 @@
 ## 🎨 Challenge 1: Style Lab
 
 ### Your Mission
+
 Transform this Markdown file YOUR way:
+
 ```
 https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md
 ```
@@ -57,6 +62,7 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ### Consider These Style Types
 
 **Presentation Style**
+
 ```
 ☐ Page layout: Content only
 ☐ Large font (32-36px)
@@ -65,6 +71,7 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ```
 
 **LMS Embedding Style**
+
 ```
 ☐ Page layout: Content only
 ☐ Font: Match your LMS
@@ -74,6 +81,7 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ```
 
 **Project Documentation Style**
+
 ```
 ☐ Page layout: Table of Contents or Sidebar
 ☐ Font: Sans serif
@@ -82,6 +90,7 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ```
 
 **Your Way!**
+
 ```
 ☐ Page layout: ???
 ☐ Font family: ???
@@ -93,7 +102,8 @@ https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/READM
 ☐ And who knows!
 ```
 
-### Share Your Results!
+### Share Your Results
+
 Post your Docsify-This URL in Discord and describe your design choice!
 
 ---
@@ -101,9 +111,11 @@ Post your Docsify-This URL in Discord and describe your design choice!
 ## ⚡ Power Tip: URL Parameters
 
 ### The Pro Shortcut
+
 Instead of using the Web Page Builder every time, you can also **edit URL parameters directly** when viewing the published page!
 
 ### Example URL Breakdown
+
 ```
 https://docsify-this.net?basePath=...
 &homepage=home.md
@@ -124,6 +136,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 | `dark-mode` | false/auto/on | `&dark-mode=auto` |
 
 ### Why This Matters
+
 ✅ **Quickly refine** styled pages  
 ✅ **Batch-style** multiple pages  
 ✅ **Share recipes** as plain text  
@@ -134,9 +147,11 @@ You can also add an URL parameter if one is not present (and a default value is 
 ## 🔍 Challenge 2: Style Detective
 
 ### Your Mission
+
 **Decode this Docsify-This URL!** Examine the Docsify-This page URL posted in Discord and figure out what styling choices were made by analyzing the URL parameters.
 
 ### Your Detective Work
+
 Analyze the URL and identify these styling choices:
 
 ```
@@ -150,12 +165,15 @@ Analyze the URL and identify these styling choices:
 ```
 
 ### Bonus Challenge
+
 Try to recreate the same styling using the Web Page Builder instead of URL parameters!
 
 ### Hints Along the Way
+
 Watch Discord for hints if you get stuck decoding any parameters!
 
-### Share Your Findings!
+### Share Your Findings
+
 Post your decoded styling list in Discord and share if any parameters were unexpected or gave you ideas for your own styling!
 
 ---
@@ -163,6 +181,7 @@ Post your decoded styling list in Discord and share if any parameters were unexp
 ## Practice Version (Shorter URL)
 
 ### Mystery URL to Decode
+
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
 ```
@@ -172,11 +191,13 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 ## 🎯 Next Steps + Q&A
 
 **Before You Leave**
+
 - [ ] Save both your challenge URLs
 - [ ] Bookmark [Docsify-This.net](https://docsify-this.net)
 - [ ] Join Discord #Docsify-This channel
 
 **Next Week**
+
 - [ ] Publish your own Markdown file
 - [ ] Try a ready-made template
 - [ ] Share a Docsify-This page URL
@@ -205,32 +226,35 @@ A: Yes! Advanced URL parameters are available, and custom CSS is supported. Stil
 
 ## 📚 Additional Resources
 
-### All About Markdown 
+### All About Markdown
 
-* Markdown Format
-  * [What Is Markdown, and How Do You Use It?](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
-  * [Markdown Guide](http://markdownguide.org)
-  * [Markdown Cheatsheet](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Accessibility
-  * [Improving The Accessibility Of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)
-* Creating and Editing Markdown on GitHub
-  * [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-  * [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
-* Markdown Desktop Editors
-  * [VSCode](https://code.visualstudio.com/)
-  * [Pulsar (was Atom.io)](https://pulsar-edit.dev/)
-  * [Typora](https://typora.io/)
+- Markdown Format
+  - [What Is Markdown, and How Do You Use It?](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
+  - [Markdown Guide](http://markdownguide.org)
+  - [Markdown Cheatsheet](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Accessibility
+  - [Improving The Accessibility Of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)
+- Creating and Editing Markdown on GitHub
+  - [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+  - [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
+- Markdown Desktop Editors
+  - [VSCode](https://code.visualstudio.com/)
+  - [Pulsar (was Atom.io)](https://pulsar-edit.dev/)
+  - [Typora](https://typora.io/)
 
 ### Docsify-This Presets & Templates
 
 #### Load-and-Go Presets
+
 Pre-configured styling for common needs:
 
 **Presentations:**
+
 - Basic presentation: [present.docsify-this.net](http://present.docsify-this.net)
 - With navigation sidebar (auto-closes): [present-nav.docsify-this.net](http://present-nav.docsify-this.net)
 
 **LMS Integration:**
+
 - Canvas: [canvas.docsify-this.net](http://canvas.docsify-this.net)
 - Moodle: [moodle.docsify-this.net](http://moodle.docsify-this.net)
 - Brightspace: [brightspace.docsify-this.net](http://brightspace.docsify-this.net)
@@ -239,6 +263,7 @@ Pre-configured styling for common needs:
 Just paste your Markdown file URL and go!
 
 #### Some of the Ready-to-Use Templates
+
 **Don't start from scratch!** Use these GitHub templates:
 
 - Single article/document: [github.com/hibbitts-design/docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article)

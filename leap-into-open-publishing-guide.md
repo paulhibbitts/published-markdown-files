@@ -25,9 +25,8 @@
     <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder.png" alt="Docsify-This">
   </picture>
 </p>
-<p>
-  <em>The Docsify-This Web Page Builder - just paste your Markdown URL, style and publish!</em>
-</p>
+
+[Docsify-This.net](https://docsify-this.net) Web Page Builder.
 
 ### The 3-Step Process
 

@@ -2,14 +2,6 @@
 
 **Follow along during the session • Try the challenges • Share results • Ask questions**
 
-<p>
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder-dark.png" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder.png" alt="Docsify-This">
-  </picture>
-  <em>Figure 1. <a href="https://docsify-this.net">Docsify-This.net</a> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
-</p>
-
 ---
 
 ## 📍 Session Outline
@@ -26,6 +18,14 @@
 ---
 
 ## 🚀 Quickstart
+
+<p>
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder.png" alt="Docsify-This">
+  </picture>
+  <em>Figure 1. <a href="https://docsify-this.net">Docsify-This.net</a> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
+</p>
 
 ### The 3-Step Process
 

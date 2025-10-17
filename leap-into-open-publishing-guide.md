@@ -16,7 +16,7 @@
 | Next Steps + Q&A | Ask questions! |
 
 <p>
-  <em>Figure 1. **Docsify-This.net** Web Page Builder - just paste your Markdown file URL, style and publish!</em>
+  <em>Figure 1. <strong>Docsify-This.net</strong> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
 </p>
 <p>
  <picture>

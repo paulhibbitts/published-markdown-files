@@ -27,8 +27,6 @@
   <em><a href="https://docsify-this.net">Docsify-This.net</a> Web Page Builder.</em>
 </p>
 
-[Docsify-This.net](https://docsify-this.net) Web Page Builder.
-
 ### The 3-Step Process
 
 **1. Get Your Markdown file URL**

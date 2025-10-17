@@ -17,13 +17,11 @@
 
 ---
 
-<p>
-  <em>Figure 1. <a href="https://docsify-this.net">Docsify-This.net</a> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
-  <picture style="margin-left: -10px;">
-    <source srcset="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder-dark.png" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder.png" alt="Docsify-This">
-  </picture>
-</p>
+<em>Figure 1. <a href="https://docsify-this.net">Docsify-This.net</a> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
+<picture style="margin-left: -10px;">
+  <source srcset="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-6-web-page-builder.png" alt="Docsify-This">
+</picture>
 
 ## 🚀 Quickstart
 

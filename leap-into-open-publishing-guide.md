@@ -30,7 +30,7 @@
 ### The 3-Step Process
 
 **1. Get Your Markdown file URL**
-- GitHub or Codeberg: View file → Copy URL
+- GitHub or Codeberg: View file › Copy URL
 - Or use either example:
   - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md ':target=_blank') ↗
   - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md ':target=_blank') ↗
@@ -38,7 +38,7 @@
 **2. Visit the Docsify-This Web Page Builder**
 - [Open Docsify-This.net](https://docsify-this.net ':target=_blank') ↗
 
-**3. Paste → Style → Publish!**
+**3. Paste › Style › Publish!**
 - Paste Markdown file URL into Web Page Builder
 - Choose page layout (Content Only / ToC / Sidebar)
 - Tap **Show More Page Appearance Options »** link for more styling options
@@ -246,7 +246,7 @@ Just paste your Markdown file URL and go!
 - Multi-page website: [github.com/hibbitts-design/docsify-this-multiple-page-site](https://github.com/hibbitts-design/docsify-this-multiple-page-site)
 - Blog-style website: [github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site](https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site)
 
-**To use:** Click "Use this template" → Create repo → Edit → Copy `home.md` URL → Paste URL → Publish!
+**To use:** Click "Use this template" › Create repo › Edit › Copy `home.md` URL › Paste URL › Publish!
 
 ---
 

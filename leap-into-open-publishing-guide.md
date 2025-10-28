@@ -81,7 +81,7 @@ Transform this Markdown file YOUR way:
 
 [https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md ':target=_blank') ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
-Use the [Docsify-This](https://docsify-this.net)  Web Page Builder you just visited!
+Use the [Docsify-This.net](https://docsify-this.net) Web Page Builder you just visited!
 
 ### Consider These Style Types
 

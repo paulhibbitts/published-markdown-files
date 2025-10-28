@@ -49,6 +49,24 @@
 
 ---
 
+## 📝 Markdown Basics (Quick Reference)
+
+**No worries!** You can complete today's challenges using the provided example files. But if you want to edit Markdown files later, here are the essentials:
+
+| You Type | You Get |
+|----------|---------|
+| `# Heading 1` | Large heading |
+| `## Heading 2` | Medium heading |
+| `**bold text**` | **bold text** |
+| `*italic text*` | *italic text* |
+| `[link text](URL)` | Clickable link |
+| `![alt text](image.jpg)` | Embedded image |
+| `- Item` | • Bulleted list |
+
+**That's it for basics!** See "Additional Resources" section for comprehensive Markdown guides.
+
+---
+
 ## 🎨 Challenge 1: Style Lab
 
 ### Your Mission

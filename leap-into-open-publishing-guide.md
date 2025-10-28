@@ -9,8 +9,8 @@
 | What We're Doing | Join In |
 |------------------|-------------|
 | Intro | Experience the magic! |
-| 📝 Markdown Basics | Quick review |
 | Web Page Builder Demo | View the workflow |
+| 📝 Markdown Basics | Quick review |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | MATCH a design! |

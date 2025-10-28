@@ -9,6 +9,7 @@
 | What We're Doing | Join In |
 |------------------|-------------|
 | Intro | Experience the magic! |
+| 📝 Markdown Basics | Quick review |
 | Web Page Builder Demo | View the workflow |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
@@ -24,6 +25,24 @@
   <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-7-web-page-builder.png" alt="Docsify-This">
  </picture>
 </p>
+
+## 📝 Markdown Basics
+
+**Before we dive in**, let's quickly review what Markdown is — the simple format that powers everything you'll publish today.
+
+| You Would Type | You Would Get |
+|----------|---------|
+| `# Heading 1` | Large heading |
+| `## Heading 2` | Medium heading |
+| `**bold text**` | **bold text** |
+| `*italic text*` | *italic text* |
+| `[link text](URL)` | Clickable link |
+| `![alt text](image.jpg)` | Embedded image |
+| `- Item` | • Bulleted list |
+
+**Ready to see it in action?** Let's publish your first page!
+
+---
 
 ## 🚀 Quickstart
 
@@ -46,24 +65,6 @@
 - Choose page layout (Content Only / ToC / Sidebar)
 - Tap **Show More Page Appearance Options »** link for more styling options
 - Click **Publish as a Web Page** button
-
----
-
-## 📝 Markdown Basics
-
-**No worries!** You can complete today's challenges using the provided example files. But if you want to edit Markdown files later, here are the essentials:
-
-| You Type | You Get |
-|----------|---------|
-| `# Heading 1` | Large heading |
-| `## Heading 2` | Medium heading |
-| `**bold text**` | **bold text** |
-| `*italic text*` | *italic text* |
-| `[link text](URL)` | Clickable link |
-| `![alt text](image.jpg)` | Embedded image |
-| `- Item` | • Bulleted list |
-
-**That's it for basics!** See [Additional Resources](?id=-additional-resources) section for comprehensive Markdown guides.
 
 ---
 

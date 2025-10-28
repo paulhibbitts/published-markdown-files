@@ -17,7 +17,7 @@
 | Next Steps + Q&A | Ask questions! |
 
 <details>
-<summary>📷 Show me the Web Page Builder interface</summary>
+<summary>📷 Show me a preview of the Web Page Builder interface</summary>
 
 <p>
   <em>Figure 1. <strong>Docsify-This</strong> Web Page Builder - just paste your Markdown file URL, style and publish!</em>

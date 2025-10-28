@@ -126,7 +126,7 @@ Transform this Markdown file YOUR way:
 
 ### Share Your Results
 
-Post your Docsify-This URL in Discord and describe your design choice!
+Post your Docsify-This URL in the session chat and describe your design choice!
 
 ---
 
@@ -170,7 +170,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 ### Your Mission
 
-**Decode this Docsify-This URL!** Examine the Docsify-This page URL posted in Discord and figure out what styling choices were made by analyzing the URL parameters.
+**Decode this Docsify-This URL!** Examine the Docsify-This page URL posted in the session chat and figure out what styling choices were made by analyzing the URL parameters.
 
 ### Your Detective Work
 
@@ -192,11 +192,11 @@ Try to recreate the same styling using the Web Page Builder instead of URL param
 
 ### Hints Along the Way
 
-Watch Discord for hints if you get stuck decoding any parameters!
+Watch the session chat for hints if you get stuck decoding any parameters!
 
 ### Share Your Findings
 
-Post your decoded styling list in Discord and share if any parameters were unexpected or gave you ideas for your own styling!
+Post your decoded styling list in the session chat and share if any parameters were unexpected or gave you ideas for your own styling!
 
 ---
 

@@ -79,7 +79,7 @@
 
 Transform this Markdown file YOUR way:
 
-https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL to Clipboard</button>
+[https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md ':target=_blank') ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL to Clipboard</button>
 
 ### Consider These Style Types
 

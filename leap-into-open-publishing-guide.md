@@ -49,7 +49,7 @@
 
 ---
 
-## 📝 Markdown Basics (Quick Reference)
+## 📝 Markdown Basics
 
 **No worries!** You can complete today's challenges using the provided example files. But if you want to edit Markdown files later, here are the essentials:
 
@@ -63,7 +63,7 @@
 | `![alt text](image.jpg)` | Embedded image |
 | `- Item` | • Bulleted list |
 
-**That's it for basics!** See "Additional Resources" section for comprehensive Markdown guides.
+**That's it for basics!** See [Additional Resources](?id=-additional-resources) section for comprehensive Markdown guides.
 
 ---
 

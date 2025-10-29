@@ -61,7 +61,7 @@
 
 **2. Visit the Docsify-This Web Page Builder**
 
-- [Open Docsify-This.net](https://docsify-this.net#/) ↗
+- [Open Docsify-This.net](https://docsify-this.net#/ ':target=_blank') ↗
 
 **3. Paste › Style › Publish!**
 
@@ -80,7 +80,7 @@ Transform this Markdown file YOUR way:
 
 [https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
-Paste the above URL into the [Docsify-This.net](https://docsify-this.net) ↗ Web Page Builder you just visited! Don't see the expected styling options? Tap the **Show More Page Appearance Options »** link.
+Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':target=_blank') ↗ Web Page Builder you just visited! Don't see the expected styling options? Tap the **Show More Page Appearance Options »** link.
 
 ### Consider These Style Types
 
@@ -219,7 +219,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 **Before You Leave**
 
 - [ ] Save your Challenge 1 URL
-- [ ] Bookmark [Docsify-This.net](https://docsify-this.net)
+- [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
 - [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
 
 **After Today's Session**
@@ -305,7 +305,7 @@ Just paste your Markdown file URL and go!
 
 | Resource | URL |
 |----------|-----|
-| **Web Page Builder** | [docsify-this.net](https://docsify-this.net) |
+| **Web Page Builder** | [docsify-this.net](https://docsify-this.net ':target=_blank') |
 | **Full Documentation** | [readme.docsify-this.net](http://readme.docsify-this.net) |
 | **Templates** | [github.com/hibbitts-design](https://github.com/hibbitts-design) |
 | **Discord Community** | [discord.gg/docsify](https://discord.gg/docsify) |

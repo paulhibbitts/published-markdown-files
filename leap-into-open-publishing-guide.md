@@ -237,7 +237,7 @@ A: No! 100% web-based. Just paste and go.
 A: On YOUR GitHub/Codeberg/server account. You keep full control.
 
 **Q: Can I use private repos?**  
-A: Yes! Enable GitHub Pages, then use those raw URLs
+A: Yes! Enable GitHub Pages, then use those raw URLs.
 
 **Q: Will Google index my pages?**  
 A: No (due to client-side rendering).

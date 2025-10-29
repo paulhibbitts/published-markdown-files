@@ -9,7 +9,7 @@
 | What We're Doing | Join In |
 |------------------|-------------|
 | 📝 Markdown Basics | Brief review |
-| 🚀 Quickstart | Experience the magic! |
+| 🚀 Quickstart | Experience the magic |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | MATCH a design! |

@@ -222,7 +222,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 - [ ] Bookmark [Docsify-This.net](https://docsify-this.net)
 - [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
 
-**Next Week**
+**After Today's Session**
 
 - [ ] Publish your own Markdown file
 - [ ] Try a ready-made template

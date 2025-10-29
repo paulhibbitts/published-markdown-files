@@ -15,6 +15,9 @@
 | 🔍 Challenge 2: Style Detective | MATCH a design! |
 | Next Steps + Q&A | Ask questions! |
 
+> [!NOTE]
+> All external links in this guide open in a new browser tab.
+
 ## 📝 Markdown Basics
 
 **Before we dive in**, let's quickly review what Markdown is — the simple format that powers everything you'll publish today.

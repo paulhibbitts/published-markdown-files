@@ -211,10 +211,10 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ---
 
+## 🎯 Next Steps + Q&A
+
 > [!NOTE]
 > All external links below open in a new browser tab.
-
-## 🎯 Next Steps + Q&A
 
 **Before You Leave**
 

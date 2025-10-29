@@ -246,7 +246,7 @@ A: No (due to client-side rendering).
 A: No, Docsify-This is free and open source!
 
 **Q: Can I customize more?**  
-A: Yes! Advanced URL parameters are available, and custom CSS is supported. Still not enough? Host your own instance!
+A: Yes! Advanced URL parameters are available, and in addition to supported Markdown CSS classes custom CSS is also possible. Still not enough? Host your own instance!
 
 ---
 

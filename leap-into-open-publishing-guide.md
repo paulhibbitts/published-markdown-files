@@ -1,4 +1,4 @@
-# Leap into Open Publishing with Docsify-This
+# Leap into Open Publishing with Docsify&#8209;This
 
 **Follow along • Try the challenges • Share results • Ask questions**
 

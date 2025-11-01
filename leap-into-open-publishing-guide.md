@@ -146,7 +146,7 @@ Instead of using the Web Page Builder every time, you can also **edit URL parame
 https://docsify-this.net?basePath=...
 &homepage=home.md
 &font-size=18px     ← Change this! (size in pixels)
-&link-color=0374B5  ← Or this! (6-digit hex color code, i.e. CC0000)
+&link-color=0374B5  ← Or this! (6-digit hex color, e.g. CC0000)
 &max-width=80%      ← Or this! (percentage width)
 ```
 

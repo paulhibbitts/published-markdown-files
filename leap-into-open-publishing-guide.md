@@ -311,7 +311,7 @@ Just paste your Markdown file URL and go!
 | Resource | URL |
 |----------|-----|
 | **Web Page Builder** | [docsify-this.net](https://docsify-this.net ':target=_blank') |
-| **Markdown Publishing with Docsify-This Guide** | [publishing.docsify-this.net](http://publishing.docsify-this.net) |
+| **Markdown Publishing Guide** | [publishing.docsify-this.net](http://publishing.docsify-this.net) |
 | **Full Documentation** | [readme.docsify-this.net](http://readme.docsify-this.net) |
 | **Templates** | [github.com/hibbitts-design](https://github.com/hibbitts-design) |
 | **Discord Community** | [discord.gg/docsify](https://discord.gg/docsify) |

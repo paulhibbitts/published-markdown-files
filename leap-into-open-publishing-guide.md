@@ -70,6 +70,9 @@
 - Tap **Show More Page Appearance Options »** link for more styling options
 - Click **Publish as a Web Page** button
 
+> [!TIP]
+> After publishing, take a look at the URL in your browser's address bar - notice how your styling choices appear as URL parameters!
+
 ---
 
 ## 🎨 Challenge 1: Style Lab

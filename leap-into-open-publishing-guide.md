@@ -290,7 +290,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 #### Step 3: View as Docsify-This Web Page 
 
 1. On your new repository, **view the Markdown file**
-2. **Copy the file URL** 
+2. **Copy the file URL** (just the regular URL - a raw URL is not required)
 3. Go to [Docsify-This.net](https://docsify-this.net ':target=_blank') ↗
 4. **Paste** the copied URL into the **Markdown file URL** field
 5. Tap the **Publish as Web Page** button

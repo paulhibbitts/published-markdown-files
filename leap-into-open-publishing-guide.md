@@ -229,7 +229,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 **After Today's Session**
 
-- [ ] Consider trying the **[Power Challenge](#%EF%B8%8F-power-challenge-own-your-own)**
+- [ ] Consider trying the **[Power Challenge](#%E2%9A%A1%EF%B8%8F-power-challenge-own-your-own)**
 - [ ] Try a ready-made template
 - [ ] Share a Docsify-This page URL
 

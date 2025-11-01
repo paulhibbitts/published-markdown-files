@@ -159,7 +159,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 | `sidebar` or `toc` | true/false | `&sidebar=true` |
 | `maxLevel` | 1-6 (Sidebar header depth) | `&maxLevel=3` |
 | `header-weight` | 400-700 | `&header-weight=600` |
-| `dark-mode` | false/auto/on | `&dark-mode=auto` |
+| `dark-mode` | on/false/auto | `&dark-mode=auto` |
 
 ### Why This Matters
 

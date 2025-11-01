@@ -71,7 +71,7 @@
 - Click **Publish as a Web Page** button
 
 > [!TIP]
-> After publishing, take a look at the URL in your browser's address bar - notice how your styling choices appear as URL parameters!
+> After publishing, take a look at the URL in your browser's address bar - notice how your styling choices appear as URL parameters.
 
 ---
 

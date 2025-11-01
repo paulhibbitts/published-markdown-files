@@ -138,7 +138,7 @@ Post your Docsify-This URL in the session chat and describe your design choice!
 
 ### The Pro Shortcut
 
-Instead of using the Web Page Builder every time, you can also **edit URL parameters directly** when viewing the published page!
+Instead of using the Web Page Builder every time, you can also **edit URL parameters directly** when viewing a published page!
 
 ### Example URL Breakdown
 

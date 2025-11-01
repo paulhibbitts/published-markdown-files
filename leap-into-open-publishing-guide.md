@@ -102,7 +102,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ☐ Page layout: Content only
 ☐ Font: Match your LMS
 ☐ Size: 16-18px
-☐ Link color: Visually match or find out HexCode
+☐ Link color: Visually match or find out hex color code
 ☐ Max width: 100%
 ```
 

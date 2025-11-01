@@ -255,6 +255,51 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ---
 
+## ⚡️ Power Challenge: Own Your Own
+
+**Ready to go further?** Create your own Markdown content and publish it!
+
+### Your Mission
+Create and host your own Markdown file on GitHub or Codeberg.
+
+### For After the Session
+This challenge is perfect for continuing your Docsify-This journey, where you move from styling existing Markdown content to creating your own!
+
+### GitHub or Codeberg 
+
+#### Step 1: Create a New Repository
+
+1. **Log in** or **Sign up** to GitHub or Codeberg
+2. **Create a new repository**:
+   - Tap the **+** icon and select **New Repository**
+   - Fill in the repository details:
+     - Choose a **Repository Name** for your repository (e.g., `docsify-this-demo`)
+     - Confirm that the **Visibility** is **Public**
+   - Tap **Create Repository**
+
+#### Step 2: Create Your Markdown Content
+
+1. **Go to your new repository**, tap **Add File** and then choose **New File**
+2. **Name your file** and use the `.md` extension (e.g., `demo.md`)
+3. Enter your **Markdown content**. For example:
+   ```markdown
+   # Welcome!
+   
+   This is my sample Markdown file.
+   ```
+
+#### Step 3: View as Docsify-This Web Page 
+
+1. On your new repository, **view the Markdown file**
+2. **Copy the file URL** 
+3. Go to https://docsify-this.net
+4. **Paste** the copied URL into the **Markdown file URL** field
+5. Tap the **Publish as Web Page** button
+
+Congratulations, you have now published your new Markdown content with Docsify-This! In addition to creating new content, you can also upload existing Markdown files from your desktop to GitHub or Codeberg!
+
+---
+
 ## 📚 Additional Resources
 
 ### All About Markdown

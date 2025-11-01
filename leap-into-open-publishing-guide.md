@@ -142,6 +142,8 @@ Instead of using the Web Page Builder every time, you can also **edit URL parame
 
 ### Example URL Breakdown
 
+URL parameters are chained together using `&` (ampersand):
+
 ```
 https://docsify-this.net?basePath=...
 &homepage=home.md

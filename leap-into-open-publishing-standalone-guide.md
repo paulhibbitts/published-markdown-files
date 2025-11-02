@@ -186,7 +186,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 ### Your Mission
 
-**Decode this Docsify-This URL!** Examine the Docsify-This page URL below and figure out what styling choices were made by analyzing the URL parameters.
+**Decode this Docsify-This URL!**  
 
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md&edit-link-text=Suggest_an_Edit&edit-link-top=true&sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif&link-color=cc0000&header-weight=600&max-width=65ch&dark-mode=auto#/
@@ -207,6 +207,7 @@ Analyze the above URL and identify these styling choices:
 
 ### Check Your Work
 
+Compare your analysis with the answer below.
 <details>
   <summary>Show answer</summary><br>
 

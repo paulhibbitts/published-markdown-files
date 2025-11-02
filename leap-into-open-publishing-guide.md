@@ -184,12 +184,11 @@ Analyze the URL and identify these styling choices:
 
 ```
 ☐ Page layout:
-☐ Navigation header level:
 ☐ Font family:
 ☐ Font size:
+☐ Link color:
 ☐ Headers weight:
-☐ Width:
-☐ Dark mode setting:
+☐ ...and what else can you discover?
 ```
 
 ### Bonus Challenge

@@ -134,9 +134,9 @@ Post your Docsify-This URL in the session chat and describe your design choice!
 
 ---
 
-## ⚡ Power Tip: URL Parameters
+## ⚡ Level Up Tip: URL Parameters
 
-### The Pro Shortcut
+### Skip the Clicks
 
 Instead of using the Web Page Builder every time, you can also **edit URL parameters directly** when viewing a published page!
 
@@ -229,7 +229,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 **After Today's Session**
 
-- [ ] Consider trying the **[Power Challenge](#%E2%9A%A1%EF%B8%8F-power-challenge-own-your-own)**
+- [ ] Consider trying the **[Level Up Challenge](#%E2%9A%A1%EF%B8%8F-level-up-challenge-on-your-own)**
 - [ ] Try a ready-made template
 - [ ] Share a Docsify-This page URL
 
@@ -255,7 +255,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ---
 
-## ⚡️ Power Challenge: On Your Own
+## ⚡️ Level Up Challenge: On Your Own
 
 ### Your Mission
 

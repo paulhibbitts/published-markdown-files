@@ -92,7 +92,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ```
 ☐ Page layout: Content only
 ☐ Font: Merriweather
-☐ Font size: (16px)
+☐ Font size: 16px
 ```
 
 **Presentation Style**

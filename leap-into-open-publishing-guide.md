@@ -1,23 +1,26 @@
 # Leap into Open Publishing with Docsify&#8209;This
 
-**Follow along • Try the challenges • Share results • Ask questions**
+**Explore Docsify-This • Try the challenges • Join the community**
 
 ---
 
-## 📍 Session Outline
+## 📍 Guide Outline
 
-| What We're Doing | Join In |
+| Section | What You'll be Doing |
 |------------------|-------------|
 | 📝 Markdown Basics | Brief review |
 | 🚀 Quickstart | Experience the magic |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | MATCH a design! |
-| Next Steps + Q&A | Ask questions! |
+| 📄 Challenge 3: Create File | AUTHOR Markdown content! |
+| Next Steps + Common Questions | Find answers! |
+| 📚 Additional Resources | Explore in depth! |
+
 
 ## 📝 Markdown Basics
 
-**Before we dive in**, let's quickly review what Markdown is — the simple format that powers everything you'll publish today.
+**Before you dive in**, let's quickly review what Markdown is — the simple format that powers everything you'll publish today.
 
 | You Would Type | You Would Get |
 |----------|---------|
@@ -137,9 +140,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ☐ And who knows!
 ```
 
-### Share Your Results
-
-Post your Docsify-This URL in the session chat and describe your design choice!
+Congratulations on styling your own Docsify-This web page!
 
 ---
 
@@ -185,7 +186,11 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 ### Your Mission
 
-**Decode this Docsify-This URL!** Examine the Docsify-This page URL posted in the session chat and figure out what styling choices were made by analyzing the URL parameters.
+**Decode this Docsify-This URL!** Examine the below Docsify-This page URL and figure out what styling choices were made by analyzing the URL parameters.
+
+```
+https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md&edit-link-text=Suggest_an_Edit&edit-link-top=true&sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif&font-size=16px&link-color=cc0000&header-weight=600&max-width=65ch&dark-mode=auto
+```
 
 ### Your Detective Work
 
@@ -204,13 +209,26 @@ Analyze the URL and identify these styling choices:
 
 Try to recreate the same styling using the Web Page Builder instead of URL parameters!
 
-### Hints Along the Way
+### Need Help?
 
-Watch the session chat for hints if you get stuck decoding any parameters!
+Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-parameters) or use the **Practice Version** below with fewer parameters!
 
-### Share Your Findings
+### Check Your Work
 
-Post your decoded styling list in the session chat and share if any parameters were unexpected or gave you ideas for your own styling!
+Compare your findings with the initially hidden answer below.
+
+<details>
+  <summary>Show answer</summary><br>
+
+  - Page layout: Sidebar
+  - Font family: Merriweather
+  - Font size: 16 pixels
+  - Link color: cc0000 (red)
+  - Headers weight: 600 (semi bold)
+  - Max width: 65 characters
+  - Dark mode: Auto
+
+</details>
 
 ---
 
@@ -224,53 +242,14 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ---
 
-## 🎯 Next Steps + Q&A
-
-> [!NOTE]
-> All external links below open in a new browser tab.
-
-**Before You Leave**
-
-- [ ] Save your Challenge 1 URL
-- [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
-- [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
-
-**After Today's Session**
-
-- [ ] Consider trying the **[Level Up Challenge](#%E2%9A%A1%EF%B8%8F-level-up-challenge-on-your-own)**
-- [ ] Try a ready-made template
-- [ ] Share a Docsify-This page URL
-
-### Frequently Asked Questions
-
-**Q: Do I need to install anything?**  
-A: No! 100% web-based. Just paste and go.
-
-**Q: Where is my content stored?**  
-A: On YOUR GitHub/Codeberg/server account. You keep full control.
-
-**Q: Can I use private repos?**  
-A: Yes! Enable GitHub Pages, then use those raw URLs.
-
-**Q: Will Google index my pages?**  
-A: No (due to client-side rendering).
-
-**Q: Is there a cost?**  
-A: No, Docsify-This is free and open source!
-
-**Q: Can I customize more?**  
-A: Yes! Advanced URL parameters are available, and in addition to supported Markdown CSS classes custom CSS is also possible. Still not enough? Host your own instance!
-
----
-
-## ⚡️ Level Up Challenge: On Your Own
+## 📄 Challenge 3: Create File
 
 ### Your Mission
 
 **Ready to go further?** Create and host your own Markdown file, then publish it with Docsify-This!
 
 > [!NOTE]
-> This challenge is perfect for after the session, where you move from styling existing Markdown content to creating your own!
+> This challenge takes you further, moving from styling existing Markdown content to creating your own!
 
 ### GitHub or Codeberg 
 
@@ -309,6 +288,39 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 > [!TIP]
 > You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
+
+---
+
+## 🎯 Next Steps + Common Questions
+
+> [!NOTE]
+> All external links below open in a new browser tab.
+
+**After Completing This Guide**
+
+- [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
+- [ ] Try a ready-made template
+- [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
+
+### Frequently Asked Questions
+
+**Q: Do I need to install anything?**  
+A: No! 100% web-based. Just paste and go.
+
+**Q: Where is my content stored?**  
+A: On YOUR GitHub/Codeberg/server account. You keep full control.
+
+**Q: Can I use private repos?**  
+A: Yes! Enable GitHub Pages, then use those raw URLs.
+
+**Q: Will Google index my pages?**  
+A: No (due to client-side rendering).
+
+**Q: Is there a cost?**  
+A: No, Docsify-This is free and open source!
+
+**Q: Can I customize more?**  
+A: Yes! Advanced URL parameters are available, and in addition to supported Markdown CSS classes custom CSS is also possible. Still not enough? Host your own instance!
 
 ---
 
@@ -373,11 +385,6 @@ Just paste your Markdown file URL and go!
 | **Templates** | [github.com/hibbitts-design](https://github.com/hibbitts-design) |
 | **Discord Community** | [discord.gg/docsify](https://discord.gg/docsify) |
 | **GitHub Repository** | [github.com/hibbitts-design/docsify-this](https://github.com/hibbitts-design/docsify-this) |
-
----
-
-**Session:** Leap into Open Publishing with Docsify-This!  
-**Presenter:** Paul Hibbitts  
 
 ---
 

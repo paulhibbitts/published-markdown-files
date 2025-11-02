@@ -15,7 +15,7 @@
 | 🔍 Challenge 2: Style Detective | MATCH a design! |
 | 📄 Challenge 3: Create File | AUTHOR Markdown content! |
 | Next Steps + Q&A | Common questions! |
-| ⚡️ 📚 Additional Resources | Explore in depth! |
+| 📚 Additional Resources | Explore in depth! |
 
 
 ## 📝 Markdown Basics

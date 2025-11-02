@@ -186,15 +186,15 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 ### Your Mission
 
-**Decode this Docsify-This URL!**  
+**Decode this Docsify-This URL!** Examine the below Docsify-This page URL and figure out what styling choices were made by analyzing the URL parameters.
 
 ```
-https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md&edit-link-text=Suggest_an_Edit&edit-link-top=true&sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif&link-color=cc0000&header-weight=600&max-width=65ch&dark-mode=auto#/
+https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md&edit-link-text=Suggest_an_Edit&edit-link-top=true&sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif&font-size=16px&link-color=cc0000&header-weight=600&max-width=65ch&dark-mode=auto#/
 ```
 
 ### Your Detective Work
 
-Analyze the above URL and identify these styling choices:
+Analyze the URL and identify these styling choices:
 
 ```
 ☐ Page layout:
@@ -205,6 +205,14 @@ Analyze the above URL and identify these styling choices:
 ☐ ...and what else can you discover?
 ```
 
+### Bonus Challenge
+
+Try to recreate the same styling using the Web Page Builder instead of URL parameters!
+
+### Need Help?
+
+Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-parameters) or use the **Practice Version** below with fewer parameters!
+
 ### Check Your Work
 
 Compare your findings with the initially hidden answer below.
@@ -214,7 +222,7 @@ Compare your findings with the initially hidden answer below.
 
   - Page layout: Sidebar
   - Font family: Merriweather
-  - Font size: 18 pixels
+  - Font size: 16 pixels
   - Link color: cc0000 (red)
   - Headers weight: 600 (semi bold)
   - Max width: 65 characters

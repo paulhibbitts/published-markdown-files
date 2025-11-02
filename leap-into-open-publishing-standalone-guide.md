@@ -207,7 +207,8 @@ Analyze the above URL and identify these styling choices:
 
 ### Check Your Work
 
-Compare your analysis with the answer below.
+Compare your findings with the initially hidden answer below.
+
 <details>
   <summary>Show answer</summary><br>
 
@@ -220,8 +221,6 @@ Compare your analysis with the answer below.
   - Dark mode: Auto
 
 </details>
-
-Compare your findings with the initially hidden answer above.
 
 ---
 

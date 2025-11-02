@@ -305,7 +305,10 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ### What's Next?
 
-Congratulations, you've now published your own Markdown content with Docsify-This! In addition to creating new content, you can also upload existing Markdown files from your desktop to GitHub or Codeberg.
+Congratulations, you've now published your own Markdown content with Docsify-This! 
+
+> [!TIP]
+> You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use **[GitHub Desktop](https://github.com/apps/desktop)** to synchronize files between your desktop and GitHub or Codeberg.
 
 ---
 

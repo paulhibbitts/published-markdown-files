@@ -213,12 +213,12 @@ Try to recreate the same styling using the Web Page Builder instead of URL param
 
 Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-parameters) or use the **Practice Version** below with fewer parameters!
 
-### Check Your Work
+### Reveal the Answer
 
-Compare your findings with the initially hidden answer below.
+Compare your findings with the initially hidden analysis below.
 
 <details>
-  <summary>Show answer to URL anaylsis</summary><br>
+  <summary>Show answer to URL analysis</summary><br>
 
   - Page layout: Sidebar
   - Font family: Merriweather

@@ -100,6 +100,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ```
 ☐ Page layout: Content only
 ☐ Large font (32-36px)
+☐ Headers font weight: Semi Bold
 ☐ Dark mode: On
 ☐ Max width: 80%
 ```

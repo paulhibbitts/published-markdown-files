@@ -255,7 +255,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ---
 
-## ⚡️ Power Challenge: Own Your Own
+## ⚡️ Power Challenge: On Your Own
 
 ### Your Mission
 

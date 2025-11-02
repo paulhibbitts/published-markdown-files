@@ -215,7 +215,7 @@ Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-paramet
 
 ### Reveal the Answer
 
-Compare your findings with the initially hidden analysis below.
+**Ready to see how you did?** Compare your findings below!
 
 <details>
   <summary>Show answer to URL analysis</summary><br>

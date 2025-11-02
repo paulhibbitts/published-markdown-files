@@ -87,6 +87,14 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 
 ### Consider These Style Types
 
+**Simple Page**
+
+```
+☐ Page layout: Content only
+☐ Font: Merriweather
+☐ Font size (16px)
+```
+
 **Presentation Style**
 
 ```
@@ -101,7 +109,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ```
 ☐ Page layout: Content only or Table of Contents
 ☐ Font: Match your LMS
-☐ Size: 16-18px
+☐ Font size: 16-18px
 ☐ Link color: Visually match or find out hex color
 ☐ Max width: 100%
 ```

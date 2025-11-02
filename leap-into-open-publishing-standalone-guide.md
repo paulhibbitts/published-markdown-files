@@ -380,8 +380,8 @@ Just paste your Markdown file URL and go!
 | Resource | URL |
 |----------|-----|
 | **Web Page Builder** | [docsify-this.net](https://docsify-this.net ':target=_blank') |
-| **Markdown Publishing Guide** | [publishing.docsify-this.net](http://publishing.docsify-this.net) |
-| **Full Documentation** | [readme.docsify-this.net](http://readme.docsify-this.net) |
+| **Markdown Publishing Guide** | [publishing.docsify-this.net](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&searchbox=true&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&maxLevel=3&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&header-weight=600&dark-mode=auto&code-copy=true#/) |
+| **Full Documentation** | [readme.docsify-this.net](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this/main&homepage=README.md&edit-link=https://github.com/hibbitts-design/docsify-this/blob/main/README.md&sidebar=true&searchbox=true&browser-tab-title=Docsify-This%20ReadMe&edit-link-text=Suggest%20an%20Edit%20on%20GitHub&maxLevel=4&header-weight=600&zoom-images=true&dark-mode=auto&code-copy=true&page-copy-button=true#/) |
 | **Templates** | [github.com/hibbitts-design](https://github.com/hibbitts-design) |
 | **Discord Community** | [discord.gg/docsify](https://discord.gg/docsify) |
 | **GitHub Repository** | [github.com/hibbitts-design/docsify-this](https://github.com/hibbitts-design/docsify-this) |

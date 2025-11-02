@@ -99,7 +99,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 **LMS Embedding Style**
 
 ```
-☐ Page layout: Content only
+☐ Page layout: Content only or Table of Contents
 ☐ Font: Match your LMS
 ☐ Size: 16-18px
 ☐ Link color: Visually match or find out hex color

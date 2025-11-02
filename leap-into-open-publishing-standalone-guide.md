@@ -218,7 +218,7 @@ Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-paramet
 Compare your findings with the initially hidden answer below.
 
 <details>
-  <summary>Show answer</summary><br>
+  <summary>Show answer to URL anaylsis</summary><br>
 
   - Page layout: Sidebar
   - Font family: Merriweather

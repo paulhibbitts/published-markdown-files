@@ -288,17 +288,11 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 > [!NOTE]
 > All external links below open in a new browser tab.
 
-**As You Complete This Guide**
-
-- [ ] Save your Challenge 1 URL
-- [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
-- [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
-
 **After Completing This Guide**
 
-- [ ] Consider trying the **[Level Up Challenge](#%E2%9A%A1%EF%B8%8F-level-up-challenge-on-your-own)**
+- [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
 - [ ] Try a ready-made template
-- [ ] Share a Docsify-This page URL
+- [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
 
 ### Frequently Asked Questions
 

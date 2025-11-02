@@ -8,7 +8,7 @@
 
 | What We're Doing | Join In |
 |------------------|-------------|
-| 📝 Markdown Basics | Brief review |
+| 📝 Markdown Basics | Brief overview |
 | 🚀 Quickstart | Experience the magic |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |

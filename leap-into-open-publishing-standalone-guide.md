@@ -1,6 +1,6 @@
 # Leap into Open Publishing with Docsify&#8209;This
 
-**Try the challenges • Save your results • Join the community**
+**Explore Docsify-This • Try the challenges • Join the community**
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-## 📍 Guide Outline
+## 📍 Standalone Guide Outline
 
 | Section | What You'll be Doing |
 |------------------|-------------|

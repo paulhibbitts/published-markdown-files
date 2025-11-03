@@ -20,7 +20,7 @@
 
 ## 📝 Markdown Basics
 
-**Before you dive in**, let's quickly review what Markdown is — the simple format that powers everything you'll publish today.
+**Before you dive in**, let's quickly review what Markdown is — the simple format that powers everything you'll publish with Docsify-This.
 
 | You Would Type | You Would Get |
 |----------|---------|

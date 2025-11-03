@@ -274,7 +274,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
    This is my sample Markdown file.
 ```
 
-#### Step 3: View as Docsify-This Web Page 
+#### Step 3: View as Docsify-This Web Page
 
 1. On your new repository, **view the Markdown file**
 2. **Copy the file URL** (just the regular URL - a raw URL is not required)

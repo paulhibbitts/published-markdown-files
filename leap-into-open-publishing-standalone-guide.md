@@ -80,6 +80,10 @@
 
 ## 🎨 Challenge 1: Style Lab
 
+**Difficulty:** ⭐ Beginner
+
+**Time estimate:** 2-5 minutes
+
 ### Your Mission
 
 Transform this Markdown file YOUR way:
@@ -142,6 +146,12 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 
 Congratulations on styling your own Docsify-This web page!
 
+### Challenge 1 Review
+- [ ] Successfully opened the Web Page Builder
+- [ ] Styled the sample page with your preferences  
+- [ ] Viewed your published page
+- [ ] Noticed URL parameters in address bar
+
 ---
 
 ## ⚡ Level Up Tip: URL Parameters
@@ -183,6 +193,10 @@ You can also add an URL parameter if one is not present (and a default value is 
 ---
 
 ## 🔍 Challenge 2: Style Detective
+
+**Difficulty:** ⭐ Intermediate
+
+**Time estimate:** 5-10 minutes
 
 ### Your Mission
 
@@ -240,9 +254,19 @@ Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-paramet
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
 ```
 
+### Challenge 2 Review
+- [ ] Successfully analyzed the complex URL example
+- [ ] Attempted the shorter practice URL
+- [ ] Can assess what each parameter does
+- [ ] Tried modifying a parameter value
+
 ---
 
 ## 📄 Challenge 3: Create File
+
+**Difficulty:** ⭐ Intermediate
+
+**Time estimate:** 10-15 minutes
 
 ### Your Mission
 
@@ -288,6 +312,12 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 > [!TIP]
 > You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
+
+### Challenge 3 Review
+- [ ] Repository created and public
+- [ ] Markdown file contains at least 1 heading and 1 paragraph
+- [ ] File renders correctly in Docsify-This
+- [ ] Published URL is shareable
 
 ---
 

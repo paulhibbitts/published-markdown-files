@@ -9,7 +9,7 @@
 | Section | What You'll be Doing |
 |------------------|-------------|
 | 📝 Markdown Basics | Brief overview |
-| 🚀 Quickstart | Experience the magic |
+| ▶️ Get Started | Experience the magic |
 | 🎨 Challenge 1: Style Lab | PUBLISH a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | MATCH a design! |
@@ -51,7 +51,7 @@
 
 ---
 
-## 🚀 Quickstart
+## ▶️ Get Started
 
 ### The 3-Step Process
 
@@ -335,7 +335,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 - Accessibility
   - [Improving The Accessibility Of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)
 - Creating and Editing Markdown on GitHub
-  - [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+  - [Get Started for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/Get Started-for-writing-on-github)
   - [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
 - Markdown Desktop Editors
   - [VSCode](https://code.visualstudio.com/)

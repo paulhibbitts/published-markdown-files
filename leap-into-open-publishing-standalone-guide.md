@@ -174,6 +174,16 @@ https://docsify-this.net?basePath=...
 &max-width=80        ← Or this! (percentage width)
 ```
 
+### Try It Yourself!
+
+**Ready to experiment?** 
+
+1. Return to your Challenge 1 Docsify-This web page
+2. Look at the URL in your browser's address bar
+3. Find a parameter you want to change (like `font-size=16px`)
+4. Edit it directly in the URL (try `font-size=24px`)
+5. Hit the **Enter** key to reload the page and see the change!
+
 You can also add an URL parameter if one is not present (and a default value is being used).
 
 ### Some Other Commonly Added or Adjusted Parameters

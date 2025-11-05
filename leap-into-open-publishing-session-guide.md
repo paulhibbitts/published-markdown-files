@@ -183,6 +183,14 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 ---
 
+## ✋ Quick Pause
+
+**Questions or observations before we continue?**
+
+Challenge 2 will further explore URL parameters - a powerful shortcut for styling pages!
+
+---
+
 ## 🔍 Challenge 2: Style Detective
 
 ### Your Mission

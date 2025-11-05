@@ -168,8 +168,8 @@ https://docsify-this.net?basePath=...
 
 1. Return to the styled Docsify-This page you created in Challenge 1
 2. Look at the URL in your browser's address bar
-3. Find a parameter you want to change (like `font-size=16px`)
-4. Edit it directly in the URL (try `font-size=24px`)
+3. Find a parameter to change (like `sidebar=true`) or add a new one (like `&font-size=20px`)
+4. Edit it directly in the URL
 5. Hit the **Enter** key to reload the page and see the change!
 
 > [!NOTE]

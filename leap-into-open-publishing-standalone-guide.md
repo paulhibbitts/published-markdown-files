@@ -192,6 +192,7 @@ https://docsify-this.net?basePath=...
 | Parameter | Options | Example |
 |-----------|---------|---------|
 | `sidebar` or `toc` | true/false | `&sidebar=true` |
+| `link-color` | 6-digit color code | `&link-color=cc0000` (red) or `&link-color=0000cc` (blue)|
 | `maxLevel` | 1-6 (Sidebar header depth) | `&maxLevel=3` |
 | `header-weight` | 400-700 | `&header-weight=600` |
 | `dark-mode` | on/auto/off | `&dark-mode=auto` |

@@ -165,12 +165,11 @@ Instead of using the Web Page Builder every time, you can also **edit URL parame
 ### Example URL Breakdown
 
 URL parameters are chained together using `&` (ampersand):
-
 ```
 https://docsify-this.net?basePath=...
 &homepage=home.md
-&font-size=18px      ← Change this! (size in pixels)
-&link-color=0374B5   ← Or this! (6-digit hex color, e.g. CC0000)
+&sidebar=true        ← Change this! (true/false)
+&font-family=Merriweather  ← Or this! (font name)
 &max-width=80        ← Or this! (percentage width)
 ```
 

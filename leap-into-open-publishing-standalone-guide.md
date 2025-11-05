@@ -266,9 +266,9 @@ Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-paramet
 
 ---
 
-## Practice Version (Shorter URL)
+## Additional Practice URL
 
-### Mystery URL to Decode
+### Shorter URL to Decode
 
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Merriweather,Georgia,serif&link-color=cc0000

@@ -173,7 +173,8 @@ https://docsify-this.net?basePath=...
 4. Edit it directly in the URL (try `font-size=24px`)
 5. Hit the **Enter** key to reload the page and see the change!
 
-You can also add an URL parameter if one is not present (and a default value is being used).
+> [!NOTE]
+> You can also add a URL parameter if one is not present. Docsify-This uses smart defaults (like `font-size=18px`), so parameters only appear in the URL when you've changed them. To modify a default parameter, just add it to the URL with `&parameter=value`!
 
 ### Some Other Commonly Added or Adjusted Parameters
 

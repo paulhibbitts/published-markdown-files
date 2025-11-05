@@ -50,6 +50,8 @@
 
 ## ▶️ Get Started
 
+Turn an online Markdown file into a styled web page in 3 simple steps.
+
 ### The 3-Step Process
 
 **1. Get Your Markdown file URL**

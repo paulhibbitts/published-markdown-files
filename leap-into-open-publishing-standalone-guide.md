@@ -367,7 +367,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 - Accessibility
   - [Improving The Accessibility Of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)
 - Creating and Editing Markdown on GitHub
-  - [Get Started for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+  - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
   - [Authoring With Markdown](https://ucsbcarpentry.github.io/2022-01-31-ucsb-webpub-online/02-markdown/)
 - Markdown Desktop Editors
   - [VSCode](https://code.visualstudio.com/)

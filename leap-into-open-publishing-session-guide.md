@@ -207,6 +207,15 @@ Challenge 2 will further explore URL parameters - a powerful shortcut for stylin
 
 **Decode this Docsify-This URL!** Examine the Docsify-This page URL posted in the session chat and figure out what styling choices were made by analyzing the URL parameters.
 
+<details>
+<summary>Can't find the URL in chat? Click here for the challenge URL</summary>
+
+```
+https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md&edit-link-text=Suggest_an_Edit&edit-link-top=true&sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif&font-size=16px&link-color=cc0000&header-weight=600&max-width=65ch&dark-mode=auto
+```
+
+</details>
+
 ### Your Detective Work
 
 Analyze the URL and identify these styling choices:
@@ -231,16 +240,6 @@ Watch the session chat for hints if you get stuck decoding any parameters!
 ### Share Your Findings
 
 Feel free to post your decoded styling list in the session chat and share if any parameters were unexpected or gave you ideas for your own styling!
-
----
-
-## Practice Version (Shorter URL)
-
-### Mystery URL to Decode
-
-```
-https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
-```
 
 ---
 

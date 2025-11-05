@@ -183,7 +183,7 @@ You can also add an URL parameter if one is not present (and a default value is 
 
 ---
 
-## ✋ Quick Pause
+## ⏸️ Quick Pause
 
 **Questions or observations before we continue?**
 

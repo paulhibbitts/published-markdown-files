@@ -178,7 +178,7 @@ https://docsify-this.net?basePath=...
 
 **Ready to experiment?** 
 
-1. Return to your Challenge 1 Docsify-This web page
+1. Return to the styled Docsify-This page you created in Challenge 1
 2. Look at the URL in your browser's address bar
 3. Find a parameter you want to change (like `font-size=16px`)
 4. Edit it directly in the URL (try `font-size=24px`)

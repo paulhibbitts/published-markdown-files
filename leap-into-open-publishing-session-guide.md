@@ -141,7 +141,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 
 ### Share Your Results
 
-Post your Docsify-This URL in the session chat and describe your design choice!
+Feel free to post your Docsify-This URL in the session chat and describe your design choice!
 
 ---
 
@@ -212,7 +212,7 @@ Watch the session chat for hints if you get stuck decoding any parameters!
 
 ### Share Your Findings
 
-Post your decoded styling list in the session chat and share if any parameters were unexpected or gave you ideas for your own styling!
+Feel free to post your decoded styling list in the session chat and share if any parameters were unexpected or gave you ideas for your own styling!
 
 ---
 

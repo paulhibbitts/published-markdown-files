@@ -187,7 +187,7 @@ https://docsify-this.net?basePath=...
 | `dark-mode` | on/auto/off | `&dark-mode=auto` |
 
 > [!TIP]
-> Need a color code? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) to find hex color codes.
+> Looking for a certain link color? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) to find hex color codes.
 
 ### Why This Matters
 

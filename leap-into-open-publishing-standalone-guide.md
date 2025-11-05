@@ -17,6 +17,8 @@
 | Next Steps + Common Questions | Find answers |
 | 📚 Additional Resources | Explore in depth! |
 
+> [!TIP]
+> **In a hurry?** Jump straight to [Challenge 1](#%F0%9F%8E%A8-challenge-1-style-lab) using the provided sample file, then come back for any needed background knowledge!
 
 ## 📝 Markdown Basics
 
@@ -330,6 +332,12 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 3. Go to [Docsify-This.net](https://docsify-this.net ':target=_blank') ↗
 4. **Paste** the copied URL into the **Markdown file URL** field
 5. Tap the **Publish as Web Page** button
+
+> [!WARNING]
+> If your GitHub URL doesn't work with Docsify-This, make sure:
+> - Repository is public
+> - You're copying the file view URL (not raw URL)
+> - File has `.md` extension
 
 ### What's Next?
 

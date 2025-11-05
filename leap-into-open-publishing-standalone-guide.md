@@ -18,7 +18,7 @@
 | 📚 Additional Resources | Explore in depth! |
 
 > [!TIP]
-> Already familiar with Markdown and comfortable with Web apps? Jump straight to [Challenge 1: Style Lab](#%F0%9F%8E%A8-challenge-1-style-lab) using the provided Markdown sample file, then come back for any needed background knowledge!
+> Already familiar with Markdown and comfortable with Web apps? Jump straight to [Challenge 1: Style Lab](#%F0%9F%8E%A8-challenge-1-style-lab) using the provided Markdown sample file, then come back for any needed background knowledge.
 
 ## 📝 Markdown Basics
 

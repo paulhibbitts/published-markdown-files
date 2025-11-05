@@ -197,6 +197,9 @@ https://docsify-this.net?basePath=...
 | `header-weight` | 400-700 | `&header-weight=600` |
 | `dark-mode` | on/auto/off | `&dark-mode=auto` |
 
+> [!TIP]
+> Need a color code? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) to find hex color codes.
+
 ### Why This Matters
 
 ✅ **Quickly refine** styled pages  

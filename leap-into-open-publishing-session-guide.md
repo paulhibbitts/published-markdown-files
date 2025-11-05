@@ -69,7 +69,6 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 - Paste Markdown file URL into Web Page Builder
 - Choose page layout (Content Only / ToC / Sidebar)
-- Tap **Show More Page Appearance Options »** link for more styling options
 - Click **Publish as a Web Page** button
 
 > [!TIP]
@@ -85,7 +84,7 @@ Publish and style this online Markdown file YOUR way:
 
 [https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
-Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':target=_blank') ↗ Web Page Builder you just visited! Don't see the expected styling options? Tap the **Show More Page Appearance Options »** link.
+Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':target=_blank') ↗ Web Page Builder you just visited! Want additional styling options? Tap the **Show More Page Appearance Options »** link.
 
 ### Consider These Style Types
 

@@ -154,12 +154,13 @@ Instead of using the Web Page Builder every time, you can also **edit URL parame
 ### Example URL Breakdown
 
 URL parameters are chained together using `&` (ampersand):
+
 ```
 https://docsify-this.net?basePath=...
 &homepage=home.md
-&sidebar=true        ← Change this! (true/false)
+&sidebar=true              ← Change this! (true/false)
 &font-family=Merriweather  ← Or this! (font name)
-&max-width=80        ← Or this! (percentage width)
+&max-width=80              ← Or this! (percentage width)
 ```
 
 ### Try It Yourself!

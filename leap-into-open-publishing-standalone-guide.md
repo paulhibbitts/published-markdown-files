@@ -372,7 +372,7 @@ A: No! 100% web-based. Just paste and go.
 **Q: Where is my content stored?**  
 A: On YOUR GitHub/Codeberg/server account. You keep full control.
 
-**Q: Can I use private repos?**  
+**Q: Can I use private GitHub repos?**  
 A: Yes! Enable GitHub Pages, then use those raw URLs.
 
 **Q: Will Google index my pages?**  

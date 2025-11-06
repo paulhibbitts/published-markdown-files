@@ -449,4 +449,10 @@ Just paste your Markdown file URL and go!
 
 ---
 
+**Guide:** Leap into Open Publishing with Docsify-This!  
+**Author:** [Paul Hibbitts](https://www.hibbittsdesign.org/)
+
+---
+
+
 **Remember:** Your content, your control, zero hassle. 🚀

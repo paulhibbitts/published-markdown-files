@@ -234,7 +234,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ### Your Detective Work
 
-Analyze the URL and identify these styling choices:
+Analyze the URL and identify one or more of these styling choices:
 
 ```
 ☐ Page layout:

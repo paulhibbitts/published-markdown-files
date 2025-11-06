@@ -14,7 +14,7 @@
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | DECODE a design! |
 | 📄 Challenge 3: Create File | AUTHOR Markdown content! |
-| Next Steps + Common Questions | Find answers |
+| Next Steps + Common Questions | Get answers |
 | 📚 Additional Resources | Explore in depth! |
 
 > [!TIP]

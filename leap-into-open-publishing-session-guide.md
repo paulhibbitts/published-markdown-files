@@ -53,8 +53,8 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 **1. Get Your Markdown file URL**
 
-- [GitHub](https://github.com) ↗, [Codeberg](https://codeberg.org) ↗, or any public location: 
-View file › Copy URL
+- [GitHub](https://github.com) ↗, [Codeberg](https://codeberg.org) ↗, or any public location:  
+  View file › Copy URL
 - Or use this example file:
   - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md  ':target=_blank') ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 

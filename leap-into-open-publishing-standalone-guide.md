@@ -210,14 +210,6 @@ https://docsify-this.net?basePath=...
 
 ---
 
-## ⏸️ Quick Pause
-
-**Questions or observations before we continue?**
-
-Challenge 2 will further explore URL parameters - a powerful shortcut for styling pages!
-
----
-
 ## 🔍 Challenge 2: Style Detective
 
 **Difficulty:** ⭐ Intermediate

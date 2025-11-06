@@ -62,9 +62,8 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 **1. Get Your Markdown file URL**
 
 - GitHub or Codeberg: View file › Copy URL
-- Or use either example:
+- Or use this example file:
   - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md  ':target=_blank') ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
-  - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md ':target=_blank') ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
 **2. Visit the Docsify-This Web Page Builder**
 

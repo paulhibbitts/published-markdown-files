@@ -396,7 +396,7 @@ Just paste your Markdown file URL and go!
 ---
 
 **Session:** Leap into Open Publishing with Docsify-This!  
-**Presenter:** Paul Hibbitts  
+**Presenter:** [Paul Hibbitts](https://www.hibbittsdesign.org/)
 
 ---
 

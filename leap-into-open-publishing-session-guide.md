@@ -13,7 +13,7 @@
 | 🎨 Challenge 1: Style Lab | DESIGN a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | DECODE a design! |
-| Next Steps + Common Questions | Find answers |
+| Next Steps + Common Questions | Get answers |
 
 ## 📝 Markdown Basics
 

@@ -219,7 +219,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ### Your Detective Work
 
-Analyze the URL and identify these styling choices:
+Analyze the URL and identify one or more of these styling choices:
 
 ```
 ☐ Page layout:
@@ -251,9 +251,8 @@ Feel free to post your decoded styling list in the session chat and share if any
 
 **Before You Leave**
 
+- [ ] Bookmark this guide!
 - [ ] Save your Challenge 1 URL
-- [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
-- [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
 
 **After Today's Session**
 

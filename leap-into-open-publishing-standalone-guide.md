@@ -361,7 +361,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 **After Completing This Guide**
 
 - [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
-- [ ] Try a ready-made template
+- [ ] Try a ready-made [template](#some-of-the-ready-to-use-templates)
 - [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
 
 ### Frequently Asked Questions
@@ -426,7 +426,7 @@ Just paste your Markdown file URL and go!
 
 #### Some of the Ready-to-Use Templates
 
-**Don't start from scratch!** Use these GitHub templates:
+**Don't start from scratch!** Use these Docsify-This Markdown templates:
 
 - Single article/document: [github.com/hibbitts-design/docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article)
 - Course module page: [github.com/hibbitts-design/docsify-this-one-page-course](https://github.com/hibbitts-design/docsify-this-one-page-course)

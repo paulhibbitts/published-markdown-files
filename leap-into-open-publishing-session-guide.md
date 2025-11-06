@@ -248,7 +248,7 @@ Feel free to post your decoded styling list in the session chat and share if any
 
 **Before You Leave**
 
-- [ ] Bookmark this guide!
+- [ ] Bookmark this guide (http://reclaimopen2025.docsify-this.net)!
 - [ ] Save your Challenge 1 URL
 
 **After Today's Session**

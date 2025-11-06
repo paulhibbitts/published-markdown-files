@@ -40,7 +40,7 @@
 <summary>Show a preview of the Web Page Builder interface</summary>
 
 <p>
-  <em>Figure 1. <strong>Docsify-This</strong> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
+  <em>Figure 1. <strong>Docsify-This</strong> Web Page Builder</em>
 </p>
 <p>
  <picture>

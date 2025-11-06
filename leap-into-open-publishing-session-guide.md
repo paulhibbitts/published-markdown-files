@@ -35,9 +35,6 @@
 <summary>Show a preview of the Web Page Builder interface</summary>
 
 <p>
-  <em>Figure 1. <strong>Docsify-This</strong> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
-</p>
-<p>
  <picture>
   <source srcset="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-7-web-page-builder-dark.png" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-7-web-page-builder.png" alt="Docsify-This Web Page Builder interface showing URL input field, page layout options, styling controls, and publish button">

@@ -199,7 +199,7 @@ https://docsify-this.net?basePath=...
 | `dark-mode` | on/auto/off | `&dark-mode=auto` |
 
 > [!TIP]
-> Looking for a certain link color? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) to find color codes (use just the 6 digits, no #).
+> Looking for a certain link color? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) ↗ to find color codes (use just the 6 digits, no #).
 
 ### Why This Matters
 
@@ -305,7 +305,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 #### Step 1: Create a New Repository
 
-1. **Log in** or **Sign up** to GitHub or Codeberg
+1. **Log in** or **Sign up** to [GitHub](https://github.com) ↗ or [Codeberg](https://codeberg.org) ↗
 2. **Create a new repository**:
    - Tap the **+** icon and select **New Repository**
    - Fill in the repository details:
@@ -343,7 +343,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 Congratulations, you've now published your own Markdown content with Docsify-This! 
 
 > [!TIP]
-> You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
+> You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** ↗ to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
 
 ### Challenge 3 Review
 - [ ] Repository created and public

@@ -10,7 +10,7 @@
 |------------------|-------------|
 | 📝 Markdown Basics | Brief overview |
 | ▶️ Get Started | Experience the magic |
-| 🎨 Challenge 1: Style Lab | PUBLISH a page! |
+| 🎨 Challenge 1: Style Lab | DESIGN a page! |
 | Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | MATCH a design! |
 | 📄 Challenge 3: Create File | AUTHOR Markdown content! |

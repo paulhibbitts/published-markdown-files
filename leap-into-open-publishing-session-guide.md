@@ -183,7 +183,7 @@ https://docsify-this.net?basePath=...
 | `dark-mode` | on/auto/off | `&dark-mode=auto` |
 
 > [!TIP]
-> Looking for a certain link color? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) to find color codes (use just the 6 digits, no #).
+> Looking for a certain link color? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) ↗ to find color codes (use just the 6 digits, no #).
 
 ### Why This Matters
 
@@ -246,9 +246,6 @@ Feel free to post your decoded styling list in the session chat and share if any
 
 ## 🎯 Next Steps + Common Questions
 
-> [!NOTE]
-> All external links below open in a new browser tab.
-
 **Before You Leave**
 
 - [ ] Bookmark this guide!
@@ -295,7 +292,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 #### Step 1: Create a New Repository
 
-1. **Log in** or **Sign up** to GitHub or Codeberg
+1. **Log in** or **Sign up** to [GitHub](https://github.com) ↗ or [Codeberg](https://codeberg.org) ↗
 2. **Create a new repository**:
    - Tap the **+** icon and select **New Repository**
    - Fill in the repository details:
@@ -327,11 +324,14 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 Congratulations, you've now published your own Markdown content with Docsify-This! 
 
 > [!TIP]
-> You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
+> You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** ↗ to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
 
 ---
 
 ## 📚 Additional Resources
+
+> [!NOTE]
+> All external links below open in a new browser tab.
 
 ### All About Markdown
 

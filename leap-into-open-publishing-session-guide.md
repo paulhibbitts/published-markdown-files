@@ -253,8 +253,8 @@ Feel free to post your decoded styling list in the session chat and share if any
 
 **After Today's Session**
 
-- [ ] Consider trying the **[Level Up Challenge](#%E2%9A%A1%EF%B8%8F-level-up-challenge-on-your-own)**
-- [ ] Try a ready-made [template](#some-of-the-ready-to-use-templates)
+- [ ] Consider trying the [Level Up Challenge](#%E2%9A%A1%EF%B8%8F-level-up-challenge-on-your-own)
+- [ ] Try a ready-made [Markdown template](#some-of-the-ready-to-use-templates)
 - [ ] Share a Docsify-This page URL
 
 ### Frequently Asked Questions

@@ -283,12 +283,12 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ### Your Mission
 
-**Ready to go further?** Create and host your own Markdown file, then publish it with Docsify-This!
-
-> [!NOTE]
-> This challenge is perfect for after the session, where you move from styling existing Markdown content to creating your own!
+**Ready to go further?** Create and host your own Markdown file, then publish and style it with Docsify-This!
 
 ### GitHub or Codeberg 
+
+> [!NOTE]
+> Codeberg Pages may experience loading delays due to infrastructure updates. GitHub is recommended for best performance.
 
 #### Step 1: Create a New Repository
 

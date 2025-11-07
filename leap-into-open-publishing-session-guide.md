@@ -10,10 +10,10 @@
 |------------------|-------------|
 | 📝 Markdown Basics | Brief overview |
 | ▶️ Get Started | Experience the magic |
-| 🎨 Challenge 1: Style Lab | PUBLISH a page! |
-| Power Tip: URL Parameters | Learn a shortcut |
-| 🔍 Challenge 2: Style Detective | MATCH a design! |
-| Next Steps + Common Questions | Find answers |
+| 🎨 Challenge 1: Style Lab | DESIGN a page! |
+| ⚡️ Power Tip: URL Parameters | Learn a shortcut |
+| 🔍 Challenge 2: Style Detective | DECODE a design! |
+| 🎯 Next Steps + Common Questions | Get answers |
 
 ## 📝 Markdown Basics
 
@@ -35,9 +35,6 @@
 <summary>Show a preview of the Web Page Builder interface</summary>
 
 <p>
-  <em>Figure 1. <strong>Docsify-This</strong> Web Page Builder - just paste your Markdown file URL, style and publish!</em>
-</p>
-<p>
  <picture>
   <source srcset="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-7-web-page-builder-dark.png" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-this-v1-10-7-web-page-builder.png" alt="Docsify-This Web Page Builder interface showing URL input field, page layout options, styling controls, and publish button">
@@ -56,10 +53,10 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 **1. Get Your Markdown file URL**
 
-- GitHub or Codeberg: View file › Copy URL
-- Or use either example:
-  - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md  ':target=_blank') ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
-  - [codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md](https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md ':target=_blank') ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://codeberg.org/paulhibbitts/demo-markdown-file/src/branch/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
+- [GitHub](https://github.com) ↗, [Codeberg](https://codeberg.org) ↗, or any public location:  
+  View file › Copy URL
+- Or use this example file:
+  - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md  ':target=_blank') ↗ <br><button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
 **2. Visit the Docsify-This Web Page Builder**
 
@@ -82,7 +79,7 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 Publish and style this online Markdown file YOUR way:  
 
-[https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) ↗ <button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
+[https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) ↗ <br><button type="button" class="copy-link" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
 Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':target=_blank') ↗ Web Page Builder you just visited! To view additional styling possibilities tap the **Show More Page Appearance Options »** link.
 
@@ -186,7 +183,7 @@ https://docsify-this.net?basePath=...
 | `dark-mode` | on/auto/off | `&dark-mode=auto` |
 
 > [!TIP]
-> Looking for a certain link color? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) to find color codes (use just the 6 digits, no #).
+> Looking for a certain link color? Try this [color picker](https://www.w3schools.com/colors/colors_picker.asp) ↗ to find color codes (use just the 6 digits, no #).
 
 ### Why This Matters
 
@@ -222,7 +219,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ### Your Detective Work
 
-Analyze the URL and identify these styling choices:
+Analyze the URL and identify one or more of these styling choices:
 
 ```
 ☐ Page layout:
@@ -249,19 +246,15 @@ Feel free to post your decoded styling list in the session chat and share if any
 
 ## 🎯 Next Steps + Common Questions
 
-> [!NOTE]
-> All external links below open in a new browser tab.
-
 **Before You Leave**
 
+- [ ] Bookmark this guide (reclaimopen2025.docsify-this.net)!
 - [ ] Save your Challenge 1 URL
-- [ ] Bookmark [Docsify-This.net](https://docsify-this.net  ':target=_blank')
-- [ ] Join [discord.gg/docsify](https://discord.gg/docsify) #Docsify-This channel
 
 **After Today's Session**
 
-- [ ] Consider trying the **[Level Up Challenge](#%E2%9A%A1%EF%B8%8F-level-up-challenge-on-your-own)**
-- [ ] Try a ready-made template
+- [ ] Consider trying the [Level Up Challenge](#%E2%9A%A1%EF%B8%8F-level-up-challenge-on-your-own)
+- [ ] Try a ready-made [Markdown template](#some-of-the-ready-to-use-templates)
 - [ ] Share a Docsify-This page URL
 
 ### Frequently Asked Questions
@@ -272,7 +265,7 @@ A: No! 100% web-based. Just paste and go.
 **Q: Where is my content stored?**  
 A: On YOUR GitHub/Codeberg/server account. You keep full control.
 
-**Q: Can I use private repos?**  
+**Q: Can I use private GitHub repos?**  
 A: Yes! Enable GitHub Pages, then use those raw URLs.
 
 **Q: Will Google index my pages?**  
@@ -299,7 +292,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 #### Step 1: Create a New Repository
 
-1. **Log in** or **Sign up** to GitHub or Codeberg
+1. **Log in** or **Sign up** to [GitHub](https://github.com) ↗ or [Codeberg](https://codeberg.org) ↗
 2. **Create a new repository**:
    - Tap the **+** icon and select **New Repository**
    - Fill in the repository details:
@@ -337,11 +330,14 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 Congratulations, you've now published your own Markdown content with Docsify-This! 
 
 > [!TIP]
-> You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
+> You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** ↗ to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
 
 ---
 
 ## 📚 Additional Resources
+
+> [!NOTE]
+> All external links below open in a new browser tab.
 
 ### All About Markdown
 
@@ -381,7 +377,7 @@ Just paste your Markdown file URL and go!
 
 #### Some of the Ready-to-Use Templates
 
-**Don't start from scratch!** Use these GitHub templates:
+**Don't start from scratch!** Use these Docsify-This Markdown templates:
 
 - Single article/document: [github.com/hibbitts-design/docsify-this-one-page-article](https://github.com/hibbitts-design/docsify-this-one-page-article)
 - Course module page: [github.com/hibbitts-design/docsify-this-one-page-course](https://github.com/hibbitts-design/docsify-this-one-page-course)
@@ -406,7 +402,7 @@ Just paste your Markdown file URL and go!
 ---
 
 **Session:** Leap into Open Publishing with Docsify-This!  
-**Presenter:** Paul Hibbitts  
+**Presenter:** [Paul Hibbitts](https://www.hibbittsdesign.org/)
 
 ---
 

@@ -326,6 +326,12 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 4. **Paste** the copied URL into the **Markdown file URL** field
 5. Tap the **Publish as Web Page** button
 
+> [!WARNING]
+> If your GitHub URL doesn't work with Docsify-This, make sure:
+> - Repository is public
+> - You're copying the file view URL (not raw URL)
+> - File has `.md` extension
+
 ### What's Next?
 
 Congratulations, you've now published your own Markdown content with Docsify-This! 

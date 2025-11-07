@@ -281,6 +281,10 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ## ⚡️ Level Up Challenge: On Your Own
 
+**Difficulty:** ⭐ Intermediate
+
+**Time estimate:** 10-15 minutes
+
 ### Your Mission
 
 **Ready to go further?** Create and host your own Markdown file, then publish and style it with Docsify-This!

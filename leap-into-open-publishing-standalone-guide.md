@@ -292,10 +292,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ### Your Mission
 
-**Ready to go further?** Create and host your own Markdown file, then publish it with Docsify-This!
-
-> [!NOTE]
-> This challenge takes you further, moving from styling existing Markdown content to creating your own!
+**Ready to go further?** Create and host your own Markdown file, then publish and style it with Docsify-This!
 
 ### GitHub or Codeberg 
 

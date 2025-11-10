@@ -353,7 +353,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 **Difficulty:** ⭐⭐ Intermediate+
 
-**Time estimate:** 15-20 minutes
+**Time estimate:** 10-15 minutes
 
 ### Your Mission
 

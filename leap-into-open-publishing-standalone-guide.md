@@ -357,7 +357,8 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 ### Your Mission
 
-**Want to edit with your favorite desktop editor?** Clone your [Challenge 3](#%F0%9F%93%�-challenge-3-create-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
+**Want to edit with your favorite desktop editor?**  
+Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
 
 ### What You'll Need
 - Your repository from Challenge 3

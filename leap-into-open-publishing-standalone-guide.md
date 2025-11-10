@@ -17,7 +17,7 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 | 🎨 Challenge 1: Style Lab | DESIGN a page! |
 | ⚡️ Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | DECODE a design! |
-| 📄 Challenge 3: Create File | AUTHOR Markdown content! |
+| 📄 Challenge 3: Create Online File | AUTHOR Markdown content! |
 | 🏆 Bonus Challenge 4: Desktop Sync | SYNC files locally!
 | 🎯 Next Steps + Common Questions | Get answers |
 | 📚 Additional Resources | Explore in depth! |
@@ -285,7 +285,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ---
 
-## 📄 Challenge 3: Create File
+## 📄 Challenge 3: Create Online File
 
 **Difficulty:** ⭐ Intermediate
 

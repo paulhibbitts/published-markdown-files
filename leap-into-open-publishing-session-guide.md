@@ -279,7 +279,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ---
 
-## ⚡️ Level Up Challenge: On Your Own
+## ⚡️ Create File Bonus Challenge: On Your Own
 
 **Difficulty:** ⭐ Intermediate
 
@@ -335,6 +335,62 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 > [!TIP]
 > You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** ↗ to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
+
+---
+
+## 🏆 Desktop Sync Bonus Challenge: On Your Own
+
+**Difficulty:** ⭐⭐ Intermediate+
+
+**Time estimate:** 10-15 minutes
+
+### Your Mission
+
+**Want to edit with your favorite desktop editor?**  
+Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
+
+### What You'll Need
+- Your repository from Challenge 3
+- [GitHub Desktop](https://desktop.github.com) ↗ (free download)
+
+### The Desktop Workflow
+
+**Step 1: Get GitHub Desktop**
+1. **Download and install** GitHub Desktop
+2. **Sign in** with your GitHub account
+
+**Step 2: Clone Your Repository**
+1. **Go to your Challenge 3 repository** on GitHub.com
+2. **Tap the green <> Code button**
+3. **Choose "Open with GitHub Desktop"**
+4. **Select a local folder** and tap **Clone**
+
+**Step 3: Edit Locally**
+1. **Browse** to the downloaded folder
+2. **Open your Markdown file** in any text editor you like
+3. **Make a change** - add content, fix a typo, whatever you want!
+4. **Save** the file
+
+**Step 4: Sync Back to GitHub**
+1. **Return to GitHub Desktop** - your changes appear automatically
+2. **Add a summary** in the commit message if you want (e.g., "Added new content") 
+3. **Tap "Commit to main"**
+4. **Tap "Push origin"** to sync changes back
+
+**Step 5: See the Magic**
+1. **Wait 5-10 seconds** for sync
+2. **Refresh your Docsify-This page** - your edits appear instantly!
+
+> [!TIP]
+> Now you can use VS Code, Typora, or any desktop editor while keeping the publishing power of Docsify-This! Perfect for larger editing sessions or when working offline.
+
+### Challenge 4 Review
+- [ ] Downloaded and set up GitHub Desktop
+- [ ] Cloned repository to your computer
+- [ ] Made local edits and synced changes
+- [ ] Verified updates appear in your Docsify-This page
+
+**Congratulations - you're now using an optimized Markdown publishing workflow!** 🚀
 
 ---
 

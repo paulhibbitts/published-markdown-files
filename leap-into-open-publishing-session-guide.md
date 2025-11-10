@@ -279,7 +279,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ---
 
-## ⚡️ Create File Bonus Challenge: On Your Own
+## ⚡️ On Your Own Challenge: Create & Publish Files
 
 **Difficulty:** ⭐ Intermediate
 
@@ -338,7 +338,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 ---
 
-## 🏆 Desktop Sync Bonus Challenge: On Your Own
+## 🏆 On Your Own Challenge: Desktop Sync Workflow
 
 **Difficulty:** ⭐⭐ Intermediate+
 

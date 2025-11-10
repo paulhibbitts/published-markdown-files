@@ -357,8 +357,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 ### Your Mission
 
-**Want to edit with your favorite desktop editor?**  
-Clone your Challenge 3 repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
+**Want to edit with your favorite desktop editor?** Clone your [Challenge 3](#%F0%9F%93%�-challenge-3-create-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
 
 ### What You'll Need
 - Your repository from Challenge 3
@@ -384,9 +383,9 @@ Clone your Challenge 3 repository with GitHub Desktop, make local edits, and syn
 
 **Step 4: Sync Back to GitHub**
 1. **Return to GitHub Desktop** - your changes appear automatically
-2. **Add a summary** in the commit message if you want (e.g. "Added new content")
-3. Tap the **Commit** button
-4. Tap **Pull origin"** to sync any changes back
+2. **Add a summary** in the commit message if you want (e.g., "Added new content") 
+3. **Tap "Commit to main"**
+4. **Tap "Push origin"** to sync changes back
 
 **Step 5: See the Magic**
 1. **Wait 5-10 seconds** for sync
@@ -401,7 +400,7 @@ Clone your Challenge 3 repository with GitHub Desktop, make local edits, and syn
 - [ ] Made local edits and synced changes
 - [ ] Verified updates appear in your Docsify-This page
 
-**Congratulations - you're now using an optimized publishing workflow!** 🚀
+**Congratulations - you're now using an optimized Markdown publishing workflow!** 🚀
 
 ---
 

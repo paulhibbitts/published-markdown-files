@@ -342,7 +342,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 ---
 
-## 🏆 On Your Own Challenge: Desktop Sync Workflow
+## 🔄 On Your Own Challenge: Desktop Sync Workflow
 
 **Difficulty:** ⭐⭐ Intermediate+
 

@@ -18,7 +18,7 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 | ⚡️ Power Tip: URL Parameters | Learn a shortcut |
 | 🔍 Challenge 2: Style Detective | DECODE a design! |
 | 📄 Challenge 3: Create Online File | AUTHOR Markdown content! |
-| 🏆 Bonus Challenge 4: Desktop Sync | SYNC files locally!
+| 🔄 Challenge 4: Desktop Sync | SYNC files locally!
 | 🎯 Next Steps + Common Questions | Get answers |
 | 📚 Additional Resources | Explore in depth! |
 
@@ -350,7 +350,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 ---
 
-## 🏆 Bonus Challenge 4: Desktop Sync
+## 🔄 Challenge 4: Desktop Sync
 
 **Difficulty:** ⭐⭐ Intermediate+
 

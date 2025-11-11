@@ -283,7 +283,7 @@ A: Yes! Advanced URL parameters are available, and in addition to supported Mark
 
 ---
 
-## ⚡️ On Your Own Challenge: Create & Publish Online Files
+## 📄 On Your Own Challenge: Create & Publish Online Files
 
 **Difficulty:** ⭐ Intermediate
 

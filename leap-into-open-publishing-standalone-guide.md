@@ -427,7 +427,7 @@ Here's a new Challenge 5 that fits perfectly between Challenge 4 and the Next St
 
 ### Choose Your Template Adventure
 
-Pick an example template that matches your goal:
+Pick an example template to try out below:
 
 **📰 Article**
 - Template: [One-Page Article](https://github.com/hibbitts-design/docsify-this-one-page-article) ↗
@@ -514,8 +514,6 @@ Pick an example template that matches your goal:
 - [ ] Customized content with your own text and structure
 - [ ] Published the template and applied custom styling
 - [ ] Understand how to modify and expand the template
-
-### Pro Tips
 
 > [!TIP]
 > **Multi-Page Magic:** If you chose a multi-page template, choose the Sidebar for page layout and set the option to load a custom Docsify sidebar in the **Advanced Web Page Builder Options** section. Edit the sidebar file (`_sidebar.md`) to remove or add new navigation links to additional pages you create.

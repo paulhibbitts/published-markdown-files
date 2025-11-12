@@ -8,10 +8,9 @@
 
 In this hands-on session, you'll learn to publish and style Markdown pages in minutes.
 
-## 👋🏼 Welcome!
-**Session format:** Interactive demo + hands-on challenges  
-**What to have ready:** A second browser tab for trying the challenges  
-**Participation:** Optional but encouraged!
+## 📋 Quick Setup
+
+**What to have ready:** A second browser tab for trying the challenges
 
 ## 📍 Session Outline
 

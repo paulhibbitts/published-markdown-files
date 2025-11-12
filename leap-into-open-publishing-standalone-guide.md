@@ -20,7 +20,7 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 | 📄 Challenge 3: Create Online File | AUTHOR Markdown content! |
 | 🔄 Challenge 4: Desktop Sync | SYNC files locally!
 | 🎯 Challenge 5: Template Jumpstart | ACCELERATE with templates! |
-| 🎯 Next Steps + Common Questions | Get answers |
+| 🚀 Next Steps + Common Questions | Get answers |
 | 📚 Additional Resources | Explore in depth! |
 
 > [!TIP]
@@ -411,7 +411,7 @@ Here's a new Challenge 5 that fits perfectly between Challenge 4 and the Next St
 
 ---
 
-## 🎯 Challenge 5: Template Jumpstart
+## 🚀 Challenge 5: Template Jumpstart
 
 **Difficulty:** ⭐⭐ Intermediate+
 

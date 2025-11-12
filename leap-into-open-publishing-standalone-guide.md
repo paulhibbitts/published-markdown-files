@@ -91,7 +91,7 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 **Difficulty:** ⭐ Beginner
 
-**Time estimate:** 2-5 minutes
+**Time estimate:** 3-5 minutes
 
 ### Your Mission
 

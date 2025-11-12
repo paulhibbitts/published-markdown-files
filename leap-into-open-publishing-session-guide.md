@@ -500,7 +500,7 @@ Pick an example template to try out below (more available at [docsify-this.net](
 
 <button type="button" class="copy-link" aria-label="Preload Web Page Builder to use a custom Sidebar" onclick="window.open('https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site/blob/main/home.md&sidebar=true&loadSidebar=true', '_blank')">Preload Web Page Builder with custom Sidebar</button>
 
-_Pre-loads the Web Page Builder with Sidebar layout and custom navigation (using open publishing template as example)._
+_Pre-loads the Docsify-This Web Page Builder with Sidebar layout and custom navigation (using open publishing template as example)._
 
 **Step 4: Make It Yours**
 1. **Return to GitHub** and edit `home.md` (tap the pencil icon)

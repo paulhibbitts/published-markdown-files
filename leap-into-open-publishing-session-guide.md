@@ -8,10 +8,6 @@
 
 In this hands-on session, you'll learn to publish and style Markdown pages in minutes.
 
-## 📋 Getting Ready
-
-**Note:** Links with ↗ will automatically open in a new browser tab so this guide remains available as you proceed
-
 ## 📍 Session Outline
 
 | What We're Doing | Join In |
@@ -56,6 +52,9 @@ In this hands-on session, you'll learn to publish and style Markdown pages in mi
 ## ▶️ Get Started
 
 Turn an online Markdown file into a styled web page in 3 simple steps.
+
+> [!TIP]
+> Links with ↗ will automatically open in a new browser tab so this guide remains available as you proceed.
 
 ### The 3-Step Process
 

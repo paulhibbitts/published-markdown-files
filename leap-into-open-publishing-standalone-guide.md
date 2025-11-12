@@ -502,14 +502,15 @@ Pick an example template to try out below (more available at [docsify-this.net](
 ☐ Replace placeholder text with your content
 ☐ Update headings to match your topic  
 ☐ Add your own images (upload to /images folder)
-☐ Customize visual styles using the Web Page Builder
+☐ Customize visual styles using the Web Page Builder or URL parameters
 ```
 
 **Structure Modifications:**
 ```
 ☐ Add new .md pages by copying existing ones
-☐ Reorder page content to fit your flow
+☐ Reorder page content to fit your purposes
 ☐ Remove .md pages you don't need
+☐ Update the list of site pages in the Sidebar
 ```
 
 ### Challenge 5 Review
@@ -518,7 +519,7 @@ Pick an example template to try out below (more available at [docsify-this.net](
 - [ ] Published the template and applied custom styling
 - [ ] Understand how to modify and expand the template
 
-**Congratulations!** You've just accelerated your publishing workflow using professional templates. No more starting from scratch! 🚀
+**Congratulations!** You've just accelerated your publishing workflow using pre-designed templates. No more starting from scratch!
 
 ---
 

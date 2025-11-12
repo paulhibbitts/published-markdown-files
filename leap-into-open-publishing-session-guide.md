@@ -398,6 +398,118 @@ Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with 
 
 ---
 
+## 🚀 On Your Own Challenge: Template Jumpstart
+
+**Difficulty:** ⭐⭐ Intermediate+
+
+**Time estimate:** 10-20 minutes
+
+### Your Mission
+
+**Skip the setup, start with style!** Use a Docsify-This Markdown template as your foundation, customize it with your own content, and publish a polished page in minutes.
+
+### What You'll Need
+- A GitHub account (free)
+- Your choice of template goal (article, course, or project site)
+
+### Choose Your Template Adventure
+
+Pick an example template to try out below (more available at [docsify-this.net](https://docsify-this.net/#/?id=ready-to-use-docsify-this-markdown-templates)):
+
+**📰 Article**
+- Template: [One-Page Article](https://github.com/hibbitts-design/docsify-this-one-page-article) ↗
+- Great for: Blog posts, tutorials, documentation pages
+- Features: Clean layout, responsive design
+
+**🎓 Course Site**  
+- Template: [Multiple Page Course Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) ↗
+- Great for: Lessons, training materials, educational content
+- Features: Learning modules, resource pages
+
+**🌐 Project Documentation Site**
+- Template: [Multiple Page Open Publishing Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site) ↗
+- Great for: Project sites, portfolios, small websites
+- Features: Custom Sidebar, custom Navbar, multiple linked pages
+
+> [!TIP]  
+> **Template Exploration:** Each template repository includes example content and a README with specific instructions. Don't skip reading these - they contain valuable customization tips!
+
+### The Template Workflow
+
+**Step 1: Choose Your Template**
+1. **Visit your chosen template** repository (links above)
+2. **Tap the green "Use this template"** button (upper-right)
+3. **Choose "Create a new repository"**
+4. **Name your repository** (e.g., `my-docsify-this-course`) and tap **Create repository**
+
+**Step 2: Explore the Structure**
+1. **Browse the files** in your new repository
+2. **Look for `home.md`** - this is usually the main content or home page file
+3. **Check other `.md` files** - notice how they're named and organized
+4. **Peek at any example content** to understand the template's style
+
+**Step 3: Test Drive the Template**
+1. **Click on `home.md`** in your repository to view the file
+2. **Copy the URL** from your browser's address bar
+3. **Go to [Docsify-This.net](https://docsify-this.net ':target=_blank')** ↗
+4. **Paste the URL and publish** to see your template in action!
+
+> [!TIP]
+> **Multi-Page Magic:** If you chose a multiple page template, choose the Sidebar for page layout and set the option to load a custom Docsify sidebar in the **Advanced Web Page Builder Options** section. Edit the sidebar file (`_sidebar.md`) to remove or add new navigation links to additional pages you create.
+
+**Step 4: Make It Yours**
+1. **Return to GitHub** and edit `home.md` (tap the pencil icon)
+2. **Replace the example content** with your own:
+   - Change the title
+   - Update the introduction  
+   - Add your own sections
+   - Include your images/links
+3. **Commit your changes**
+
+**Step 5: Republish and Style**
+1. **Refresh your Docsify-This page** to see your changes
+2. **Experiment with styling** using the Web Page Builder or URL parameters
+3. **Try different layouts** - some templates work great with sidebars!
+
+### Need Help?
+
+**Template not working as expected?**
+- Make sure your repository is public
+- Check that you're copying the `home.md` URL correctly
+- Try refreshing the Docsify-This page after making edits
+
+**Want to see a template in action first?**
+- Visit the template's live demo (links in each repository's README)
+- Study the example content structure before customizing
+
+### Template Customization Ideas
+
+**Content Edits:**
+```
+☐ Replace placeholder text with your content
+☐ Update headings to match your topic  
+☐ Add your own images (upload to /images folder)
+☐ Customize visual styles using the Web Page Builder or URL parameters
+```
+
+**Structure Modifications:**
+```
+☐ Add new .md pages by copying existing ones
+☐ Reorder page content to fit your purposes
+☐ Remove .md pages you don't need
+☐ Update the list of site pages in the Sidebar
+```
+
+### Challenge 5 Review
+- [ ] Successfully created a repository from a template
+- [ ] Customized content with your own text and structure
+- [ ] Published the template and applied custom styling
+- [ ] Understand how to modify and expand the template
+
+**Congratulations!** You've just accelerated your publishing workflow using pre-designed templates. No more starting from scratch!
+
+---
+
 ## 📚 Additional Resources
 
 > [!NOTE]

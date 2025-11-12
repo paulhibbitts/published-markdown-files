@@ -84,6 +84,8 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 ## 🎨 Challenge 1: Style Lab
 
+**Time estimate:** 3-5 minutes
+
 ### Your Mission
 
 Publish and style this online Markdown file YOUR way:  
@@ -218,6 +220,8 @@ https://docsify-this.net?basePath=...
 
 ## 🔍 Challenge 2: Style Detective
 
+**Time estimate:** 5-10 minutes
+
 ### Your Mission
 
 **Decode this Docsify-This URL!** Examine the Docsify-This page URL posted in the session chat and figure out what styling choices were made by analyzing the URL parameters.
@@ -248,13 +252,30 @@ Analyze the URL and identify one or more of these styling choices:
 
 Try to recreate the same styling using the Web Page Builder instead of URL parameters!
 
-### Hints Along the Way
+### Need Help?
 
-Watch the session chat for hints if you get stuck decoding any parameters!
+Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-parameters) or use the **Practice Version** below with fewer parameters!
 
 ### Share Your Findings
 
 Feel free to post your decoded styling list in the session chat and share if any parameters were unexpected or gave you ideas for your own styling!
+
+### Reveal the Answer
+
+**Ready to see how you did?** Compare your findings below!
+
+<details>
+<summary>Show answer to URL analysis</summary>
+
+  - Page layout: Sidebar
+  - Font family: Merriweather
+  - Font size: 16 pixels
+  - Link color: cc0000 (red)
+  - Headers weight: 600 (semi bold)
+  - Max width: 65 characters
+  - Dark mode: Auto
+
+</details>
 
 ---
 

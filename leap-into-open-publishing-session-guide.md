@@ -497,6 +497,8 @@ Pick an example template to try out below (more available at [docsify-this.net](
 
 > [!TIP]
 > **Multi-Page Magic:** If you chose a multiple page template, choose the Sidebar for page layout and set the option to load a custom Docsify sidebar in the **Advanced Web Page Builder Options** section. Edit the sidebar file (`_sidebar.md`) to remove or add new navigation links to additional pages you create.
+> 
+> [**Do it for me!**](https://docsify-this.net/?advanced=true&sidebar=true&loadSidebar=true) ↗ - Pre-load the Docsify-This Web Page Builder to use a custom Sidebar for multiple page sites
 
 **Step 4: Make It Yours**
 1. **Return to GitHub** and edit `home.md` (tap the pencil icon)

@@ -8,6 +8,11 @@
 
 In this hands-on session, you'll learn to publish and style Markdown pages in minutes.
 
+## 👋 Welcome!
+**Session format:** Interactive demo + hands-on challenges  
+**What to have ready:** A second browser tab for following along  
+**Participation:** Optional but encouraged!
+
 ## 📍 Session Outline
 
 | What We're Doing | Join In |
@@ -202,7 +207,12 @@ https://docsify-this.net?basePath=...
 
 **Questions or observations before we continue?**
 
-Challenge 2 will further explore URL parameters - a powerful shortcut for styling pages!
+**What we've covered so far:**
+- ✅ Basic Docsify-This publishing
+- ✅ Styling options and Web Page Builder  
+- ✅ URL parameter shortcuts
+
+**Coming up:** Style Detective Challenge!
 
 ---
 
@@ -245,6 +255,18 @@ Watch the session chat for hints if you get stuck decoding any parameters!
 ### Share Your Findings
 
 Feel free to post your decoded styling list in the session chat and share if any parameters were unexpected or gave you ideas for your own styling!
+
+---
+
+## 🎉 Session Wrap-up
+
+**What we've done today:**
+- Published your first Docsify-This page
+- Explored styling options
+- Decoded URL parameters
+- Got resources for continued learning
+
+**Keep the momentum going** with the "On Your Own" challenges!
 
 ---
 

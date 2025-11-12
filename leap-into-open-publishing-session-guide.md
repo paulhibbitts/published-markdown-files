@@ -10,7 +10,7 @@ In this hands-on session, you'll learn to publish and style Markdown pages in mi
 
 ## 👋🏼 Welcome!
 **Session format:** Interactive demo + hands-on challenges  
-**What to have ready:** A second browser tab for following along  
+**What to have ready:** A second browser tab for trying the challenges  
 **Participation:** Optional but encouraged!
 
 ## 📍 Session Outline

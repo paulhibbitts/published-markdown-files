@@ -8,6 +8,10 @@
 
 In this guide, you'll learn to publish and style Markdown pages in minutes.
 
+## 📋 Quick Setup
+
+**What to have ready:** A second browser tab for trying the challenges
+
 ## 📍 Guide Outline
 
 | Section | What You'll be Doing |

@@ -63,7 +63,7 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 
 Turn an online Markdown file into a styled web page in 3 simple steps.
 
-> [!TIP]
+> [!NOTE]
 > Links with ↗ will automatically open in a new browser tab so this guide remains available as you proceed.
 
 ### The 3-Step Process

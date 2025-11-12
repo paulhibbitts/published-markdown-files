@@ -431,17 +431,17 @@ Pick an example template to try out below:
 
 **📰 Article**
 - Template: [One-Page Article](https://github.com/hibbitts-design/docsify-this-one-page-article) ↗
-- Perfect for: Blog posts, tutorials, documentation pages
+- Great for: Blog posts, tutorials, documentation pages
 - Features: Clean layout, responsive design
 
 **🎓 Course Site**  
 - Template: [Multiple Page Course Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) ↗
-- Perfect for: Lessons, training materials, educational content
+- Great for: Lessons, training materials, educational content
 - Features: Learning modules, resource pages
 
 **🌐 Project Documentation Site**
 - Template: [Multiple Page Open Publishing Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site) ↗
-- Perfect for: Project sites, portfolios, small websites
+- Great for: Project sites, portfolios, small websites
 - Features: Custom Sidebar, custom Navbar, multiple linked pages
 
 > [!TIP]  

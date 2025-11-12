@@ -427,7 +427,7 @@ Here's a new Challenge 5 that fits perfectly between Challenge 4 and the Next St
 
 ### Choose Your Template Adventure
 
-Pick an example template to try out below:
+Pick an example template to try out below (more available at [docsify-this.net](https://docsify-this.net/#/?id=ready-to-use-docsify-this-markdown-templates)):
 
 **📰 Article**
 - Template: [One-Page Article](https://github.com/hibbitts-design/docsify-this-one-page-article) ↗

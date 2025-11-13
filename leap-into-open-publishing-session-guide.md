@@ -63,7 +63,7 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 - [GitHub](https://github.com) ↗, [Codeberg](https://codeberg.org) ↗, or any public location:  
   View file › Copy URL
 - Or use this example file:
-  - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md  ':target=_blank') ↗ <br><button type="button" style="height: 1.5rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; background: #f8f8f8; color: inherit;" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
+  - [github.com/paulhibbitts/demo-markdown-file/blob/main/README.md](https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md  ':target=_blank') ↗ <br><button type="button" style="height: 1.8rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; background: #f8f8f8; color: inherit;" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/paulhibbitts/demo-markdown-file/blob/main/README.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
 **2. Visit the Docsify-This Web Page Builder**
 
@@ -88,7 +88,7 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 Publish and style this online Markdown file YOUR way:  
 
-[https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) ↗ <br><button type="button" style="height: 1.5rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; background: #f8f8f8; color: inherit;" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
+[https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) ↗ <br><button type="button" style="height: 1.8rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; background: #f8f8f8; color: inherit;" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
 Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':target=_blank') ↗ Web Page Builder you just visited! To view additional styling possibilities tap the **Show More Page Appearance Options »** link.
 
@@ -498,7 +498,7 @@ Pick an example template to try out below (more available at [Docsify-This.net](
 > [!TIP]
 > **Multi-Page Magic:** If you chose a multiple page template, choose the Sidebar for page layout and set the option to load a custom Docsify sidebar in the **Advanced Web Page Builder Options** section. Edit the sidebar file (`_sidebar.md`) to remove or add new navigation links to additional pages you create.
 
-<button type="button" aria-label="Preload Web Page Builder to use a custom Sidebar" style="height: 1.5rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; background: #f8f8f8; color: inherit;" onclick="window.open('https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site/blob/main/home.md&sidebar=true&loadSidebar=true', '_blank')">Preload Web Page Builder to use custom Sidebar</button>
+<button type="button" aria-label="Preload Web Page Builder to use a custom Sidebar" style="height: 1.8rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; background: #f8f8f8; color: inherit;" onclick="window.open('https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site/blob/main/home.md&sidebar=true&loadSidebar=true', '_blank')">Preload Web Page Builder to use custom Sidebar</button>
 
 _Pre-loads the Docsify-This Web Page Builder with Sidebar layout and custom navigation (using the open publishing site template `home.md` file as the default Markdown file URL)._
 

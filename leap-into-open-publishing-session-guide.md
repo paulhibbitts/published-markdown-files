@@ -455,7 +455,7 @@ Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with 
 
 ### Choose Your Template Adventure
 
-Pick an example template to try out below (more available at [docsify-this.net](https://docsify-this.net/#/?id=ready-to-use-docsify-this-markdown-templates)):
+Pick an example template to try out below (more available at [Docsify-This.net](https://docsify-this.net/#/?id=ready-to-use-docsify-this-markdown-templates)):
 
 **📰 Article**
 - Template: [One-Page Article](https://github.com/hibbitts-design/docsify-this-one-page-article) ↗

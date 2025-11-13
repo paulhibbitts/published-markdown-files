@@ -454,9 +454,10 @@ Pick an example template to try out below (more available at [Docsify-This.net](
 
 **Step 1: Choose Your Template**
 1. **Visit your chosen template** repository (links above)
-2. **Tap the green "Use this template"** button (upper-right)
-3. **Choose "Create a new repository"**
-4. **Name your repository** (e.g., `my-docsify-this-course`) and tap **Create repository**
+2. **Tap the provided demo URL** to further explore the template
+3. **Tap the green "Use this template"** button (upper-right)
+4. **Choose "Create a new repository"**
+5. **Name your repository** (e.g., `my-docsify-this-course`) and tap **Create repository**
 
 **Step 2: Explore the Structure**
 1. **Browse the files** in your new repository

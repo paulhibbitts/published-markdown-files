@@ -471,7 +471,7 @@ Pick an example template to try out below (more available at [Docsify-This.net](
 4. **Paste the URL and publish** to see your template in action!
 
 > [!TIP]
-> **Multi-Page Magic:** If you chose a multiple page template, choose the Sidebar for page layout and set the option to load a custom Docsify sidebar in the **Advanced Web Page Builder Options** section. Edit the sidebar file (`_sidebar.md`) to remove or add new navigation links to additional pages you create.
+> **Multi-Page Setup:** If you chose a multiple page template, choose the Sidebar for page layout and set the option to load a custom Docsify sidebar in the **Advanced Web Page Builder Options** section. Edit the sidebar file (`_sidebar.md`) to remove or add new navigation links to additional pages you create.
 
 <button type="button" aria-label="Preload Web Page Builder to use a custom Sidebar" style="height: 1.8rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; border-radius: 8px; background: #f8f8f8; color: #333;" onclick="window.open('https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site/blob/main/home.md&sidebar=true&loadSidebar=true', '_blank')">Preload Web Page Builder to use custom Sidebar</button>
 

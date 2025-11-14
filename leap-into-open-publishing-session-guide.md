@@ -4,7 +4,7 @@
 
 ---
 
-**Docsify-This** is an open-source web app that instantly turns online Markdown files into styled web pages - no installation, no build process, just paste a URL and go!
+**Docsify-This** is an open-source web app that instantly turns Markdown text files into styled web pages - no installation, no build process, just paste a URL and go!
 
 In this hands-on session, you'll learn to publish and style Markdown pages in minutes.
 

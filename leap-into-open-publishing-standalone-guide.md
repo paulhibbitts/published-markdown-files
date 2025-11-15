@@ -1,6 +1,6 @@
 # Leap into Open Publishing with Docsify&#8209;This
 
-**Explore Docsify-This • Try the challenges • Join the community**
+**Explore Docsify-This • Try the activities • Join the community**
 
 ---
 
@@ -14,17 +14,17 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 |------------------|-------------|
 | 📝 Markdown Basics | Brief overview |
 | ▶️ Get Started | Experience the magic |
-| 🎨 Challenge 1: Style Lab | DESIGN a page! |
+| 🎨 Try It 1: Style Lab | DESIGN a page! |
 | ⚡️ Power Tip: URL Parameters | Learn a shortcut |
-| 🔍 Challenge 2: Style Detective | DECODE a design! |
-| 📄 Challenge 3: Create Online File | AUTHOR Markdown content! |
-| 🔄 Challenge 4: Desktop Sync | SYNC files locally!
-| 🎯 Challenge 5: Template Jumpstart | ACCELERATE with templates! |
+| 🔍 Try It 2: Style Detective | DECODE a design! |
+| 📄 Try It 3: Create Online File | AUTHOR Markdown content! |
+| 🔄 Try It 4: Desktop Sync | SYNC files locally!
+| 🎯 Try It 5: Template Jumpstart | ACCELERATE with templates! |
 | 🚀 Next Steps + Common Questions | Get answers |
 | 📚 Additional Resources | Explore in depth! |
 
 > [!TIP]
-> Already familiar with Markdown and using a Web app? Jump straight to [Challenge 1: Style Lab](#%F0%9F%8E%A8-challenge-1-style-lab) using the provided Markdown sample file, then come back for any needed background information.
+> Already familiar with Markdown and using a Web app? Jump straight to [Try It 1: Style Lab](#%F0%9F%8E%A8-try-it-1-style-lab) using the provided Markdown sample file, then come back for any needed background information.
 
 ## 📝 Markdown Basics
 
@@ -90,7 +90,7 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 ---
 
-## 🎨 Challenge 1: Style Lab
+## 🎨 Try It 1: Style Lab
 
 **Difficulty:** ⭐ Beginner
 
@@ -158,7 +158,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 
 Congratulations on styling your own Docsify-This web page!
 
-### Challenge 1 Review
+### Try It 1 Review
 - [ ] Successfully opened the Web Page Builder
 - [ ] Styled the sample page with your preferences  
 - [ ] Viewed your published page
@@ -188,7 +188,7 @@ https://docsify-this.net?basePath=...
 
 **Ready to experiment?** 
 
-1. Return to the styled Docsify-This page you created in Challenge 1
+1. Return to the styled Docsify-This page you created in Try It 1
 2. Look at the URL in your browser's address bar
 3. Find a parameter to change (like `sidebar=false`) or add a new one (like `&font-size=20px`)
 4. Edit it directly in the URL
@@ -219,7 +219,7 @@ https://docsify-this.net?basePath=...
 
 ---
 
-## 🔍 Challenge 2: Style Detective
+## 🔍 Try It 2: Style Detective
 
 **Difficulty:** ⭐ Intermediate
 
@@ -281,7 +281,7 @@ Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-paramet
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
 ```
 
-### Challenge 2 Review
+### Try It 2 Review
 - [ ] Successfully analyzed the complex URL example
 - [ ] Attempted the shorter practice URL
 - [ ] Can assess what each parameter does
@@ -289,7 +289,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ---
 
-## 📄 Challenge 3: Create Online File
+## 📄 Try It 3: Create Online File
 
 **Difficulty:** ⭐ Intermediate
 
@@ -346,7 +346,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 > [!TIP]
 > You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** ↗ to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
 
-### Challenge 3 Review
+### Try It 3 Review
 - [ ] Repository created and public
 - [ ] Markdown file contains at least 1 heading and 1 paragraph
 - [ ] File renders correctly in Docsify-This
@@ -354,7 +354,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 ---
 
-## 🔄 Challenge 4: Desktop Sync
+## 🔄 Try It 4: Desktop Sync
 
 **Difficulty:** ⭐⭐ Intermediate+
 
@@ -363,10 +363,10 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 ### Your Mission
 
 **Want to edit with your favorite desktop editor?**  
-Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
+Clone your [Try It 3](#%F0%9F%93%84-try-it-3-create-online-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
 
 ### What You'll Need
-- Your repository from Challenge 3
+- Your repository from Try It 3
 - [GitHub Desktop](https://desktop.github.com) ↗ (free download)
 
 ### The Desktop Workflow
@@ -376,7 +376,7 @@ Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with 
 2. **Sign in** with your GitHub account
 
 **Step 2: Clone Your Repository**
-1. **Go to your Challenge 3 repository** on GitHub.com
+1. **Go to your Try It 3 repository** on GitHub.com
 2. **Tap the green <> Code button**
 3. **Choose "Open with GitHub Desktop"**
 4. **Select a local folder** and tap **Clone**
@@ -400,7 +400,7 @@ Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with 
 > [!TIP]
 > Now you can use VS Code, Typora, or any desktop editor while keeping the publishing power of Docsify-This! Perfect for larger editing sessions or when working offline.
 
-### Challenge 4 Review
+### Try It 4 Review
 - [ ] Downloaded and set up GitHub Desktop
 - [ ] Cloned repository to your computer
 - [ ] Made local edits and synced changes
@@ -410,11 +410,7 @@ Clone your [Challenge 3](#%F0%9F%93%84-challenge-3-create-file) repository with 
 
 ---
 
-Here's a new Challenge 5 that fits perfectly between Challenge 4 and the Next Steps section:
-
----
-
-## 🚀 Challenge 5: Template Jumpstart
+## 🚀 Try It 5: Template Jumpstart
 
 **Difficulty:** ⭐⭐ Intermediate+
 
@@ -520,7 +516,7 @@ _Pre-loads the Docsify-This Web Page Builder with Sidebar layout and custom navi
 ☐ Update the list of site pages in the Sidebar
 ```
 
-### Challenge 5 Review
+### Try It 5 Review
 - [ ] Successfully created a repository from a template
 - [ ] Customized content with your own text and structure
 - [ ] Published the template and applied custom styling

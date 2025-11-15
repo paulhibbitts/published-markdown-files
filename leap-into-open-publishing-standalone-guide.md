@@ -14,17 +14,17 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 |------------------|-------------|
 | 📝 Markdown Basics | Brief overview |
 | ▶️ Get Started | Experience the magic |
-| 🎨 Try It 1: Style Lab | DESIGN a page! |
+| 🎨 Activity 1: Style Lab | DESIGN a page! |
 | ⚡️ Power Tip: URL Parameters | Learn a shortcut |
-| 🔍 Try It 2: Style Detective | DECODE a design! |
-| 📄 Try It 3: Create Online File | AUTHOR Markdown content! |
-| 🔄 Try It 4: Desktop Sync | SYNC files locally!
-| 🎯 Try It 5: Template Jumpstart | ACCELERATE with templates! |
+| 🔍 Activity 2: Style Detective | DECODE a design! |
+| 📄 Activity 3: Create Online File | AUTHOR Markdown content! |
+| 🔄 Activity 4: Desktop Sync | SYNC files locally!
+| 🎯 Activity 5: Template Jumpstart | ACCELERATE with templates! |
 | 🚀 Next Steps + Common Questions | Get answers |
 | 📚 Additional Resources | Explore in depth! |
 
 > [!TIP]
-> Already familiar with Markdown and using a Web app? Jump straight to [Try It 1: Style Lab](#%F0%9F%8E%A8-try-it-1-style-lab) using the provided Markdown sample file, then come back for any needed background information.
+> Already familiar with Markdown and using a Web app? Jump straight to [Activity 1: Style Lab](#%F0%9F%8E%A8-activity-1-style-lab) using the provided Markdown sample file, then come back for any needed background information.
 
 ## 📝 Markdown Basics
 
@@ -90,7 +90,7 @@ Turn an online Markdown file into a styled web page in 3 simple steps.
 
 ---
 
-## 🎨 Try It 1: Style Lab
+## 🎨 Activity 1: Style Lab
 
 **Difficulty:** ⭐ Beginner
 
@@ -158,7 +158,7 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 
 Congratulations on styling your own Docsify-This web page!
 
-### Try It 1 Review
+### Activity 1 Review
 - [ ] Successfully opened the Web Page Builder
 - [ ] Styled the sample page with your preferences  
 - [ ] Viewed your published page
@@ -188,7 +188,7 @@ https://docsify-this.net?basePath=...
 
 **Ready to experiment?** 
 
-1. Return to the styled Docsify-This page you created in Try It 1
+1. Return to the styled Docsify-This page you created in Activity 1
 2. Look at the URL in your browser's address bar
 3. Find a parameter to change (like `sidebar=false`) or add a new one (like `&font-size=20px`)
 4. Edit it directly in the URL
@@ -219,7 +219,7 @@ https://docsify-this.net?basePath=...
 
 ---
 
-## 🔍 Try It 2: Style Detective
+## 🔍 Activity 2: Style Detective
 
 **Difficulty:** ⭐ Intermediate
 
@@ -281,7 +281,7 @@ Refer back to the [URL Parameters reference](#%E2%9A%A1-level-up-tip-url-paramet
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
 ```
 
-### Try It 2 Review
+### Activity 2 Review
 - [ ] Successfully analyzed the complex URL example
 - [ ] Attempted the shorter practice URL
 - [ ] Can assess what each parameter does
@@ -289,7 +289,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ---
 
-## 📄 Try It 3: Create Online File
+## 📄 Activity 3: Create Online File
 
 **Difficulty:** ⭐ Intermediate
 
@@ -346,7 +346,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 > [!TIP]
 > You can also upload existing Markdown files by using **Add File › Upload files** in your repository, or use an app such as **[GitHub Desktop](https://github.com/apps/desktop)** ↗ to quickly synchronize files between your desktop and a GitHub or Codeberg repository.
 
-### Try It 3 Review
+### Activity 3 Review
 - [ ] Repository created and public
 - [ ] Markdown file contains at least 1 heading and 1 paragraph
 - [ ] File renders correctly in Docsify-This
@@ -354,7 +354,7 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 
 ---
 
-## 🔄 Try It 4: Desktop Sync
+## 🔄 Activity 4: Desktop Sync
 
 **Difficulty:** ⭐⭐ Intermediate+
 
@@ -363,10 +363,10 @@ Congratulations, you've now published your own Markdown content with Docsify-Thi
 ### Your Mission
 
 **Want to edit with your favorite desktop editor?**  
-Clone your [Try It 3](#%F0%9F%93%84-try-it-3-create-online-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
+Clone your [Activity 3](#%F0%9F%93%84-activity-3-create-online-file) repository with GitHub Desktop, make local edits, and sync changes back to see them appear instantly in your Docsify-This page!
 
 ### What You'll Need
-- Your repository from Try It 3
+- Your repository from Activity 3
 - [GitHub Desktop](https://desktop.github.com) ↗ (free download)
 
 ### The Desktop Workflow
@@ -376,7 +376,7 @@ Clone your [Try It 3](#%F0%9F%93%84-try-it-3-create-online-file) repository with
 2. **Sign in** with your GitHub account
 
 **Step 2: Clone Your Repository**
-1. **Go to your Try It 3 repository** on GitHub.com
+1. **Go to your Activity 3 repository** on GitHub.com
 2. **Tap the green <> Code button**
 3. **Choose "Open with GitHub Desktop"**
 4. **Select a local folder** and tap **Clone**
@@ -400,7 +400,7 @@ Clone your [Try It 3](#%F0%9F%93%84-try-it-3-create-online-file) repository with
 > [!TIP]
 > Now you can use VS Code, Typora, or any desktop editor while keeping the publishing power of Docsify-This! Perfect for larger editing sessions or when working offline.
 
-### Try It 4 Review
+### Activity 4 Review
 - [ ] Downloaded and set up GitHub Desktop
 - [ ] Cloned repository to your computer
 - [ ] Made local edits and synced changes
@@ -410,7 +410,7 @@ Clone your [Try It 3](#%F0%9F%93%84-try-it-3-create-online-file) repository with
 
 ---
 
-## 🚀 Try It 5: Template Jumpstart
+## 🚀 Activity 5: Template Jumpstart
 
 **Difficulty:** ⭐⭐ Intermediate+
 
@@ -516,7 +516,7 @@ _Pre-loads the Docsify-This Web Page Builder with Sidebar layout and custom navi
 ☐ Update the list of site pages in the Sidebar
 ```
 
-### Try It 5 Review
+### Activity 5 Review
 - [ ] Successfully created a repository from a template
 - [ ] Customized content with your own text and structure
 - [ ] Published the template and applied custom styling

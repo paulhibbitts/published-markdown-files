@@ -26,9 +26,6 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 | 🚀 Next Steps + Common Questions | Get answers |
 | 📚 Additional Resources | Explore in depth! |
 
-> [!TIP]
-> Already familiar with Markdown and using a Web app? Jump straight to [Activity 1: Style Lab](#%F0%9F%8E%A8-activity-1-style-lab) using the provided Markdown sample file, then come back for any needed background information.
-
 ## 📝 Markdown Basics
 
 **Before you dive in**, let's quickly review what Markdown is — the simple format that powers everything you'll publish with Docsify-This.

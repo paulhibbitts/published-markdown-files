@@ -9,7 +9,7 @@
 In this guide, you'll learn to publish and style Markdown pages in minutes.
 
 > [!TIP] 
-> Prefer video demos? Check out our [Docsify-This in Action](https://www.youtube.com/watch?v=iqExRfE2eaM&list=PLk2Bz5X36nXArvm20GbOdjAIornJbWmhe) video series - 6 quick screencasts (30-45 seconds each) showing key features and benefits.
+> Prefer video demos? Check out our [Docsify-This in Action](https://www.youtube.com/watch?v=iqExRfE2eaM&list=PLk2Bz5X36nXArvm20GbOdjAIornJbWmhe) video series - 6 brief screencasts (30-45 seconds each) showing key features and benefits.
 
 ## 📍 Guide Outline
 

@@ -40,7 +40,7 @@ In this guide, you'll learn to publish and style Markdown pages in minutes.
 | `![alt text](image.jpg)` | Embedded image |
 | `- Item` | • Bulleted list |
 
-**Ready to see it in action?** Let's publish your first page!
+**Ready to see Docsify-This in action?** Let's publish your first page!
 
 <details>
 <summary>Show a preview of the Web Page Builder interface</summary>

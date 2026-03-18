@@ -251,8 +251,7 @@ https://docsify-this.net?basePath=...
 
 ### Your Mission
 
-Docsify-This is rooted in the 5 Rs of OER — each core feature directly supports
-open education values.
+Explore how Docsify-This features map directly to the 5 Rs of OER:
 
 | 5 R | How Docsify-This Supports It |
 |-----|------------------------------|
@@ -269,15 +268,13 @@ Visit this example page and look for the copy button in the top right corner:
 [One-Page Article with page copy button enabled](https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&page-copy-button=true) ↗
 
 The **page copy button** gives visitors one-click access to the source Markdown
-— putting Reuse and Remix directly in their hands.
+— putting Reuse and Remix directly in their hands. Tap this button and try the
+various options!
 
-### Real-World Examples
+### Share Your Findings
 
-Docsify-This in action across disciplines and institutions:
-
-- **[OpenLab Project Documentation](https://docsify-this.net?basePath=https://raw.githubusercontent.com/davidmalawey/openLab/main&homepage=home.md&edit-link=https://github.com/davidmalawey/openLab/blob/main&sidebar=true&browser-tab-title=OpenLab_Project&edit-link-top=true&hide-credits=true&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&name=OpenLab_Project&searchbox=true&page-title=OpenLab&mergeNavbar=true&zoom-images=true&dark-mode=true)** ↗ — Robotics prototyping lab at Texas A&M University
-- **[Digital Literacy Course](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/harlows/TERTL509/main/modules/introduction&homepage=overview.md&browser-tab-title=TERTL509&hide-credits=true&sidebar=true&loadSidebar=_sidebar.md&subMaxLevel=3&loadFooter=_footer.md)** ↗ — Open university course adapting Ontario Extend OER content
-- **[Ethics & Management Issues in Information Systems](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Parsa-Rajabi/CIS-485/main/docs&homepage=home.md&sidebar=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=16px&loadSidebar=_sidebar.md&name=CIS%20485&loadFavicon=assets/favicon/favicon-ufv.ico&dark-mode=auto)** ↗ — Docsify Open Course Starter Kit at the University of the Fraser Valley
+Feel free to share in the session chat which of the 5 Rs you find most relevant
+to your own open education work!
 
 ---
 
@@ -305,6 +302,14 @@ Docsify-This in action across disciplines and institutions:
 - [ ] Consider trying the [Style Detective Challenge](#-on-your-own-challenge-style-detective)
 - [ ] Try a ready-made [Markdown template](#some-of-the-ready-to-use-templates)
 - [ ] Share a Docsify-This page URL
+
+### Real-World Examples
+
+Docsify-This in action across disciplines and institutions:
+
+- **[OpenLab Project Documentation](https://docsify-this.net?basePath=https://raw.githubusercontent.com/davidmalawey/openLab/main&homepage=home.md&edit-link=https://github.com/davidmalawey/openLab/blob/main&sidebar=true&browser-tab-title=OpenLab_Project&edit-link-top=true&hide-credits=true&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&name=OpenLab_Project&searchbox=true&page-title=OpenLab&mergeNavbar=true&zoom-images=true&dark-mode=true)** ↗ — Robotics prototyping lab at Texas A&M University
+- **[Digital Literacy Course](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/harlows/TERTL509/main/modules/introduction&homepage=overview.md&browser-tab-title=TERTL509&hide-credits=true&sidebar=true&loadSidebar=_sidebar.md&subMaxLevel=3&loadFooter=_footer.md)** ↗ — Open university course adapting Ontario Extend OER content
+- **[Ethics & Management Issues in Information Systems](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Parsa-Rajabi/CIS-485/main/docs&homepage=home.md&sidebar=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=16px&loadSidebar=_sidebar.md&name=CIS%20485&loadFavicon=assets/favicon/favicon-ufv.ico&dark-mode=auto)** ↗ — Docsify Open Course Starter Kit at the University of the Fraser Valley
 
 ### Frequently Asked Questions
 

@@ -32,7 +32,7 @@ After participating in this session, attendees will be able to:
 | ▶️ Get Started | Experience the magic |
 | 🎨 Activity 1: Style Lab | DESIGN a page! |
 | ⚡️ Power Tip: URL Parameters | Learn a shortcut |
-| 🔄 Activity 2: Docsify-This and the 5 Rs of OER | Connect the dots! |
+| 🔄 Activity 2: Docsify-This and the 5 Rs of OER | CONNECT the dots! |
 | 🎯 Next Steps + Common Questions | Get answers |
 
 ## 📝 Markdown Basics

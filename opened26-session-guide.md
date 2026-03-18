@@ -271,10 +271,11 @@ The **page copy button** gives visitors one-click access to the source Markdown
 — putting Reuse and Remix directly in their hands. Tap this button and try the
 various options!
 
-### Share Your Findings
+### Share Your Thoughts
 
-Feel free to share in the session chat which of the 5 Rs you find most relevant
-to your own open education work!
+How might the **page copy button** — or any of the 5 Rs features — open new
+possibilities for your own open education work? Feel free to share in the
+session chat!
 
 ---
 

@@ -247,6 +247,10 @@ https://docsify-this.net?basePath=...
 
 ## 🔄 Activity 2: Docsify-This and the 5 Rs of OER
 
+**Time estimate:** 3-5 minutes
+
+### Your Mission
+
 Docsify-This is rooted in the 5 Rs of OER — each core feature directly supports
 open education values.
 

@@ -732,7 +732,7 @@ Just paste your Markdown file URL and go!
 
 ---
 
-**Session:** From Markdown to Open Web: Publishing and Sharing OER with Docsify-This  
+**Session:** From Markdown to Open Web: Sharing OER with Docsify-This  
 **Presenter:** [Paul Hibbitts](https://www.hibbittsdesign.org/)  
 **License:** <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 

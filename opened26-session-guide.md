@@ -379,8 +379,7 @@ parameters!
 
 ### Need Help?
 
-Refer back to the [URL Parameters reference](#-level-up-tip-url-parameters) or
-use the **Practice Version** below with fewer parameters!
+Refer back to the [URL Parameters reference](#-level-up-tip-url-parameters).
 
 ### Share Your Findings
 

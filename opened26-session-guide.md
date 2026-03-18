@@ -1,4 +1,4 @@
-# From Markdown to Open Web: Publishing and Sharing OER with Docsify&#8209;This
+# From Markdown to Open Web: Sharing OER with Docsify&#8209;This
 
 **Follow along • Try activities • Share results • Ask questions**
 

@@ -11,6 +11,14 @@ a URL and go!
 In this hands-on session, you'll learn to publish and style Markdown pages in
 minutes.
 
+## 🎯 Learning Objectives
+
+After participating in this session, attendees will be able to:
+
+- Describe the key benefits of Markdown as a system-independent format for open content creation and reuse.
+- Use Docsify-This to instantly publish a Markdown file as a standalone, shareable web page with no server or technical infrastructure required.
+- Connect Docsify-This features to the 5 Rs of OER and identify how each design principle supports open education values in practice.
+
 ## 📍 Session Outline
 
 | What We're Doing | Join In |

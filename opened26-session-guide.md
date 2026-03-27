@@ -13,7 +13,7 @@ a URL and go!
 In this hands-on session, you'll learn to publish and style Markdown pages in
 minutes.
 
-## 🎯 Learning Objectives
+## 🧭 Learning Objectives
 
 After participating in this session, attendees will be able to:
 

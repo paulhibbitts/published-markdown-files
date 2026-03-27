@@ -1,6 +1,6 @@
 #  From Markdown to Open Web: Hacking the Publishing Barrier with Docsify&#8209;This
 
-# OEGlobal26
+## OEGlobal26
 
 **Follow along • Try activities • Share results • Ask questions**
 

@@ -10,3 +10,4 @@
 
 **DRAFTS**
 * [From Markdown to Open Web: Sharing OER with Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/main&homepage=opened26-session-guide.md&sidebar=true&sidebar=true&searchbox=true&maxLevel=2&font-family=Open%20Sans,sans-serif&header-weight=600&dark-mode=auto#/)
+* [From Markdown to Open Web: Hacking the Publishing Barrier with Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/main&homepage=oeglobal26-session-guide.md&sidebar=true&sidebar=true&searchbox=true&maxLevel=2&font-family=Open%20Sans,sans-serif&header-weight=600&dark-mode=auto#/)

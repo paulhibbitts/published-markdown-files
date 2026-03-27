@@ -154,19 +154,6 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ☐ Max width: 65ch
 ```
 
-**Your Way!**
-
-```
-☐ Page layout: ???
-☐ Font family: ???
-☐ Font size: ???
-☐ Link color: ???
-☐ Headers font weight: ???
-☐ Max width: ???
-☐ Dark theme: ???
-☐ And who knows!
-```
-
 ### Share Your Results
 
 Feel free to post your Docsify-This URL in the session chat and describe your

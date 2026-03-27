@@ -135,16 +135,6 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ☐ Max width: 80%
 ```
 
-**LMS Embedding Style**
-
-```
-☐ Page layout: Content only or Table of Contents
-☐ Font: Match your LMS
-☐ Font size: 16-18px
-☐ Link color: Visually match or find out hex color
-☐ Max width: 100%
-```
-
 **Project Documentation Style**
 
 ```

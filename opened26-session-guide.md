@@ -148,11 +148,6 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ☐ Max width: 65ch
 ```
 
-### Share Your Results
-
-Feel free to post your Docsify-This URL in the session chat and describe your
-design choice!
-
 ---
 
 ## ⚡ Level Up Tip: URL Parameters
@@ -234,12 +229,6 @@ Visit this example page and look for the copy button in the top right corner:
 The **page copy button** gives visitors one-click access to the source Markdown
 — putting Reuse and Remix directly in their hands. Tap this button and try the
 various options!
-
-### Share Your Thoughts
-
-How might the **page copy button** — or any of the 5 Rs features — open new
-possibilities for your own open education work? Feel free to share in the
-session chat!
 
 ---
 

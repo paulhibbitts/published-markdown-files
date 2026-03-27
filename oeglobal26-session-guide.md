@@ -19,6 +19,7 @@ After participating in this session, attendees will be able to:
 
 - Describe the key benefits of Markdown as a system-independent format for open content creation and reuse.
 - Use Docsify-This to instantly publish a Markdown file as a standalone, shareable web page with no server or technical infrastructure required.
+- Customize the visual appearance of a Docsify-This page using the Web Page Builder or URL parameters.
 - Connect Docsify-This features to the 5 Rs of OER and identify how each design principle supports open education values in practice.
 
 ## 📍 Session Outline

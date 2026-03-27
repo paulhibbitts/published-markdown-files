@@ -139,16 +139,6 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ☐ Max width: 80%
 ```
 
-**LMS Embedding Style**
-
-```
-☐ Page layout: Content only or Table of Contents
-☐ Font: Match your LMS
-☐ Font size: 16-18px
-☐ Link color: Visually match or find out hex color
-☐ Max width: 100%
-```
-
 **Project Documentation Style**
 
 ```
@@ -156,19 +146,6 @@ Paste the above URL into the [Docsify-This.net](https://docsify-this.net ':targe
 ☐ Font: Sans serif
 ☐ Size: 18px
 ☐ Max width: 65ch
-```
-
-**Your Way!**
-
-```
-☐ Page layout: ???
-☐ Font family: ???
-☐ Font size: ???
-☐ Link color: ???
-☐ Headers font weight: ???
-☐ Max width: ???
-☐ Dark theme: ???
-☐ And who knows!
 ```
 
 ### Share Your Results
@@ -196,21 +173,6 @@ https://docsify-this.net?basePath=...
 &font-family=Merriweather  ← Or this! (font name)
 &max-width=80              ← Or this! (percentage width)
 ```
-
-### Try It Yourself!
-
-**Ready to experiment?**  
-1. Return to the styled Docsify-This page you created in Activity 1
-2. Look at the URL in your browser's address bar
-3. Find a parameter to change (like `sidebar=false`) or add a new one (like
-   `&font-size=20px`)
-4. Edit it directly in the URL
-5. Hit the **Enter** key to reload the page and see the change!
-
-> [!NOTE]
-> Parameters with default values (like `font-size=18px`) don't appear in the
-> URL unless you change them. To adjust a default, just add it with
-> `&parameter=value`!
 
 ### Some Other Commonly Added or Adjusted Parameters
 

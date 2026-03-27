@@ -1,6 +1,6 @@
 # From Markdown to Open Web: Sharing OER with Docsify&#8209;This
 
-# OpenEd26
+## OpenEd26
 
 **Follow along • Try activities • Share results • Ask questions**
 

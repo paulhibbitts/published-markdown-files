@@ -86,7 +86,7 @@ And then there's Micro Design – the details so small they barely register, unt
 ---
 
 > [!TIP]
-> Next time you feel friction using *any* tool: ask which level it belongs to. Big Design friction means you can't even get started. Small Design friction means the default doesn't make sense. Micro Design friction means one small thing that should be better.
+> Next time you feel friction using *any* tool: ask which level it belongs to. Big Design friction means some people face barriers before they even begin. Small Design friction means users encounter difficulty trying to achieve their goals. Micro Design friction means one small thing that should be better.
 
 ---
 

@@ -8,6 +8,9 @@
 
 **Docsify-This** is an open-source web app that instantly turns online Markdown text files into styled web pages – no installation, no build process, just paste a URL and go!
 
+> *"I'm blown away just by the fact you put a URL into Docsify-This and then you get a URL back for a web page… done! Take the URL and go. It is so seamless."*
+> — J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
+
 In this session, you'll see how interaction design decisions can lower the friction of a real-world open publishing project, and how the same framework applies to almost any tool or learning experience you design.
 
 **By the end of this session, you'll be able to:**
@@ -82,8 +85,6 @@ The experience of actually using the tool: first-use flow, key tasks, progressiv
 **Docsify-This example:**  
 Docsify-This uses progressive disclosure — the Web Page Builder shows the essentials first, with the availability to show more options for those who want to go further. Customize via the builder, or directly via URL parameters like `&toc=true` and `&font-size=36px` — styling the page without ever touching the content itself. URL parameters work wherever the URL is used, even when embedding pages in other platforms.
 
-> *"Every configuration option is a decision the system has transferred to the user."*
-
 And then there's Micro Design – the details so small they barely register, until they're missing. The URL input field is automatically selected the moment you land on the page. One detail. One less click. One less small frustration, multiplied across every person who has ever used the tool.
 
 ---
@@ -156,9 +157,6 @@ Notice the URL field is already selected and waiting. (A small but deliberate de
 **3. Press "Publish as a Web Page"**
 
 Watch a Markdown file become a styled web page in seconds. That's the moment of delight – and it's intentional.
-
-> *"I'm blown away just by the fact you put a URL into Docsify-This and then you get a URL back for a web page… done! Take the URL and go. It is so seamless."*
-> — J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
 
 > [!NOTE]
 > This activity uses a pre-hosted file — publishing your own content requires a place to store it online, such as GitHub or Codeberg.

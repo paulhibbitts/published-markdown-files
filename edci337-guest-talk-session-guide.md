@@ -1,6 +1,6 @@
 # Big Design, Small Design
 
-<h2> How Structural and Surface Decisions Can Affect Friction — A Docsify-This Case Study </h2>
+<h2> How Structural and Surface Decisions Impact Friction — A Docsify-This Case Study </h2>
 
 **Follow along • Try it out • Take it with you**
 

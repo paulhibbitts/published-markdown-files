@@ -77,7 +77,7 @@ The experience of actually using the tool: first-use flow, key tasks, progressiv
 **Ask:** Does the default experience make sense immediately? Are power features accessible without cluttering the simple path for everyone else?
 
 **Docsify-This example:**  
-Customize through the point-and-click Web Page Builder, or directly via URL parameters like `&toc=true` and `&font-size=36px` — styling the page without ever touching the content itself. URL parameters work wherever the URL is used, even when embedding pages in other platforms.
+Docsify-This uses progressive disclosure — the Web Page Builder shows the essentials first, with URL parameters available for those who want to go further. Customize via the builder, or directly via URL parameters like `&toc=true` and `&font-size=36px` — styling the page without ever touching the content itself. URL parameters work wherever the URL is used, even when embedding pages in other platforms.
 
 > *"Every configuration option is a decision the system has transferred to the user."*
 

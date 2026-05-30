@@ -34,7 +34,7 @@ In this session, you'll see how interaction design decisions can lower the frict
 
 Markdown is a lightweight way to format plain text – readable as-is, renderable anywhere. Here's an [example Markdown source file](https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main/home.md ':target=_blank') ↗ to follow along with.
 
-| You Would Type | You Would Get |
+| You Type | You Get |
 |----------------|---------------|
 | `# Heading 1` | Large heading |
 | `## Heading 2` | Medium heading |
@@ -132,16 +132,11 @@ Change a URL parameter → see the result immediately. That's the core IxD feedb
 - [Default font size](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&hide-banner=true ':target=_blank') ↗
 - [With `&font-size=28px` added](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&hide-banner=true&font-size=28px ':target=_blank') ↗
 
-One URL edit. One immediate response. That's the feedback loop.
-
 ---
 
 ## ⚡ Try It Yourself
 
 **One URL. One page. Right now.**
-
-> [!NOTE]
-> No account needed. Nothing to install. Works in any browser.
 
 ### The 3-Step Process
 

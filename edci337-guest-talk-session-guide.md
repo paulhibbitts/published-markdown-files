@@ -166,7 +166,7 @@ Watch a Markdown file become a styled web page in seconds. That's the moment of 
 
 ### Go Further: Adjust a URL Parameter
 
-After publishing, try editing a URL parameter directly in your browser's address bar – no need to go back to the Web Page Builder.
+After publishing, try editing a URL parameter directly in your browser's address bar — no need to go back to the Web Page Builder. First, remove the `#/` from the end of the URL before adding a parameter with `&`.
 
 Add one of these to the end of your published page URL and press Enter:
 

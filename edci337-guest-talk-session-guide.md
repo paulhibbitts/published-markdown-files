@@ -9,6 +9,7 @@
 **Docsify-This** is an open-source web app that instantly turns online Markdown text files into styled web pages – no installation, no build process, just paste a URL and go!
 
 > *"I'm blown away just by the fact you put a URL into Docsify-This and then you get a URL back for a web page… done! Take the URL and go. It is so seamless."*
+>
 > — J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
 
 In this session, you'll see how interaction design decisions can lower the friction of a real-world open publishing project, and how the same framework applies to almost any tool or learning experience you design.
@@ -49,6 +50,7 @@ Markdown is a lightweight way to format plain text – readable as-is, renderabl
 **The friction problem:** Writing Markdown is quite learnable, but *publishing* it has traditionally required a web server, a build process, or developer-type skills. That's a barrier most educators can't cross on their own.
 
 > *"Keeping all my course notes as plain text files and deploying them through GitHub and Docsify-This is easy and makes my course development a breeze. Plus, I keep all my materials locally, and can reuse them without being reliant on Canvas."*
+>
 > — J. Maxwell, Director & Associate Professor, Publishing Program, Simon Fraser University
 
 ---
@@ -170,6 +172,7 @@ Every design decision you saw today – big, small, or micro – started with a 
 That question doesn't change whether you're building a publishing tool, designing a course, or choosing which platform your students will use. The framework travels.
 
 > *"Experience design is ultimately a way to show people that you care. That applies to tools, to documentation, and to the learning environments you'll design as educators."*
+>
 > – Paul Hibbitts, HibbittsDesign.org
 
 ---

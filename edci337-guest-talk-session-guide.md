@@ -172,8 +172,8 @@ Add one of these to the end of your published page URL and press Enter:
 
 | Add to URL | What happens |
 |------------|--------------|
-| `&dark-mode=on` | Dark theme switches on |
 | `&font-size=28px` | Text gets larger |
+| `&dark-mode=on` | Dark theme switches on |
 
 ---
 

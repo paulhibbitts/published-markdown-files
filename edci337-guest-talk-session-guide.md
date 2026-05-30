@@ -164,6 +164,18 @@ Watch a Markdown file become a styled web page in seconds. That's the moment of 
 > [!NOTE]
 > This activity uses a pre-hosted file – publishing your own content requires a place to store it online, such as GitHub or Codeberg.
 
+### ✨ Go Further: Adjust a URL Parameter
+
+After publishing, try editing a URL parameter directly in your browser's address bar — no need to go back to the Web Page Builder.
+
+Add one of these to the end of your published page URL and press Enter:
+
+| Add to URL | What happens |
+|------------|--------------|
+| `&toc=true` | A table of contents appears |
+| `&dark-mode=on` | Dark theme switches on |
+| `&font-size=28px` | Text gets larger |
+
 ---
 
 ## 💡 The Key Takeaway
@@ -180,7 +192,7 @@ That question doesn't change whether you're building a publishing tool, designin
 
 **What we've done today:**
 
-- ✅ Markdown basics and the publishing friction problem
+- ✅ Markdown overview and the publishing friction problem
 - ✅ Big / Small Design as an IxD framework
 - ✅ Docsify-This design decisions in action
 - ✅ Publishing your first page and adjusting URL parameters

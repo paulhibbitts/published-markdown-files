@@ -129,15 +129,6 @@ Each of these principles maps directly to the framework – as you read through,
 > [!NOTE]
 > Notice that all six principles are Big Design decisions – Docsify-This was shaped primarily by structural choices that make publishing more accessible to more people.
 
-### The Core Feedback Loop
-
-Change a URL parameter → see the result immediately. That's the core IxD feedback loop, shortened to a single URL edit.
-
-**Try it:** Open both links and compare — they point to the same page, one URL parameter apart:
-
-- [Default font size](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&hide-banner=true ':target=_blank') ↗
-- [With `&font-size=28px` added](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&hide-banner=true&font-size=28px ':target=_blank') ↗
-
 ---
 
 ## ⚡ Try It Yourself
@@ -183,7 +174,7 @@ That question doesn't change whether you're building a publishing tool, designin
 
 - ✅ Markdown basics and the publishing friction problem
 - ✅ Big / Small Design as an IxD framework
-- ✅ Docsify-This design decisions and feedback loop
+- ✅ Docsify-This design decisions in action
 - ✅ Publishing your first page and adjusting URL parameters
 
 **Before you leave:**

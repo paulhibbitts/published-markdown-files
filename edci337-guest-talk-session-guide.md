@@ -161,9 +161,6 @@ Watch a Markdown file become a styled web page in seconds. That's the moment of 
 > [!NOTE]
 > This activity uses a pre-hosted file — publishing your own content requires a place to store it online, such as GitHub or Codeberg.
 
-> [!TIP]
-> After publishing, look at the URL in your browser's address bar. Notice how your Web Page Builder choices appear as URL parameters on the generated page. That's Small Design – your choices, made visible and shareable.
-
 ---
 
 ## 💡 The Key Takeaway

@@ -164,7 +164,7 @@ Watch a Markdown file become a styled web page in seconds. That's the moment of 
 > [!NOTE]
 > This activity uses a pre-hosted file – publishing your own content requires a place to store it online, such as GitHub or Codeberg.
 
-### ✨ Go Further: Adjust a URL Parameter
+### Go Further: Adjust a URL Parameter
 
 After publishing, try editing a URL parameter directly in your browser's address bar – no need to go back to the Web Page Builder.
 

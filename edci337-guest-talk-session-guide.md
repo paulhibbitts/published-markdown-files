@@ -1,12 +1,12 @@
 # Big Design, Small Design
 
-<h2> How Structural and Surface Decisions Lower Friction — A Docsify-This Case Study </h2>
+<h2> How Design Decisions Can Impact Friction — A Docsify-This Case Study </h2>
 
 **Follow along • Try it out • Take it with you**
 
 ---
 
-**Docsify-This** is an open-source web app that instantly turns online Markdown text files into styled web pages – no webserver setup, no installation, no build process.
+**Docsify-This** is an open-source web app that instantly turns online Markdown text files into styled web pages – no web server setup, no installation, no build process.
 
 > *"I'm blown away just by the fact you put a URL into Docsify-This and then you get a URL back for a web page… done! Take the URL and go. It is so seamless."*
 >

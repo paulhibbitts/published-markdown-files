@@ -173,8 +173,6 @@ Every design decision you saw today – big, small, or micro – started with a 
 That question doesn't change whether you're building a publishing tool, designing a course, or choosing which platform your students will use. The framework travels.
 
 > *"Experience design is ultimately a way to show people that you care. That applies to tools, to documentation, and to the learning environments you'll design as educators."*
->
-> — Paul Hibbitts, HibbittsDesign.org
 
 ---
 

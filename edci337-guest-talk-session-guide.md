@@ -1,6 +1,6 @@
-# Interactivity & Web Design
+# Big Design, Small Design
 
-<h2> An Interaction Design Framework Through a Real-World Example </h2>
+<h2> How Structural and Surface Decisions Lower Friction — A Docsify-This Case Study </h2>
 
 **Follow along • Try it out • Take it with you**
 

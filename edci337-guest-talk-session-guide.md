@@ -45,9 +45,12 @@ Markdown is a lightweight way to format plain text – readable as-is, renderabl
 
 **The friction problem:** Writing Markdown is quite learnable, but *publishing* it has traditionally required a web server, a build process, or developer-type skills. That's a barrier most educators can't cross on their own.
 
-To publish with Docsify-This, you'll need your Markdown file stored somewhere online – a GitHub or Codeberg repository is the most common choice, though a GitHub Gist or any web-accessible location works too. **Once it's there, Docsify-This does the rest.**
+> *"Keeping all my course notes as plain text files and deploying them through GitHub and Docsify-This is easy and makes my course development a breeze. Plus, I keep all my materials locally, and can reuse them without being reliant on Canvas."*
+> — J. Maxwell, Director & Associate Professor, Publishing Program, Simon Fraser University
 
-> *"Platforms come and go. Markdown files don't."*
+---
+
+To publish with Docsify-This, you'll need your Markdown file stored somewhere online – a GitHub or Codeberg repository is the most common choice, though a GitHub Gist or any web-accessible location works too. **Once it's there, Docsify-This does the rest.**
 
 ---
 
@@ -87,9 +90,9 @@ And then there's Micro Design – the details so small they barely register, unt
 
 > [!TIP]
 > Next time you feel friction using *any* tool: ask which level it belongs to.
-> - **Big Design** – people face barriers before they even begin
-> - **Small Design** – people struggle to achieve their goals
-> - **Micro Design** – people get caught on small details
+> - **Big Design** — people face barriers before they even begin
+> - **Small Design** — people struggle to achieve their goals
+> - **Micro Design** — people get caught on small details
 
 ---
 
@@ -153,6 +156,9 @@ Notice the URL field is already selected and waiting. (A small but deliberate de
 **3. Press "Publish as a Web Page"**
 
 Watch a Markdown file become a styled web page in seconds. That's the moment of delight – and it's intentional.
+
+> *"I'm blown away just by the fact you put a URL into Docsify-This and then you get a URL back for a web page… done! Take the URL and go. It is so seamless."*
+> — J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
 
 > [!NOTE]
 > This activity uses a pre-hosted file — publishing your own content requires a place to store it online, such as GitHub or Codeberg.

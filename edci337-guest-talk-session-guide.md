@@ -71,6 +71,8 @@ The barriers that live above and beyond the user interface.
 
 **Ask:** Who may face headwinds or is left out, and why? What structural decisions – workflows, platforms, portability – create friction before anyone even starts using the tool?
 
+Big Design asks us to think about outcomes over outputs — not just "did the tool publish the page?" but "did the right people get to publish at all?"
+
 **Docsify-This example:**  
 Traditional publishing workflows store content within the platform: configure → write → format → publish → maintain. That structure confines content and creates "walled gardens." Docsify-This changes the structure: your files stay where you originally store them (e.g. GitHub), Docsify-This provides the lens.
 
@@ -85,9 +87,13 @@ The experience of actually using the tool: first-use flow, key tasks, progressiv
 **Ask:** Does the default experience make sense immediately? Are power features accessible without cluttering the simple path for everyone else?
 
 **Docsify-This example:**  
-Docsify-This uses progressive disclosure — the Web Page Builder shows the essentials first, with the availability to show more options for those who want to go further. Customize via the builder, or directly via URL parameters like `&toc=true` and `&font-size=36px` — styling the page without ever touching the content itself. URL parameters work wherever the URL is used, even when embedding pages in other platforms.
+Docsify-This uses progressive disclosure — the Web Page Builder shows the essentials first, with more options available for those who want to go further. Customize via the builder or directly via URL parameters like `&toc=true` and `&font-size=36px`, styling the page without touching the content itself — and URL parameters work wherever the URL is used, including when embedding pages in other platforms.
 
-And then there's Micro Design – the details so small they barely register, until they're missing. The URL input field is automatically selected the moment you land on the page. One detail. One less click. One less small frustration, multiplied across every person who has ever used the tool.
+And then there's Micro Design – the details so small they barely register, until they're missing.
+
+Two examples from Docsify-This: the URL input field is auto-selected on arrival, and a demo Markdown file URL is pre-filled and selected — tap once to see the tool work, or paste your own URL to replace it instantly.
+
+One detail at a time. One less click. One less small frustration, multiplied across every person who has ever used the tool.
 
 ---
 

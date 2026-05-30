@@ -38,6 +38,8 @@ In this session, you'll see how interaction design decisions can lower the frict
 
 Markdown is a lightweight way to format plain text – readable as-is, renderable anywhere. Here's an [example Markdown source file](https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main/home.md ':target=_blank') ↗ to follow along with.
 
+### Basic Markdown Syntax
+
 | You Type | You Get |
 |----------------|---------------|
 | `# Heading 1` | Large heading |
@@ -47,7 +49,9 @@ Markdown is a lightweight way to format plain text – readable as-is, renderabl
 | `[link text](URL)` | Clickable link |
 | `- Item` | • Bulleted list |
 
-**The friction problem:** Writing Markdown is quite learnable, but *publishing* it has traditionally required a web server, a build process, or developer-type skills. That's a barrier most educators can't cross on their own.
+### The Friction Problem
+
+Writing Markdown is quite learnable, but *publishing* it has traditionally required a web server, a build process, or developer-type skills. That's a barrier most educators can't cross on their own.
 
 > *"Keeping all my course notes as plain text files and deploying them through GitHub and Docsify-This is easy and makes my course development a breeze. Plus, I keep all my materials locally, and can reuse them without being reliant on Canvas."*
 >

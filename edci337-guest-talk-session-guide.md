@@ -57,7 +57,7 @@ A practical interaction design (IxD) framework for locating *where* an interacti
 
 [Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ is the example here, but the questions this framework asks apply to any tool, platform, or learning environment.
 
-### Big Design – The Strategic Problem
+### Big Design – The Strategic Aspect
 
 The barriers that live above and beyond the user interface.
 
@@ -70,14 +70,14 @@ This is a common open-source challenge — Big Design often gets far less attent
 
 Accessibility was baked into that structure from the start: semantic HTML, keyboard navigable, low visual noise. That means an author focused on their content automatically gets an accessible result.
 
-### Small Design – The UX Layer
+### Small Design – The Experience Aspect
 
 The experience of actually using the tool: first-use flow, key tasks, progressive disclosure, and microcopy.
 
 **Ask:** Does the default experience make sense immediately? Are power features accessible without cluttering the simple path for everyone else?
 
 **Docsify-This example:**  
-Docsify-This uses progressive disclosure — the Web Page Builder shows the essentials first, with the availabilty to show more options for those who want to go further. Customize via the builder, or directly via URL parameters like `&toc=true` and `&font-size=36px` — styling the page without ever touching the content itself. URL parameters work wherever the URL is used, even when embedding pages in other platforms.
+Docsify-This uses progressive disclosure — the Web Page Builder shows the essentials first, with the availability to show more options for those who want to go further. Customize via the builder, or directly via URL parameters like `&toc=true` and `&font-size=36px` — styling the page without ever touching the content itself. URL parameters work wherever the URL is used, even when embedding pages in other platforms.
 
 > *"Every configuration option is a decision the system has transferred to the user."*
 

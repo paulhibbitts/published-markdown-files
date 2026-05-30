@@ -172,7 +172,6 @@ Add one of these to the end of your published page URL and press Enter:
 
 | Add to URL | What happens |
 |------------|--------------|
-| `&toc=true` | A table of contents appears |
 | `&dark-mode=on` | Dark theme switches on |
 | `&font-size=28px` | Text gets larger |
 

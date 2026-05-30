@@ -110,7 +110,7 @@ One detail at a time. One less click. One less small frustration, multiplied acr
 **Questions or observations before we continue?**
 
 **What we've covered so far:**
-- ✅ Markdown basics and the publishing friction problem
+- ✅ Markdown overview and the publishing friction problem
 - ✅ Big / Small Design as an IxD framework
 
 **Coming up:** Design Decisions in Action!

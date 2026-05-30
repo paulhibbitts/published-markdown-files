@@ -26,7 +26,7 @@ In this session, you'll see how interaction design decisions can lower the frict
 
 | What We're Covering | Focus |
 |---------------------|-------|
-| 📝 Markdown Basics | The promise – and the friction |
+| 📝 Markdown Overview | The promise – and the friction |
 | 🔍 Big Design, Small Design | An Interaction Design (IxD) framework |
 | ▶️ Docsify-This | Design decisions in action |
 | ⚡ Try It Yourself | One URL, one page, right now |
@@ -34,7 +34,7 @@ In this session, you'll see how interaction design decisions can lower the frict
 
 ---
 
-## 📝 Markdown Basics
+## 📝 Markdown Overview
 
 Markdown is a lightweight way to format plain text – readable as-is, renderable anywhere. Here's an [example Markdown source file](https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main/home.md ':target=_blank') ↗ to follow along with.
 

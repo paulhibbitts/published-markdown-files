@@ -87,9 +87,9 @@ And then there's Micro Design – the details so small they barely register, unt
 
 > [!TIP]
 > Next time you feel friction using *any* tool: ask which level it belongs to.
-> - **Big Design** — people face barriers before they even begin
-> - **Small Design** — people struggle to achieve their goals
-> - **Micro Design** — people get caught on small details
+> - **Big Design** – people face barriers before they even begin
+> - **Small Design** – people struggle to achieve their goals
+> - **Micro Design** – people get caught on small details
 
 ---
 

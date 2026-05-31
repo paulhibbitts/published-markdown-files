@@ -172,8 +172,9 @@ Add one of these to the end of your published page URL and press Enter:
 
 | Add to URL | What happens |
 |------------|--------------|
-| `&font-size=28px` | Text gets larger |
-| `&dark-mode=on` | Dark theme switches on |
+| `&sidebar=true` | [Text gets larger](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true) |
+| `&font-size=28px` | [Text gets larger](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-size=28px) |
+| `&dark-mode=on` | [Dark theme switches on](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=on) |
 
 ---
 

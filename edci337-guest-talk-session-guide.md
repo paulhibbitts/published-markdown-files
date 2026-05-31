@@ -78,7 +78,7 @@ The barriers that live above and beyond the user interface.
 Big Design asks us to think about outcomes over outputs – not just "did the tool publish the page?" but "did the right people get to publish at all?"
 
 **Docsify-This example:**  
-Traditional publishing workflows store content within the platform: configure → write → format → publish → maintain. That structure confines content and creates "walled gardens." Docsify-This changes the structure: your files stay where you originally store them (e.g. GitHub), Docsify-This provides the lens.
+Traditional publishing workflows store content within the platform... Docsify-This changes the structure: your files stay where you originally store them. It doesn't eliminate every upstream barrier. Getting your file onto GitHub or Codeberg is still a step. But it removes the publishing and maintenance friction that traditionally follows.
 
 This is a common open-source challenge – Big Design often gets far less attention than the interface itself, leaving less tech-savvy users behind. Docsify-This was designed with that gap in mind.
 

@@ -80,7 +80,7 @@ Big Design asks us to think about outcomes over outputs – not just "did the to
 **Docsify-This example:**  
 Traditional publishing workflows store content within the platform... Docsify-This changes the structure: your files stay where you originally store them. It doesn't eliminate every barrier before you start. Getting your file onto GitHub or Codeberg is still a step. But it removes the publishing and maintenance friction that traditionally follows.
 
-This is a common open-source challenge – Big Design often gets far less attention than the interface itself, leaving less tech-savvy users behind. Docsify-This was designed with that gap in mind.
+This is a common open-source challenge – Big Design often gets far less attention than the interface itself, leaving less tech-savvy users behind. Docsify-This was designed with the publishing gap in mind.
 
 Accessibility was baked into that structure from the start: semantic HTML, keyboard navigable, low visual noise. That means an author focused on their content automatically gets an accessible result.
 

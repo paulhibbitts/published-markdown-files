@@ -91,7 +91,7 @@ The experience of actually using the tool: first-use flow, key tasks, progressiv
 **Ask:** Does the default experience make sense immediately? Are power features accessible without cluttering the simple path for everyone else?
 
 **Docsify-This example:**  
-Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. Customize via the builder or directly via URL parameters like `&sidebar=true` and `&font-size=28px`, styling the page without touching the content itself – and URL parameters work wherever the URL is used, including when embedding pages in other platforms.
+Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. Customize via the builder (including an "Edit this Page" link for GitHub or Codeberg files) or directly via URL parameters like `&sidebar=true` and `&font-size=28px`, styling the page without touching the content itself.
 
 And then there's Micro Design – the details so small they barely register, until they're missing.
 

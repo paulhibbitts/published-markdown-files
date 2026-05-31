@@ -117,13 +117,13 @@ One detail at a time. One less click. One less small frustration, multiplied acr
 - ✅ Markdown overview and the publishing friction problem
 - ✅ Big / Small Design as an IxD framework
 
-**Coming up:** Design Decisions in Action!
+**Coming up:** Core Design Principles!
 
 ---
 
 ## ▶️ Docsify-This: Design Decisions in Action
 
-Each of these principles maps directly to the framework – as you read through, consider which level each one belongs to.
+These core design principles guided the development of Docsify-This. As you read through, notice how each one reflects a structural choice.
 
 ### Core Design Principles
 

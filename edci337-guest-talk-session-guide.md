@@ -91,7 +91,7 @@ The experience of actually using the tool: first-use flow, key tasks, progressiv
 **Ask:** Does the default experience make sense immediately? Are power features accessible without cluttering the simple path for everyone else?
 
 **Docsify-This example:**  
-Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. Customize via the builder or directly via URL parameters like `&toc=true` and `&font-size=36px`, styling the page without touching the content itself – and URL parameters work wherever the URL is used, including when embedding pages in other platforms.
+Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. Customize via the builder or directly via URL parameters like `&sidebar=true` and `&font-size=28px`, styling the page without touching the content itself – and URL parameters work wherever the URL is used, including when embedding pages in other platforms.
 
 And then there's Micro Design – the details so small they barely register, until they're missing.
 
@@ -173,6 +173,7 @@ Add one of these to the end of your published page URL and press Enter:
 | Add to URL | What happens |
 |------------|--------------|
 | `&sidebar=true` | [Display Docsify sidebar](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true) |
+| `&sidebar=true&searchbox=true` | [Display Docsify sidebar with search box](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&searchbox=true) |
 | `&font-size=28px` | [Text gets larger](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-size=28px) |
 | `&dark-mode=on` | [Dark theme switches on](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=on) |
 

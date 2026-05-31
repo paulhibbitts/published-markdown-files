@@ -173,7 +173,7 @@ Add one of these to the end of your published page URL and press Enter:
 | Add to URL | What happens |
 |------------|--------------|
 | `&sidebar=true` | [Display Docsify sidebar](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true) |
-| `&sidebar=true&searchbox=true` | [Display Docsify sidebar with search box](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&searchbox=true) |
+| `&sidebar=true&maxLevel=3` | [Display Docsify sidebar with level 3 headers ](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3) |
 | `&font-size=28px` | [Text gets larger](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-size=28px) |
 | `&dark-mode=on` | [Dark theme switches on](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=on) |
 

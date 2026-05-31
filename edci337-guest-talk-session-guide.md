@@ -36,7 +36,7 @@ In this session, you'll see how interaction design decisions can lower the frict
 
 ## 📝 Markdown Overview
 
-Markdown is a lightweight way to format plain text – readable as-is, renderable anywhere. Here's an [example Markdown source file](https://raw.githubusercontent.com/paulhibbitts/demo-markdown-file/refs/heads/main/README.md ':target=_blank') ↗ to follow along with.
+Markdown is a lightweight way to format plain text – readable as-is, renderable anywhere. Here's an [example Markdown source file](https://raw.githubusercontent.com/paulhibbitts/demo-markdown-file/refs/heads/main/README.md ':target=_blank') ↗ to further explore.
 
 ### Basic Markdown Syntax
 

@@ -88,7 +88,7 @@ Accessibility was baked into that structure from the start: semantic HTML, keybo
 
 The experience within the interface.
 
-**Ask:** Does the default experience make sense immediately? Are power features accessible without cluttering the simple path for everyone else?
+**Ask:** Is the experience clear and purposeful at every interaction? Are power features accessible without cluttering the simple path for everyone else?
 
 **Docsify-This example:**  
 Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. Customize via the builder (including an "Edit this Page" link for GitHub or Codeberg files) or directly via URL parameters like `&sidebar=true` and `&font-size=28px`, styling the page without touching the content itself.

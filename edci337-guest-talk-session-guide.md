@@ -93,7 +93,7 @@ The experience within the interface.
 **Docsify-This example:**  
 Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. [Open Docsify-This.net](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ to see this in action — notice the "Show More Page Appearance Options »" link that reveals additional options only when needed.
 
-Customize via the builder (including an "Edit this Page" link for GitHub or Codeberg files) — styling the page without touching the content itself.
+Customize via the builder (including an "Edit this Page" link for GitHub or Codeberg files), styling the page without touching the content itself.
 
 And then there's Micro Design – the details that seem small but do a lot of work.
 

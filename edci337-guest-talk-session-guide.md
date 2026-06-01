@@ -71,7 +71,7 @@ A practical interaction design (IxD) framework for locating where an interaction
 
 ### Big Design
 
-The friction that exists outside and around the interface.
+The experience around and beyond the interface.
 
 **Ask:** Who may face headwinds or is left out, and why? What structural decisions – workflows, platforms, portability – create friction before anyone even starts using the tool?
 
@@ -86,7 +86,7 @@ Accessibility was baked into that structure from the start: semantic HTML, keybo
 
 ### Small Design
 
-The experience of actually using the tool: first-use flow, key tasks, progressive disclosure, and microcopy.
+The experience within the interface.
 
 **Ask:** Does the default experience make sense immediately? Are power features accessible without cluttering the simple path for everyone else?
 

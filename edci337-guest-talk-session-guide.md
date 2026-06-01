@@ -65,7 +65,7 @@ To publish with Docsify-This, you'll need your Markdown file stored somewhere on
 
 ## 🔍 Big Design, Small Design
 
-A practical interaction design (IxD) framework for locating where an interaction design problem lives, and what level of design would address it.
+A practical interaction design (IxD) framework for locating where an interaction design problem lives, and what level of design would address it. Friction is one important lens – but Big and Small Design also encompass opportunities, possibilities, and the conditions that allow people to do reach their goals.
 
 [Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ is the example here, but the questions this framework asks apply to any tool, platform, or learning environment.
 

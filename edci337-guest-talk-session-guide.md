@@ -19,8 +19,8 @@ In this session, you'll see how interaction design decisions can lower the frict
 - Recognize how specific interaction design decisions lower barriers for users
 - Experience firsthand how interaction design decisions shaped a publishing tool
 
-> [!NOTE]
-> Links with ↗ will automatically open in a new browser tab so this guide stays available as you follow along.
+> [!TIP]
+> For the best experience, open this guide in a left browser tab and use the right tab for the Markdown source file and published page examples as you follow along. Links with ↗ open automatically in a new tab.
 
 ## 📍 Session Outline
 

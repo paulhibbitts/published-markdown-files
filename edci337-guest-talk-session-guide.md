@@ -69,7 +69,7 @@ A practical interaction design (IxD) framework for locating where an interaction
 
 [Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ is the example here, but the questions this framework asks apply to any tool, platform, or learning environment.
 
-### Big Design – The Strategic Aspect
+### Big Design
 
 The barriers that live above and beyond the user interface.
 
@@ -84,7 +84,7 @@ This is a common open-source challenge – Big Design often gets far less attent
 
 Accessibility was baked into that structure from the start: semantic HTML, keyboard navigable, low visual noise. That means an author focused on their content automatically gets an accessible result.
 
-### Small Design – The Experience Aspect
+### Small Design
 
 The experience of actually using the tool: first-use flow, key tasks, progressive disclosure, and microcopy.
 

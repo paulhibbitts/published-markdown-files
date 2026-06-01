@@ -93,9 +93,9 @@ The experience within the interface.
 **Docsify-This example:**  
 Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. Customize via the builder (including an "Edit this Page" link for GitHub or Codeberg files) or directly via URL parameters like `&sidebar=true` and `&font-size=28px`, styling the page without touching the content itself.
 
-And then there's Micro Design – the details so small they barely register, until they're missing.
+And then there's Micro Design – the details that seem small but do a lot of work.
 
-Two examples from Docsify-This: the URL input field is auto-selected on arrival, and a demo Markdown file URL is pre-filled and selected – tap once to see the tool work, or paste your own URL to replace it instantly.
+Docsify-This shows two Micro Design details working together: the URL input field arrives pre-filled with a demo URL and already selected — tap once to see the tool work, or paste your own URL to replace it instantly.
 
 One detail at a time. One less click. One less small frustration, multiplied across every person who has ever used the tool.
 

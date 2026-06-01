@@ -20,7 +20,7 @@ In this session, you'll see how interaction design decisions can lower the frict
 - Experience firsthand how interaction design decisions shaped a publishing tool
 
 > [!TIP]
-> For the best experience, open this guide in a left browser tab and use the right tab for the Markdown source file and published page examples as you follow along. Links with ↗ open automatically in a new tab.
+> This guide works best alongside a browser tab showing live examples — links with ↗ open automatically in a new tab for this purpose.
 
 ## 📍 Session Outline
 

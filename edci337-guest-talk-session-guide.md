@@ -91,7 +91,7 @@ The experience within the interface.
 **Ask:** Is the experience clear and purposeful at every interaction? Are power features accessible without cluttering the simple path for everyone else?
 
 **Docsify-This example:**  
-Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. [Open Docsify-This.net](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ to see this in action. Key options like page layout and an "Edit this Page" link for GitHub or Codeberg files are immediately available – all styling the page without touching the content itself.
+Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. [Open Docsify-This.net](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ to see this in action. Key options like page layout and an "Edit this Page" link for GitHub or Codeberg files are immediately available – all changing how the page appears without touching the content itself.
 
 In addition, the **"Show More Page Appearance Options »"** link reveals additional options only when needed.
 

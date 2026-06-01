@@ -71,7 +71,7 @@ A practical interaction design (IxD) framework for locating where an interaction
 
 ### Big Design
 
-The barriers that live above and beyond the user interface.
+The friction that lives outside and around the interface.
 
 **Ask:** Who may face headwinds or is left out, and why? What structural decisions – workflows, platforms, portability – create friction before anyone even starts using the tool?
 

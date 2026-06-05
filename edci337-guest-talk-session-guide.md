@@ -173,8 +173,6 @@ These core design principles guided the development of Docsify-This. As you read
 > [!TIP]
 > Notice that all six principles are Big Design decisions – Docsify-This was shaped primarily by structural choices that make publishing more accessible to more people.
 
----
-
 ## ⚡ Try It Yourself
 
 **One URL. One page. Right now.**

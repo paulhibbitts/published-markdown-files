@@ -135,9 +135,9 @@ One detail at a time. One less click. One less small frustration, multiplied acr
 
 ---
 
-## 🎯 The Framework in Action
+## 🎯 Using the Framework
 
-Next time you feel friction using *any* tool: assess which level it belongs to.
+Next time you encounter friction using *any* tool: assess which level it belongs to.
 
 🔎 **Big Design** – people face barriers before they even begin  
 🔎 **Small Design** – people struggle to achieve their goals  

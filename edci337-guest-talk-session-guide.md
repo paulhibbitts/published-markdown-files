@@ -170,7 +170,7 @@ These core design principles guided the development of Docsify-This. As you read
 | **Support the 5 Rs of OER** | Content stays open, portable, and reusable by others (Retain, Reuse, Revise, Remix, Redistribute) |
 | **Authors Helping Other Authors** | URL parameters can be pre-configured and shared with others |
 
-> [!NOTE]
+> [!TIP]
 > Notice that all six principles are Big Design decisions – Docsify-This was shaped primarily by structural choices that make publishing more accessible to more people.
 
 ---
@@ -195,7 +195,7 @@ Notice the URL field is already selected and waiting. (A small but deliberate de
 
 Watch a Markdown file become a styled web page in seconds. That's the moment of delight – and it's intentional.
 
-> [!WARNING]
+> [!NOTE]
 > This activity uses a pre-hosted file – when publishing your own content requires a place to store it online, such as GitHub or Codeberg.
 
 ### Go Further

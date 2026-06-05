@@ -2,7 +2,7 @@
 
 <h2> How Design Decisions Can Impact Friction – A&nbsp;Docsify-This Case Study </h2>
 
-**Follow along • Try it out • Take it with you**
+**Follow along • Try it out • Apply it after**
 
 ---
 

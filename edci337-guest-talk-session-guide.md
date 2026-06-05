@@ -78,7 +78,7 @@ The experience around and beyond the interface.
 **Ask:**  
 
 ❓ Who may face headwinds, be left out, or drop off – and why?  
-❓ What structural decisions — workflows, platforms, portability — create friction before anyone starts?
+❓ What structural decisions – workflows, platforms, portability – create friction before anyone starts?
 
 **Key structural choices in Docsify-This:**
 - Your files stay where you store them; Docsify-This reads dynamically

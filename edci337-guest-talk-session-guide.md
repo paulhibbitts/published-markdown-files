@@ -19,6 +19,8 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 - Recognize how specific interaction design decisions lower barriers for users
 - Experience firsthand how those decisions shaped the final tool
 
+---
+
 ## 📍 Session Outline
 
 | What We're Covering | Focus |

@@ -19,9 +19,6 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 - Recognize how specific interaction design decisions lower barriers for users
 - Experience firsthand how those decisions shaped the final tool
 
-> [!TIP]
-> This guide works best alongside a browser tab showing live examples – links with ↗ open automatically in a new tab for this purpose.
-
 ## 📍 Session Outline
 
 | What We're Covering | Focus |
@@ -32,6 +29,8 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 | ⚡ Try It Yourself | One URL, one page, right now |
 | 🎯 Resources to Go | What to carry forward |
 
+> [!TIP]
+> This guide works best alongside a browser tab showing live examples – links with ↗ open automatically in a new tab for this purpose.
 ---
 
 ## 📝 Markdown Overview

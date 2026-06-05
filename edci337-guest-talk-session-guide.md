@@ -12,12 +12,12 @@
 >
 > — J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
 
-In this session, you’ll see how interaction design decisions lower friction in a real-world open publishing project, and how the same framework applies to almost any tool or learning experience you design.
+In this session, you'll see how a real-world open publishing tool was shaped by intentional design decisions, and how the same thinking applies to almost any tool or learning experience you create.
 
 **By the end of this session, you'll be able to:**
 - Identify where friction lives in a digital tool using the Big / Small Design framework
 - Recognize how specific interaction design decisions lower barriers for users
-- Experience firsthand how interaction design decisions shaped a publishing tool
+- Experience firsthand how those decisions shape the final tool
 
 > [!TIP]
 > This guide works best alongside a browser tab showing live examples — links with ↗ open automatically in a new tab for this purpose.

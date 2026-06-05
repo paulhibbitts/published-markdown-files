@@ -29,7 +29,7 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 | 🔍 Big Design, Small Design | An Interaction Design (IxD) framework |
 | ▶️ Docsify-This | Design decisions in action |
 | ⚡ Try It Yourself | One URL, one page, right now |
-| 🎯 Resources to Go | What to carry forward |
+| 🎯 Resources to Go | What to take with you |
 
 > [!TIP]
 > This guide works best alongside a browser tab showing live examples – links with ↗ open automatically in a new tab for this purpose.

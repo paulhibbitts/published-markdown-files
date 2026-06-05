@@ -214,8 +214,6 @@ Add one of these to the end of your published page URL and press Enter:
 | `&font-size=28px` | [Text gets larger for presenting](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-size=28px) |
 | `&dark-mode=on` | [Dark theme always on](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=on) |
 
----
-
 ## 💡 The Key Takeaway
 
 Every design decision you saw today – big, small, or micro – started with a scenario-based question: who is trying to do what, and what friction stands between them and their goal?

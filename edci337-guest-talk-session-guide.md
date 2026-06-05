@@ -151,7 +151,7 @@ Next time you encounter friction using *any* tool: assess which level it belongs
 ✅ Markdown overview and the publishing friction problem  
 ✅ Big / Small Design as an IxD framework  
 
-**Coming up:** Design Decisions in Action!
+**Coming up:** Core Design Principles of Docsify-This!
 
 ---
 

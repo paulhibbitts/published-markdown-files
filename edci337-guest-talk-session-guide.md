@@ -17,7 +17,7 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 **By the end of this session, you'll be able to:**
 - Identify where friction lives in a digital tool using the Big / Small Design framework
 - Recognize how specific interaction design decisions lower barriers for users
-- Experience firsthand how those decisions shape the final tool
+- Experience firsthand how those decisions shaped the final tool
 
 > [!TIP]
 > This guide works best alongside a browser tab showing live examples — links with ↗ open automatically in a new tab for this purpose.

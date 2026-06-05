@@ -133,10 +133,10 @@ One detail at a time. One less click. One less small frustration, multiplied acr
 ---
 
 > [!TIP]
-> Next time you feel friction using *any* tool: ask which level it belongs to.
-> - **Big Design** – people face barriers before they even begin
-> - **Small Design** – people struggle to achieve their goals
-> - **Micro Design** – people get caught on small details
+> Next time you feel friction using *any* tool: assess which level it belongs to.  
+> 🔎 **Big Design** – people face barriers before they even begin  
+> 🔎 **Small Design** – people struggle to achieve their goals  
+> 🔎 **Micro Design** – people get caught on small details  
 
 ---
 

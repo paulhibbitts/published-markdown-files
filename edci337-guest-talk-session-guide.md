@@ -77,9 +77,8 @@ The experience around and beyond the interface.
 
 **Ask:**  
 
-✅ Who may face headwinds or is left out, and why?  
-
-✅ What structural decisions – workflows, platforms, portability – create friction before anyone even starts using the tool?  
+❓ Who may face headwinds, be left out, or drop off – and why?  
+❓ What structural decisions — workflows, platforms, portability — create friction before anyone starts?
 
 **Key structural choices in Docsify-This:**
 - Your files stay where you store them; Docsify-This reads dynamically
@@ -106,9 +105,9 @@ The experience within the interface.
 
 **Ask:**  
 
-✅ Is the experience clear and purposeful at every interaction?  
+❓ Is the experience clear and purposeful at every interaction?  
 
-✅ Are power features accessible without cluttering the simple path for everyone else?  
+❓ Are power features accessible without cluttering the simple path for everyone else?  
 
 **Key interface choices in Docsify-This:**
 - Progressive disclosure: essentials first, deeper options when wanted
@@ -143,9 +142,9 @@ One detail at a time. One less click. One less small frustration, multiplied acr
 
 ## ⏸️ Brief Pause
 
-**What we've covered so far:**
-- ✅ Markdown overview and the publishing friction problem
-- ✅ Big / Small Design as an IxD framework
+**What we've covered so far:**  
+✅ Markdown overview and the publishing friction problem  
+✅ Big / Small Design as an IxD framework. 
 
 **Coming up:** Design Decisions in Action!
 

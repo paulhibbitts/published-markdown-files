@@ -14,7 +14,7 @@
 
 In this session, you'll see how a real-world open publishing tool was shaped by intentional design decisions, and how the same thinking applies to almost any tool or learning experience you create.
 
-**By the end of this session, you'll be able to:**
+### What You'll Be Able to Do
 - Identify friction in any digital tool using the Big / Small Design framework
 - Recognize how specific interaction design decisions lower barriers for users
 - Experience firsthand how those decisions shaped the final tool

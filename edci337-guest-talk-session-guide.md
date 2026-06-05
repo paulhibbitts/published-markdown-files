@@ -1,6 +1,6 @@
 # Big Design, Small Design
 
-<h2> How Design Decisions Can Impact Friction — A&nbsp;Docsify-This Case Study </h2>
+<h2> How Design Decisions Can Impact Friction – A&nbsp;Docsify-This Case Study </h2>
 
 **Follow along • Try it out • Take it with you**
 
@@ -10,7 +10,7 @@
 
 > *"I'm blown away just by the fact you put a URL into Docsify-This and then you get a URL back for a web page… done! Take the URL and go. It is so seamless."*
 >
-> — J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
+> – J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
 
 In this session, you'll see how a real-world open publishing tool was shaped by intentional design decisions, and how the same thinking applies to almost any tool or learning experience you create.
 
@@ -20,7 +20,7 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 - Experience firsthand how those decisions shaped the final tool
 
 > [!TIP]
-> This guide works best alongside a browser tab showing live examples — links with ↗ open automatically in a new tab for this purpose.
+> This guide works best alongside a browser tab showing live examples – links with ↗ open automatically in a new tab for this purpose.
 
 ## 📍 Session Outline
 
@@ -55,7 +55,7 @@ Writing Markdown is quite learnable, but *publishing* it has traditionally requi
 
 > *"Keeping all my course notes as plain text files and deploying them through GitHub and Docsify-This is easy and makes my course development a breeze. Plus, I keep all my materials locally, and can reuse them without being reliant on Canvas."*
 >
-> — J. Maxwell, Director & Associate Professor, Publishing Program, Simon Fraser University
+> – J. Maxwell, Director & Associate Professor, Publishing Program, Simon Fraser University
 
 ---
 
@@ -124,7 +124,7 @@ In addition, the **"Show More Page Appearance Options »"** link reveals additio
 
 And then there's Micro Design – the details that seem small but do a lot of work.
 
-Docsify-This shows two Micro Design details working together: the URL input field arrives pre-filled with a demo URL and already selected — tap once to see the tool work, or paste your own URL to replace it instantly.
+Docsify-This shows two Micro Design details working together: the URL input field arrives pre-filled with a demo URL and already selected – tap once to see the tool work, or paste your own URL to replace it instantly.
 
 One detail at a time. One less click. One less small frustration, multiplied across every person who has ever used the tool.
 

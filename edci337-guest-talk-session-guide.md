@@ -69,7 +69,7 @@ Writing Markdown is quite learnable, but *publishing* it has traditionally requi
 
 A practical interaction design (IxD) framework to consider where a design problem lives, and what design level addresses it. Friction is one lens – but Big and Small Design also encompass opportunities and the conditions that support people in reaching their goals.
 
-[Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ is the example here, but the questions this framework asks apply to any tool, platform, or learning environment.
+[Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ is the example here, but the questions this framework asks apply to almost any tool, platform, or learning environment.
 
 ### Big Design
 

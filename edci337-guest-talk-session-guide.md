@@ -83,7 +83,7 @@ The experience around and beyond the interface.
 - Accessibility built into the structure: semantic HTML, keyboard navigable, low visual noise
 
 <details>
-<summary>Further details about Big Design</summary><br>
+<summary>Further details about Big Design</summary>
 
 Big Design asks us to think about outcomes over outputs – not just "did the tool publish the page?" but "did the intended audience get to publish at all?"
 
@@ -108,7 +108,7 @@ The experience within the interface.
 - Pre-filled, pre-selected URL field: one less click, one less frustration
 
 <details>
-<summary>Further details about Small Design</summary><br>
+<summary>Further details about Small Design</summary>
 
 **Docsify-This example:**  
 Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. [Open Docsify-This.net](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ to see this in action. Key options like page layout and an "Edit this Page" link for GitHub or Codeberg files are immediately available – all changing how the page appears without touching the content itself.

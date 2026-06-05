@@ -59,7 +59,9 @@ Writing Markdown is quite learnable, but *publishing* it has traditionally requi
 
 ---
 
-To publish with Docsify-This, you'll need your Markdown file stored somewhere online – a GitHub or Codeberg repository is the most common choice, though a GitHub Gist or any web-accessible location works too. **Once it's there, Docsify-This does the rest.**
+**To publish with Docsify-This, you need:**
+- Your Markdown file stored online (GitHub, Codeberg, Gist, or any web-accessible URL)
+- That's it – Docsify-This reads it dynamically and does the rest
 
 ---
 
@@ -75,7 +77,15 @@ The experience around and beyond the interface.
 
 **Ask:** Who may face headwinds or is left out, and why? What structural decisions – workflows, platforms, portability – create friction before anyone even starts using the tool?
 
-Big Design asks us to think about outcomes over outputs – not just "did the tool publish the page?" but "did the right people get to publish at all?"
+**Key structural choices in Docsify-This:**
+- Your files stay where you store them; Docsify-This reads dynamically
+- Removes publishing and maintenance friction, not the initial upload step
+- Accessibility built into the structure: semantic HTML, keyboard navigable, low visual noise
+
+<details>
+<summary>Further details about Big Design</summary><br>
+
+Big Design asks us to think about outcomes over outputs – not just "did the tool publish the page?" but "did the intended audience get to publish at all?"
 
 **Docsify-This example:**  
 Traditional publishing workflows store content within the platform... Docsify-This changes the structure: your files stay where you originally store them. It doesn't eliminate every barrier before you start. Getting your file onto GitHub or Codeberg is still a step. But it removes the publishing and maintenance friction that traditionally follows.
@@ -84,11 +94,21 @@ This is a common open-source challenge – Big Design often gets far less attent
 
 Accessibility was baked into that structure from the start: semantic HTML, keyboard navigable, low visual noise. That means an author focused on their content automatically gets an accessible result.
 
+</details>
+
 ### Small Design
 
 The experience within the interface.
 
 **Ask:** Is the experience clear and purposeful at every interaction? Are power features accessible without cluttering the simple path for everyone else?
+
+**Key interface choices in Docsify-This:**
+- Progressive disclosure: essentials first, deeper options when wanted
+- "Show More Page Appearance Options »" reveals advanced controls only when needed
+- Pre-filled, pre-selected URL field: one less click, one less frustration
+
+<details>
+<summary>Further details about Small Design</summary><br>
 
 **Docsify-This example:**  
 Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. [Open Docsify-This.net](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ to see this in action. Key options like page layout and an "Edit this Page" link for GitHub or Codeberg files are immediately available – all changing how the page appears without touching the content itself.
@@ -100,6 +120,8 @@ And then there's Micro Design – the details that seem small but do a lot of wo
 Docsify-This shows two Micro Design details working together: the URL input field arrives pre-filled with a demo URL and already selected — tap once to see the tool work, or paste your own URL to replace it instantly.
 
 One detail at a time. One less click. One less small frustration, multiplied across every person who has ever used the tool.
+
+</details>
 
 ---
 
@@ -117,7 +139,7 @@ One detail at a time. One less click. One less small frustration, multiplied acr
 - ✅ Markdown overview and the publishing friction problem
 - ✅ Big / Small Design as an IxD framework
 
-**Coming up:** Core Design Principles!
+**Coming up:** Design Decisions in Action!
 
 ---
 
@@ -164,9 +186,12 @@ Watch a Markdown file become a styled web page in seconds. That's the moment of 
 > [!NOTE]
 > This activity uses a pre-hosted file – publishing your own content requires a place to store it online, such as GitHub or Codeberg.
 
-### Go Further: Adjust a URL Parameter
+### Go Further
 
-After publishing, try editing a URL parameter directly in your browser's address bar — no need to go back to the Web Page Builder. First, remove the `#/` from the end of the URL before adding a parameter with `&`.
+**How to adjust a URL parameter:**
+- Edit the URL directly in your browser's address bar
+- Remove `#/`, if present, from the end of the URL
+- Add your parameter with & or modify an existing one
 
 Add one of these to the end of your published page URL and press Enter:
 

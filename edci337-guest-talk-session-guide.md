@@ -193,7 +193,7 @@ Notice the URL field is already selected and waiting. (A small but deliberate de
 Watch a Markdown file become a styled web page in seconds. That's the moment of delight – and it's intentional.
 
 > [!IMPORTANT]
-> This activity uses a pre-hosted file – publishing your own content requires a place to store it online, such as GitHub or Codeberg.
+> This activity uses a pre-hosted file – when publishing your own content requires a place to store it online, such as GitHub or Codeberg.
 
 ### Go Further
 

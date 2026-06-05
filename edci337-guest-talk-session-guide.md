@@ -75,7 +75,9 @@ A practical interaction design (IxD) framework to consider where a design proble
 
 The experience around and beyond the interface.
 
-**Ask:** Who may face headwinds or is left out, and why? What structural decisions – workflows, platforms, portability – create friction before anyone even starts using the tool?
+**Ask:**  
+✅ Who may face headwinds or is left out, and why?  
+✅ What structural decisions – workflows, platforms, portability – create friction before anyone even starts using the tool?  
 
 **Key structural choices in Docsify-This:**
 - Your files stay where you store them; Docsify-This reads dynamically
@@ -100,7 +102,9 @@ Accessibility was baked into that structure from the start: semantic HTML, keybo
 
 The experience within the interface.
 
-**Ask:** Is the experience clear and purposeful at every interaction? Are power features accessible without cluttering the simple path for everyone else?
+**Ask:**  
+✅ Is the experience clear and purposeful at every interaction?  
+✅ Are power features accessible without cluttering the simple path for everyone else?  
 
 **Key interface choices in Docsify-This:**
 - Progressive disclosure: essentials first, deeper options when wanted

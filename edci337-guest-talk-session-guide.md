@@ -252,7 +252,7 @@ That question doesn't change whether you're building a publishing tool, designin
 | **Full documentation** | [readme.docsify-this.net](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this/main&homepage=README.md&edit-link=https://github.com/hibbitts-design/docsify-this/blob/main/README.md&sidebar=true&searchbox=true&browser-tab-title=Docsify-This%20ReadMe&edit-link-text=Suggest%20an%20Edit%20on%20GitHub&maxLevel=4&header-weight=600&zoom-images=true&dark-mode=auto&code-copy=true&page-copy-button=true ':target=_blank') ↗ |
 | **Video demos** (30–45 sec each) | [YouTube playlist](https://www.youtube.com/playlist?list=PLk2Bz5X36nXArvm20GbOdjAIornJbWmhe ':target=_blank') ↗ |
 
-### Additional Links
+### Foundations & Frameworks
 
 **All About Markdown**
 

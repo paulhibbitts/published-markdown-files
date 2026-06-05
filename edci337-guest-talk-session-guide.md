@@ -33,7 +33,6 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 
 > [!TIP]
 > This guide works best alongside a browser tab showing live examples – links with ↗ open automatically in a new tab for this purpose.
----
 
 ## 📝 Markdown Overview
 

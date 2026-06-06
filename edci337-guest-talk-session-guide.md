@@ -1,6 +1,6 @@
 # Big Design, Small Design
 
-<h2> How Design Decisions Can Impact Friction — A&nbsp;Docsify-This Case Study </h2>
+## How Design Decisions Can Impact Friction — A&nbsp;Docsify-This Case Study <!-- {docsify-ignore} -->
 
 **Follow along • Try it out • Apply it later**
 

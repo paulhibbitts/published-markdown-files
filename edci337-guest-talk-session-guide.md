@@ -12,7 +12,7 @@
 >
 > – J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
 
-In this session, you'll see how a real-world open publishing tool was shaped by intentional design decisions, and how the same thinking can apply to almost any tool or learning experience you create.
+In this session, you'll see how a real-world open publishing tool was shaped by intentional design decisions, and how the same thinking applies to almost any tool or learning experience you create.
 
 ### What You'll Be Able to Do
 - Identify friction in any digital tool using the Big / Small Design framework

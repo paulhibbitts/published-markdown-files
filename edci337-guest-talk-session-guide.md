@@ -28,7 +28,7 @@ In this session, you'll see how a real-world open publishing tool was shaped by 
 | 📝 Markdown Overview | The promise – and the friction |
 | 🔍 Big Design, Small Design | An Interaction Design (IxD) framework |
 | ▶️ Docsify-This | Design decisions in action |
-| ⚡ Try It Yourself | One URL, one page, right now |
+| ⚡ See It in Action | One URL, one page, right now |
 | 🎯 Resources to Go | What to take with you |
 
 > [!TIP]
@@ -172,7 +172,7 @@ These core design principles guided the development of Docsify-This. As you read
 > [!TIP]
 > Notice that all six principles are Big Design decisions – Docsify-This was shaped primarily by structural choices that make publishing more accessible to more people.
 
-## ⚡ Try It Yourself
+## ⚡ See It in Action
 
 **One URL. One page. Right now.**
 
@@ -184,13 +184,13 @@ These core design principles guided the development of Docsify-This. As you read
 
 Notice the URL field is already selected and waiting. (A small but deliberate detail.)
 
-**2. Paste this Markdown file URL**
+**2. Use this Markdown file URL**
 
 - [github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md ':target=_blank') ↗ <br><button type="button" style="height: 1.8rem; padding: 0 12px; box-sizing: border-box; border: 1px solid #999; border-radius: 8px; background: #f8f8f8; color: #333;" aria-label="Copy Markdown file URL" onclick="event.stopPropagation(); event.preventDefault(); navigator.clipboard.writeText('https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md').then(()=>{const b=this;const orig=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=orig,1500)})">Copy URL</button>
 
 **3. Press "Publish as a Web Page"**
 
-Watch a Markdown file become a styled web page in seconds. That's the moment of delight – and it's intentional.
+A Markdown file becomes a styled web page in seconds. That's the moment of delight – and it's intentional.
 
 > [!NOTE]
 > This activity uses a pre-hosted file – when publishing your own content requires a place to store it online, such as GitHub or Codeberg.
@@ -228,11 +228,11 @@ That question doesn't change whether you're building a publishing tool, designin
 - ✅ Markdown overview and the publishing friction problem
 - ✅ Big / Small Design as an IxD framework
 - ✅ Docsify-This design decisions in action
-- ✅ Publishing your first page and adjusting URL parameters
+- ✅ Docsify-This in action: publishing a page and adjusting URL parameters
 
 **Before you leave:**
 - [ ] Bookmark this guide
-- [ ] Save the Docsify-This URL you created
+- [ ] Bookmark a Docsify-This example URL to revisit later
 
 **After today's session:**
 - [ ] Try the self-directed [Leap into Open Publishing guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/published-markdown-files/main&homepage=leap-into-open-publishing-standalone-guide.md&sidebar=true&maxLevel=2&font-family=Open%20Sans,sans-serif&header-weight=600&dark-mode=auto) ↗ – 20 minutes, hands-on, no setup

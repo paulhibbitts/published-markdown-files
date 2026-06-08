@@ -160,9 +160,6 @@ These core design principles guided the development of Docsify-This. As you read
 | **Support the 5 Rs of OER** | Content stays open, portable, and reusable by others (Retain, Reuse, Revise, Remix, Redistribute) |
 | **Authors Helping Other Authors** | URL parameters can be pre-configured and shared with others |
 
-> [!TIP]
-> Notice that all six principles are Big Design decisions – Docsify-This was shaped primarily by structural choices that make publishing more accessible to more people.
-
 ## ⚡ See It in Action
 
 **One URL. One page. Right now.**

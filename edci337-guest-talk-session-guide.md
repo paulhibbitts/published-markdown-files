@@ -102,7 +102,7 @@ The experience within the interface.
 
 ❓ Are power features accessible without cluttering the simple path for everyone else?  
 
-**Key interface choices in Docsify-This:**
+**Key interface choices in [Docsify-This Web Page Builder](https://docsify-this.net?hide-banner=true ':target=_blank') ↗:**
 - Progressive disclosure: essentials first, deeper options when wanted
 - "Show More Page Appearance Options »" reveals advanced controls only when needed
 - Pre-filled, pre-selected URL field: one less click, one less frustration
@@ -111,7 +111,7 @@ The experience within the interface.
 <summary>Further details about Small Design</summary>
 
 **Docsify-This example:**  
-Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. [Open Docsify-This.net](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ to see this in action. Key options like page layout and an "Edit this Page" link for GitHub or Codeberg files are immediately available – all changing how the page appears without touching the content itself.
+Docsify-This uses progressive disclosure – the Web Page Builder shows the essentials first, with more options available for those who want to go further. Open [Docsify-This.net](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ to see this in action. Key options like page layout and an "Edit this Page" link for GitHub or Codeberg files are immediately available – all changing how the page appears without touching the content itself.
 
 In addition, the **"Show More Page Appearance Options »"** link reveals additional options only when needed.
 

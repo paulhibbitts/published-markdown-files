@@ -6,13 +6,21 @@
 
 ---
 
-**Docsify-This** is an open-source web app that instantly turns online Markdown text files into styled web pages – no web server, no installation, no build process.
+**Docsify-This** is an open-source web app that instantly turns online 
+Markdown files into styled web pages.
 
-> *"I'm blown away just by the fact you put a URL into Docsify-This and then you get a URL back for a web page… done! Take the URL and go. It is so seamless."*
+No web server. No installation. No build process.
+
+> *"I'm blown away just by the fact you put a URL into Docsify-This and 
+> then you get a URL back for a web page… done!"*
 >
-> – J. Groom, Co-founder, Reclaim Hosting (Reclaim Today, Episode 39)
+> – J. Groom, Co-founder, Reclaim Hosting
 
-In this session, you'll see how a real-world open publishing tool was shaped by intentional design decisions, and how the same thinking applies to almost any tool or learning experience you create.
+### Session Overview
+
+In this session, you'll see how intentional design decisions shaped a real-world open 
+publishing tool – and how the same thinking applies to almost any tool 
+or learning experience you create.
 
 ### What You'll Be Able to Do
 - Identify friction in any digital tool using the Big / Small Design framework

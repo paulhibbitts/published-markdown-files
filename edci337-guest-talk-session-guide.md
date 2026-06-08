@@ -20,7 +20,7 @@ No web server. No installation. No build process.
 
 | What We're Covering | What You'll Take Away |
 |---------------------|-----------------------|
-| 📝 Markdown Overview | Why publishing – not writing — is the real barrier |
+| 📝 Markdown Overview | Why publishing – not writing – is the real barrier |
 | 🔍 Big Design, Small Design | A framework for identifying friction at any design level |
 | ▶️ Docsify-This | How structural decisions lower barriers for real users |
 | ⚡ See It in Action | Hands-on: publish a page in under a minute |

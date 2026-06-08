@@ -102,7 +102,7 @@ The experience within the interface.
 
 ❓ Are power features accessible without cluttering the simple path for everyone else?  
 
-**Key interface choices in [Docsify-This Web Page Builder](https://docsify-this.net?hide-banner=true ':target=_blank') ↗:**
+**Key interface choices in [Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗:**
 - Progressive disclosure: essentials first, deeper options when wanted
 - "Show More Page Appearance Options »" reveals advanced controls only when needed
 - Pre-filled, pre-selected URL field: one less click, one less frustration

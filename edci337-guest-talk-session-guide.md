@@ -16,6 +16,8 @@ No web server. No installation. No build process.
 >
 > – J. Groom, Co-founder, Reclaim Hosting
 
+---
+
 ### Session Overview
 
 In this session, you'll see how intentional design decisions shaped a real-world open 

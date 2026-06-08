@@ -16,21 +16,6 @@ No web server. No installation. No build process.
 >
 > – J. Groom, Co-founder, Reclaim Hosting
 
----
-
-### Session Overview
-
-In this session, you'll see how intentional design decisions shaped a real-world open 
-publishing tool – and how the same thinking applies to almost any tool 
-or learning experience you create.
-
-### What You'll Be Able to Do
-- Identify friction in any digital tool using the Big / Small Design framework
-- Recognize how specific interaction design decisions lower barriers for users
-- Experience firsthand how those decisions shaped the final tool
-
----
-
 ## 📍 Session Outline
 
 | What We're Covering | Focus |

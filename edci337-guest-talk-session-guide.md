@@ -62,7 +62,7 @@ A practical interaction design (IxD) framework to consider where a design proble
 
 Friction is one lens – but Big and Small Design also encompass opportunities and the conditions that support people in reaching their goals.
 
-[Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗ is the example here, but the questions this framework asks apply to almost any tool, platform, or learning environment.
+Docsify-This is the example here, but the questions this framework asks apply to almost any tool, platform, or learning environment.
 
 ### Big Design
 
@@ -73,7 +73,7 @@ The experience around and beyond the interface.
 ❓ Who may face headwinds, be left out, or drop off – and why?  
 ❓ What structural decisions – workflows, platforms, portability – create friction before anyone starts?
 
-**Key structural choices in Docsify-This:**
+**Key structural choices in [Docsify-This](https://docsify-this.net?hide-banner=true ':target=_blank') ↗:**
 - Your files stay where you store them; Docsify-This reads dynamically
 - Removes publishing and maintenance friction, not the initial upload step
 - Accessibility built into the structure: semantic HTML, keyboard navigable, low visual noise

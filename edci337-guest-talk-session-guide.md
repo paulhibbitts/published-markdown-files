@@ -61,17 +61,13 @@ Markdown is a lightweight way to format plain text – readable as-is, renderabl
 
 Writing Markdown is quite learnable, but *publishing* it has traditionally required a web server, a build process, or developer-type skills. That's a barrier many educators and open publishers can't cross on their own.
 
+### Publishing with Docsify-This
+- A Markdown file stored online (GitHub, Codeberg, Gist, or any web-accessible URL)
+- That's it – Docsify-This reads it dynamically and does the rest
+
 > *"Keeping all my course notes as plain text files and deploying them through GitHub and Docsify-This is easy and makes my course development a breeze. Plus, I keep all my materials locally, and can reuse them without being reliant on Canvas."*
 >
 > – J. Maxwell, Director & Associate Professor, Publishing Program, Simon Fraser University
-
----
-
-**To publish with Docsify-This, you need:**
-- Your Markdown file stored online (GitHub, Codeberg, Gist, or any web-accessible URL)
-- That's it – Docsify-This reads it dynamically and does the rest
-
----
 
 ## 🔍 Big Design, Small Design
 
